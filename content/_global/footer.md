@@ -3,14 +3,13 @@ fragment = "footer"
 #disabled = true
 date = "2016-09-07"
 weight = 1200
-#background = ""
+background = "dark"
 
 menu_title = "Useful Links"
 
 [asset]
-  title = "Logo Title"
-  image = "logo.svg"
-  text = "Logo Subtext"
+  title = "Computer Engineering Club"
+  image = "WHITE(small).png"
   url = "#"
 +++
 
