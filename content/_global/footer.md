@@ -5,7 +5,7 @@ date = "2016-09-07"
 weight = 1200
 #background = ""
 
-menu_title = "Link Title"
+menu_title = "Useful Links"
 
 [asset]
   title = "Logo Title"
@@ -14,8 +14,11 @@ menu_title = "Link Title"
   url = "#"
 +++
 
-#### Description Title
+#### Club Room Location
 
-Project description such as:
-Open source theme for your next project
-Provided by Okkur Labs
+Engineering Teaching and Learning Center </br>
+ETLC 2-040M (first right in clubs hallway) </br>
+116 St NW </br>
+Edmonton, AB, Canada </br>
+T6G 2V4 </br>
+

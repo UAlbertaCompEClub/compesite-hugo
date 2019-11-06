@@ -79,18 +79,13 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
 
 [[menu.footer]]
-  url = "#"
-  name = "Link"
+  url = "https://www.ualberta.ca/electrical-computer-engineering"
+  name = "ECE Department"
   weight = 10
 
 [[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
+  url = "https://www.ualberta.ca/engineering/study-with-us/co-op"
+  name = "Co-op Office"
   weight = 30
 
 [[menu.copyright_footer]]
@@ -105,12 +100,24 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.footer_social]]
   weight = 20
-  name = "facebook"
+  name = "Facebook"
   pre = "fab fa-facebook-f"
-  url = "#"
+  url = "https://www.facebook.com/compeclub/"
 
 [[menu.footer_social]]
   weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+  name = "Twitter"
+  pre = "fab fa-twitter"
+  url = "https://twitter.com/CompEClub"
+
+[[menu.footer_social]]
+  weight = 40
+  name = "Instagram"
+  pre = "fab fa-instagram"
+  url = "https://www.instagram.com/compeclub/"
+
+[[menu.footer_social]]
+  weight = 50
+  name = "Discord"
+  pre = "fab fa-discord"
+  url = "https://discord.gg/Bvfws6T"
