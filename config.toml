@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Computer Engineering Club"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
