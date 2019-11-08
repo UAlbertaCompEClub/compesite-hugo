@@ -3,8 +3,7 @@ date = "2019-11-06"
 fragment = "paginated_list"
 weight = 100
 
-# TODO: Fix pagination not rendering older pages
-count = 4 # Default value is 10
+#count = 4 # Has no effect when render_pagination is true
 render_pagination = true
 section = "newsletter" # Default value is current section
 #summary = false # Default value is true
