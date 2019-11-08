@@ -5,6 +5,7 @@ title = "Computer Engineering Club"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
+# TODO: Find way set pagination per list and not globally 
 paginate = 4
 
 # Google Analytics tracking
