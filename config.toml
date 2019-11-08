@@ -5,6 +5,7 @@ title = "Computer Engineering Club"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
+paginate = 2
 
 # Google Analytics tracking
 googleAnalytics = ""

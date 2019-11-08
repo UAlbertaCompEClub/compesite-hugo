@@ -1,10 +1,11 @@
 +++
 date = "2019-11-06"
-fragment = "list"
+fragment = "paginated_list"
 weight = 100
 
 # TODO: Fix pagination not rendering older pages
-count = 10 # Default value is 10
+count = 4 # Default value is 10
+render_pagination = true
 section = "newsletter" # Default value is current section
 #summary = false # Default value is true
 # read_more = true # Default value is empty (empty: show when content is truncated, false to never show, true to always show)
