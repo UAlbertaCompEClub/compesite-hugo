@@ -71,19 +71,24 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.main]]
+  url = "/calendar"
+  name = "Event Calendar"
+  weight = 30
+
+[[menu.main]]
   url = "/about"
   name = "About Us"
-  weight = 30
+  weight = 40
 
 [[menu.main]]
   url = "/team"
   name = "Our Team"
-  weight = 40
+  weight = 50
 
 [[menu.main]]
   url = "/contact"
   name = "Contact"
-  weight = 50
+  weight = 60
 
 [[menu.footer]]
   url = "https://www.ualberta.ca/electrical-computer-engineering"
