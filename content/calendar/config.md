@@ -51,9 +51,9 @@ fragment = "config"
   html = """
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      var calendarEl = document.getElementById('calendar');
+      var calendarElement = document.getElementById('calendar');
 
-      var calendar = new FullCalendar.Calendar(calendarEl, {
+      var calendar = new FullCalendar.Calendar(calendarElement, {
         plugins: [ 'bootstrap', 'dayGrid' ],
         themeSystem: 'bootstrap'
       });
