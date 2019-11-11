@@ -12,7 +12,7 @@ paginate = 4
 googleAnalytics = ""
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["html"]
 
 [frontmatter]
 date = ["date", "lastmod"]
