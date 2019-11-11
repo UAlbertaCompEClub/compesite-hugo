@@ -1,0 +1,6 @@
+{
+    "title": "{{ .Title }}",
+    "start": "{{ dateFormat "2006-01-02" .Params.start_datetime }}",
+    "allDay": {{ .Params.allday }},
+    "url": "{{ .Permalink | absURL }}"
+}
