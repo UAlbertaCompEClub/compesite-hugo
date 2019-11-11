@@ -1,5 +1,1 @@
-{{- .Scratch.SetInMap "event" "title" .Title  -}}
-{{- .Scratch.SetInMap "event" "start" (dateFormat "2006-01-02" .Params.start_datetime)  -}}
-{{- .Scratch.SetInMap "event" "allDay" .Params.allday  -}}
-{{- .Scratch.SetInMap "event" "url"  (.Permalink | absURL) -}}
-{{- .Scratch.Get "event" | jsonify -}}
+{{- (partial "helpers/single.event" .) | jsonify -}}
