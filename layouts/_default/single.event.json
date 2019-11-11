@@ -1,1 +1,1 @@
-{{- (partial "helpers/single.event" .) | jsonify -}}
+{{- (partial "helpers/single.event.json" .) | jsonify -}}

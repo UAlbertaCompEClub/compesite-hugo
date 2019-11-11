@@ -1,5 +1,5 @@
 {{- $.Scratch.Set "events" slice -}}
 {{- range where .Data.Pages "Params.fragment" "event" -}}
-    {{- $.Scratch.Add "events" (partial "helpers/single.event" .) -}}
+    {{- $.Scratch.Add "events" (partial "helpers/single.event.json" .) -}}
 {{- end -}}
 {{- $.Scratch.Get "events" | jsonify -}}
