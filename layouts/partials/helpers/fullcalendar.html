@@ -1,0 +1,13 @@
+<script async>
+  document.addEventListener('DOMContentLoaded', function() {
+    var calendarElement = document.getElementById({{- .calendar_element -}});
+
+    var calendar = new FullCalendar.Calendar(calendarElement, {
+      plugins: [ 'bootstrap', 'dayGrid' ],
+      themeSystem: 'bootstrap',
+      events: {{- .eventsdb | absLangURL -}}
+    });
+
+    calendar.render();
+  });
+</script>
