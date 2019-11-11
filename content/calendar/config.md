@@ -2,6 +2,7 @@
 fragment = "config"
 
 # Load Bootstrap and FontAwesome stylesheets
+# Not necessary since done elsewhere in syna theme
 #[[config]]
 #  type = "css"
 #  block = true
@@ -44,23 +45,8 @@ fragment = "config"
   block = true
   resource = "fullcalendar/packages/bootstrap/main.js"
 
-# Initialize Calendar and Render after DOM Loaded
-[[config]]
-  type = "js"
-  block = true
-  html = """
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      var calendarElement = document.getElementById('calendar');
+[[fullcalendar]]
+  calendar_element = "calendar"
+  eventsdb = "events/index.json"
 
-      var calendar = new FullCalendar.Calendar(calendarElement, {
-        plugins: [ 'bootstrap', 'dayGrid' ],
-        themeSystem: 'bootstrap'
-      });
-
-      calendar.render();
-    });
-  </script>
-  """
-  
 +++
