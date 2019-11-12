@@ -27,7 +27,7 @@ lastmod = ["lastmod", ":git", "date"]
   description = "Hardware, Software, and everything in between!"
 
   [params.style]
-    background = "dark"
+    background = "light"
 
   # Theme customizations
   # Assets relative to 'static/'
