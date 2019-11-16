@@ -11,7 +11,8 @@ title = "Contact Information"
 
 **Executive**: exec@compeclub.com \
 **President**: president@compeclub.com \
-**External**: external@compeclub.com \
-**Internal**: internal@compeclub.com \
-**Social**: social@compeclub.com \
-**Finance**: finance@compeclub.com \
+**VP External**: external@compeclub.com \
+**VP Internal**: internal@compeclub.com \
+**VP Social**: social@compeclub.com \
+**VP Finance**: finance@compeclub.com \
+**AVP Hackathon**: hacked@compeclub.com \
