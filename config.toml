@@ -1,27 +1,33 @@
 # Site settings
 baseurl = "/"
 languageCode = "en-us"
-title = "Okkur - Syna"
+title = "Computer Engineering Club"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
+# TODO: Find way set pagination per list and not globally 
+paginate = 4
 
 # Google Analytics tracking
 googleAnalytics = ""
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["html"]
+
+[outputFormats]
+  [outputFormats.event]
+    mediatype ="application/json"
 
 [frontmatter]
 date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
 
 [params]
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
+  name = "Computer Engineering Club"
+  description = "Hardware, Software, and everything in between!"
 
   [params.style]
-    #background = "secondary"
+    background = "light"
 
   # Theme customizations
   # Assets relative to 'static/'
@@ -53,7 +59,7 @@ lastmod = ["lastmod", ":git", "date"]
     warning = "#fdf314"
     danger = "#dc1200"
     light = "#f8f9fa"
-    dark = "#343a40"
+    dark = "#19450e"
 
 # main/prepend/postpend menus are displayed in nav fragment.
 # Keep an eye out for updates. These will be moved out to make navbar more
@@ -64,28 +70,38 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
-  url = "/about"
-  name = "About Us"
+  url = "/calendar"
+  name = "Event Calendar"
   weight = 20
 
 [[menu.main]]
-  url = "#contact"
-  name = "Contact"
+  url = "/newsletter"
+  name = "Newsletter"
   weight = 30
 
+[[menu.main]]
+  url = "/about"
+  name = "About Us"
+  weight = 40
+
+[[menu.main]]
+  url = "/team"
+  name = "Our Team"
+  weight = 50
+
+[[menu.main]]
+  url = "/contact"
+  name = "Contact"
+  weight = 60
+
 [[menu.footer]]
-  url = "#"
-  name = "Link"
+  url = "https://www.ualberta.ca/electrical-computer-engineering"
+  name = "ECE Department"
   weight = 10
 
 [[menu.footer]]
-  url = "#"
-  name = "Long Link"
-  weight = 30
-
-[[menu.footer]]
-  url = "#"
-  name = "Tiny Link"
+  url = "https://www.ualberta.ca/engineering/study-with-us/co-op"
+  name = "Co-op Office"
   weight = 30
 
 [[menu.copyright_footer]]
@@ -100,12 +116,24 @@ lastmod = ["lastmod", ":git", "date"]
 
 [[menu.footer_social]]
   weight = 20
-  name = "facebook"
+  name = "Facebook"
   pre = "fab fa-facebook-f"
-  url = "#"
+  url = "https://www.facebook.com/compeclub/"
 
 [[menu.footer_social]]
   weight = 30
-  name = "linkedin"
-  pre = "fab fa-linkedin-in"
-  url = "#"
+  name = "Twitter"
+  pre = "fab fa-twitter"
+  url = "https://twitter.com/CompEClub"
+
+[[menu.footer_social]]
+  weight = 40
+  name = "Instagram"
+  pre = "fab fa-instagram"
+  url = "https://www.instagram.com/compeclub/"
+
+[[menu.footer_social]]
+  weight = 50
+  name = "Discord"
+  pre = "fab fa-discord"
+  url = "https://discord.gg/Bvfws6T"
