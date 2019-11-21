@@ -95,13 +95,13 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 60
 
 [[menu.footer]]
-  url = "https://www.ualberta.ca/electrical-computer-engineering"
-  name = "ECE Department"
+  url = "https://hackedbeta.compeclub.com/"
+  name = "HackED Beta Website"
   weight = 10
 
 [[menu.footer]]
-  url = "https://www.ualberta.ca/engineering/study-with-us/co-op"
-  name = "Co-op Office"
+  url = "https://hacked.compeclub.com/"
+  name = "HackED Website"
   weight = 30
 
 [[menu.copyright_footer]]
