@@ -1,21 +1,13 @@
-{{- $scratch := newScratch -}}
-{{- with .plugins  -}}
-  {{- $scratch.SetInMap "obj" "plugins" . -}}
-{{- end -}}
-{{- with .themeSystem -}}
-  {{- $scratch.SetInMap "obj" "themeSystem" . -}}
-{{- end -}}
-{{- with .eventsURL -}}
-  {{- $scratch.SetInMap "obj" "events" (. | absLangURL) -}}
-{{- end -}}
+{{- $eventsObj := (dict "events" (.calendarObj.events | absLangURL)) -}}
+{{- $obj := (merge .calendarObj $eventsObj) -}}
 
-{{/*  {{- printf "%#v" ($scratch.Get "obj" | jsonify) -}}  */}}
+{{/*  {{- printf "%#v" ($obj) -}}  */}}
 
 <script async>
   document.addEventListener('DOMContentLoaded', function() {
     var calendarElement = document.getElementById({{- .calendarElement -}});
 
-    var calendar = new FullCalendar.Calendar(calendarElement, {{- $scratch.Get "obj" | jsonify | safeJS -}});
+    var calendar = new FullCalendar.Calendar(calendarElement, {{- $obj | jsonify | safeJS -}});
 
     calendar.render();
   });

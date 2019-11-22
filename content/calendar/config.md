@@ -51,4 +51,8 @@ fragment = "config"
   plugins = ["bootstrap", "dayGrid"]
   themeSystem = "bootstrap"
 
+  [fullcalendar.calendarObj]
+    events = "events/index.json"
+    plugins = ["bootstrap", "dayGrid"]
+    themeSystem = "bootstrap"
 +++
