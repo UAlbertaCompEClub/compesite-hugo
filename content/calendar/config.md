@@ -47,9 +47,6 @@ fragment = "config"
 
 [[fullcalendar]]
   calendarElement = "eventCalendar"
-  eventsURL = "events/index.json"
-  plugins = ["bootstrap", "dayGrid"]
-  themeSystem = "bootstrap"
 
   [fullcalendar.calendarObj]
     events = "events/index.json"
