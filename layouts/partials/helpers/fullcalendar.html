@@ -1,12 +1,21 @@
+{{- $scratch := newScratch -}}
+{{- with .plugins  -}}
+  {{- $scratch.SetInMap "obj" "plugins" . -}}
+{{- end -}}
+{{- with .themeSystem -}}
+  {{- $scratch.SetInMap "obj" "themeSystem" . -}}
+{{- end -}}
+{{- with .eventsURL -}}
+  {{- $scratch.SetInMap "obj" "events" (. | absLangURL) -}}
+{{- end -}}
+
+{{/*  {{- printf "%#v" ($scratch.Get "obj" | jsonify) -}}  */}}
+
 <script async>
   document.addEventListener('DOMContentLoaded', function() {
-    var calendarElement = document.getElementById({{- .calendar_element -}});
+    var calendarElement = document.getElementById({{- .calendarElement -}});
 
-    var calendar = new FullCalendar.Calendar(calendarElement, {
-      plugins: [ 'bootstrap', 'dayGrid' ],
-      themeSystem: 'bootstrap',
-      events: {{- .eventsdb | absLangURL -}}
-    });
+    var calendar = new FullCalendar.Calendar(calendarElement, {{- $scratch.Get "obj" | jsonify | safeJS -}});
 
     calendar.render();
   });
