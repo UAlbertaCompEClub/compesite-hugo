@@ -46,7 +46,7 @@ fragment = "config"
   resource = "fullcalendar/packages/bootstrap/main.js"
 
 [[fullcalendar]]
-  calendarElement = "calendar"
+  calendarElement = "eventCalendar"
   eventsURL = "events/index.json"
   plugins = ["bootstrap", "dayGrid"]
   themeSystem = "bootstrap"
