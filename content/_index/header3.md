@@ -1,7 +1,7 @@
 +++
 date = "2018-07-13"
 fragment = "header"
-weight = 190
+weight = 210
 
 background = "dark"
 title = "Upcoming Events"
