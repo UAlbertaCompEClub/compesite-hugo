@@ -22,7 +22,7 @@ fragment = "config"
 [[config]]
   type = "css"
   block = true
-  resource = "fullcalendar/packages/daygrid/main.css"
+  resource = "fullcalendar/packages/list/main.css"
 
 [[config]]
   type = "css"
@@ -38,7 +38,7 @@ fragment = "config"
 [[config]]
   type = "js"
   block = true
-  resource = "fullcalendar/packages/daygrid/main.js"
+  resource = "fullcalendar/packages/list/main.js"
 
 [[config]]
   type = "js"
@@ -46,10 +46,16 @@ fragment = "config"
   resource = "fullcalendar/packages/bootstrap/main.js"
 
 [[fullcalendar]]
-  calendarElement = "eventCalendar"
+  calendarElement = "upcomingEventsCalendar"
 
-  [fullcalendar.calendarObj]
+  [fullcalendar.calendarObj]    
     events = "events/index.json"
-    plugins = ["bootstrap", "dayGrid"]
+    plugins = ["bootstrap", "list"]
     themeSystem = "bootstrap"
+    header = false
+    defaultView = "list"
+    [fullcalendar.calendarObj.views]
+        [fullcalendar.calendarObj.views.list]
+            [fullcalendar.calendarObj.views.list.duration]
+                days = 240
 +++

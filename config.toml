@@ -27,7 +27,7 @@ lastmod = ["lastmod", ":git", "date"]
   description = "Hardware, Software, and everything in between!"
 
   [params.style]
-    background = "light"
+    background = "dark"
 
   # Theme customizations
   # Assets relative to 'static/'
@@ -58,7 +58,7 @@ lastmod = ["lastmod", ":git", "date"]
     info = "#00c9dc"
     warning = "#fdf314"
     danger = "#dc1200"
-    light = "#f8f9fa"
+    light = "#FFFFFF"
     dark = "#19450e"
 
 # main/prepend/postpend menus are displayed in nav fragment.
@@ -79,29 +79,29 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Newsletter"
   weight = 30
 
-[[menu.main]]
-  url = "/about"
-  name = "About Us"
-  weight = 40
+# [[menu.main]]
+#   url = "/about"
+#   name = "About Us"
+#   weight = 40
 
 [[menu.main]]
   url = "/team"
   name = "Our Team"
   weight = 50
 
-[[menu.main]]
-  url = "/contact"
-  name = "Contact"
-  weight = 60
+# [[menu.main]]
+#   url = "/contact"
+#   name = "Contact"
+#   weight = 60
 
 [[menu.footer]]
-  url = "https://www.ualberta.ca/electrical-computer-engineering"
-  name = "ECE Department"
+  url = "https://hackedbeta.compeclub.com/"
+  name = "HackED Beta Website"
   weight = 10
 
 [[menu.footer]]
-  url = "https://www.ualberta.ca/engineering/study-with-us/co-op"
-  name = "Co-op Office"
+  url = "https://hacked.compeclub.com/"
+  name = "HackED Website"
   weight = 30
 
 [[menu.copyright_footer]]

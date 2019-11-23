@@ -1,5 +1,8 @@
-{{ .Scratch.SetInMap "event" "title" .Title  }}
+{{ .Scratch.SetInMap "event" "title" .Title }}
 {{ .Scratch.SetInMap "event" "start" (dateFormat "2006-01-02T15:04:05" .Params.start) }}
-{{ .Scratch.SetInMap "event" "end" (dateFormat "2006-01-02T15:04:05" .Params.end) }}
+{{ if (isset .Params "end") }}
+    {{ .Scratch.SetInMap "event" "end" (dateFormat "2006-01-02T15:04:05" .Params.end) }}
+{{ end }}
 {{ .Scratch.SetInMap "event" "url"  (.Permalink | absLangURL) }}
+{{ .Scratch.SetInMap "event" "allday"  (.Params.allday | default false ) }}
 {{ return .Scratch.Get "event"}}
