@@ -89,10 +89,10 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Our Team"
   weight = 50
 
-[[menu.main]]
-  url = "/contact"
-  name = "Contact"
-  weight = 60
+# [[menu.main]]
+#   url = "/contact"
+#   name = "Contact"
+#   weight = 60
 
 [[menu.footer]]
   url = "https://hackedbeta.compeclub.com/"
