@@ -1,12 +1,12 @@
 +++
 fragment = "item"
-disabled = true
+#disabled = false
 date = "2019-11-20"
-weight = 180
+weight = 190
 #background = "secondary"
 align = "right"
 
-title = "Grad"
+title = "Board Games Night"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
@@ -15,4 +15,4 @@ title = "Grad"
 [asset]
   image = "boardgames-night.jpg"
 +++
-Co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/qa/)!
+Stressed with midterms? Decompress with a few board games and meet new people at the same time!
