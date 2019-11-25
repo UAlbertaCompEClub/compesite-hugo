@@ -1,6 +1,6 @@
 +++
 fragment = "item"
-disabled = true
+disabled = false
 date = "2019-11-20"
 weight = 180
 #background = "secondary"
@@ -13,6 +13,6 @@ title = "Grad"
 #post = "Showcasing Syna"
 
 [asset]
-  image = "boardgames-night.jpg"
+  image = "grad_crop.jpeg"
 +++
 Co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/qa/)!
