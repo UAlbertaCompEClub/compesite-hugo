@@ -1,5 +1,5 @@
 # Site settings
-# baseurl = "/" # Keep this commented for proper base urls for RSS feeds
+baseurl = "/"
 languageCode = "en-us"
 title = "Computer Engineering Club"
 theme = "syna"
