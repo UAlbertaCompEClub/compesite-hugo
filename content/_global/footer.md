@@ -15,9 +15,9 @@ menu_title = "Useful Links"
 
 #### Club Room Location
 
-Engineering Teaching and Learning Center </br>
-ETLC 2-040M (first right in clubs hallway) </br>
-116 St NW </br>
-Edmonton, AB, Canada </br>
-T6G 2V4 </br>
+Engineering Teaching and Learning Center
+ETLC 2-040M (first right in clubs hallway)
+116 St NW
+Edmonton, AB, Canada
+T6G 2V4
 
