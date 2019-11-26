@@ -9,7 +9,7 @@ menu_title = "Useful Links"
 
 [asset]
   title = "Computer Engineering Club"
-  image = "WHITE(small).png"
+  image = "compe-logo-white.svg"
   url = "#"
 +++
 
