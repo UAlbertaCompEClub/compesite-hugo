@@ -12,6 +12,6 @@ background = "dark"
 
 # Branding options
 [asset]
-  image = "WHITE(small).png"
+  image = "compe-logo-white.svg"
   text = "Syna"
 +++
