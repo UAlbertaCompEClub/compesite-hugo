@@ -6,7 +6,7 @@ theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
 # TODO: Find way set pagination per list and not globally 
-paginate = 4
+paginate = 10
 
 # Google Analytics tracking
 googleAnalytics = ""
