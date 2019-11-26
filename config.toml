@@ -137,3 +137,7 @@ lastmod = ["lastmod", ":git", "date"]
   name = "Discord"
   pre = "fab fa-discord"
   url = "https://discord.gg/Bvfws6T"
+
+# Markdown Processor Settings
+[blackfriday]
+  extensions = ["hardLineBreak"]
