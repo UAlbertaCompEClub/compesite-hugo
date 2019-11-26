@@ -10,6 +10,11 @@ title = "Computer Engineering Club"
 subtitle = "Hardware, Software, and Everything in Between!"
 minHeight = "500px"
 
+[asset]
+  image = "compe-logo-white-text-3-row.svg"
+  height = "750px"
+  width = "750px"
+
 [header]
   image = "cover.jpg"
 
