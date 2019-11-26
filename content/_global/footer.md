@@ -9,15 +9,24 @@ menu_title = "Useful Links"
 
 [asset]
   title = "Computer Engineering Club"
-  image = "WHITE(small).png"
+  image = "compe-logo-white.svg"
   url = "#"
 +++
 
-#### Club Room Location
+### Club Room Location
 
 Engineering Teaching and Learning Center
 ETLC 2-040M (first right in clubs hallway)
 116 St NW
 Edmonton, AB, Canada
 T6G 2V4
+
+### Executive Contact Info
+**Executive:** exec@compeclub.com
+**President:** president@compeclub.com
+**VP External:** external@compeclub.com
+**VP Internal:** internal@compeclub.com
+**VP Social:** social@compeclub.com
+**VP Finance:** finance@compeclub.com
+**AVP Hackathon:** hacked@compeclub.com
 

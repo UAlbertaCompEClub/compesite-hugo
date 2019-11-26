@@ -9,11 +9,17 @@ weight = 240
 #subtitle = ""
 +++
 
-If you have any questions or you just want to hang out, come drop the club room! \
-You can find the club room in the clubs hallway to the right of the GEER store. \
-We are the first room on the right!
-</br>
-</br>
+If you have any questions or you just want to hang out, come drop the club room! You can find the club room in the clubs hallway to the right of the GEER store. We are the first room on the right!
+<br/>
+
+#### Club Room Location
+
+Engineering Teaching and Learning Center
+ETLC 2-040M (first right in clubs hallway)
+116 St NW
+Edmonton, AB, Canada
+T6G 2V4
+<br/>
 
 #### Executives Contact Information
 
