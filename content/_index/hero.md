@@ -12,11 +12,6 @@ subtitle = "Hardware, Software, and Everything in Between!"
 [header]
   image = "cover.jpg"
 
-[asset]
-  image = "GREEN_transparent.png"
-  width = "500px" # optional - will default to image width
-  height = "150px" # optional - will default to image height
-
 #[[buttons]]
 #  text = "Button"
 #  url = "#"
