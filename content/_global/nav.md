@@ -13,5 +13,5 @@ background = "dark"
 # Branding options
 [asset]
   image = "compe-logo-white.svg"
-  text = "Syna"
+  text = "Computer Engineering Club"
 +++
