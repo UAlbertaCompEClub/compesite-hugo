@@ -1,12 +1,12 @@
 # Site settings
-baseurl = "/"
+# baseurl = "/" # Keep this commented for proper base urls for RSS feeds
 languageCode = "en-us"
 title = "Computer Engineering Club"
 theme = "syna"
 enableGitInfo = true
 version = "0.15.2"
 # TODO: Find way set pagination per list and not globally 
-paginate = 4
+paginate = 10
 
 # Google Analytics tracking
 googleAnalytics = ""
