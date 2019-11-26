@@ -8,6 +8,7 @@ particles = false
 
 title = "Computer Engineering Club"
 subtitle = "Hardware, Software, and Everything in Between!"
+minHeight = "500px"
 
 [header]
   image = "cover.jpg"
