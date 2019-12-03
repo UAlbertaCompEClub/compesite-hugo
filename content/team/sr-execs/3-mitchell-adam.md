@@ -6,5 +6,5 @@ date = "2019-11-05"
 position = "VP Finance (Fall)"
 
 [asset]
-  image = "skiptheselfie_head_crop.jpg"
+  image = "execs/mitchell-adam.jpg"
 +++
