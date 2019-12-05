@@ -23,10 +23,10 @@ T6G 2V4
 
 #### Executives Contact Information
 
-**Executive:** exec@compeclub.com \
-**President:** president@compeclub.com \
-**VP External:** external@compeclub.com \
-**VP Internal:** internal@compeclub.com \
-**VP Social:** social@compeclub.com \
-**VP Finance:** finance@compeclub.com \
-**AVP Hackathon:** hacked@compeclub.com
+**Executive:** <exec@compeclub.com>
+**President:** <president@compeclub.com>
+**VP External:** <external@compeclub.com>
+**VP Internal:** <internal@compeclub.com>
+**VP Social:** <social@compeclub.com>
+**VP Finance:** <finance@compeclub.com>
+**AVP Hackathon:** <hacked@compeclub.com>
