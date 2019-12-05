@@ -15,4 +15,4 @@ title = "Grad"
 [asset]
   image = "grad-photobooth.jpg"
 +++
-Co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/qa/)!
+Co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/)!
