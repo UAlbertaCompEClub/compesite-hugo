@@ -1,10 +1,10 @@
 +++
-title = "Ruimin"
+title = "Ruimin Chen"
 weight = 110
 date = "2019-11-05"
 
 position = "Marketing Rep"
 
 [asset]
-    image = "skiptheselfie_head_crop.jpg"
+    image = "execs/ruimin-chen.jpg"
 +++
