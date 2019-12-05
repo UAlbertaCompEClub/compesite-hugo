@@ -13,6 +13,6 @@ title = "Grad"
 #post = "Showcasing Syna"
 
 [asset]
-  image = "grad_crop.jpeg"
+  image = "grad-photobooth.jpg"
 +++
 Co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/qa/)!
