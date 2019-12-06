@@ -6,13 +6,15 @@ weight = 180
 #background = "secondary"
 align = "right"
 
-title = "Grad"
+title = "ECE Grad Banquet"
 
 # Subtitle pre and post item
 #pre = "Awesome screenshot"
 #post = "Showcasing Syna"
 
 [asset]
-  image = "grad-photobooth.jpg"
+  image = "grad-photobooth.jpg" 
 +++
-Co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/)!
+Celebrate your freedom with your friends and classmates in the ECE Department! Listen to speeches by alumni and faculty! Drink and dance the night away! Play with costumes at our photobooth! 
+
+Proudly co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/)!
