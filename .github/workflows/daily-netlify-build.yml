@@ -1,0 +1,12 @@
+name: Scheduled build
+on:
+  schedule:
+    - cron: '30 15 * * *' # Every day at 3:30 PM UTC or 8:30 AM MST
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger our build webhook on Netlify
+        run: curl -s -X POST ${BUILDHOOK}
+        env:
+          BUILDHOOK: ${{ secrets.DEPLOY_NETLIFY_DAILY_BUILDHOOK }}
