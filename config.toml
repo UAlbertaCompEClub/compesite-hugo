@@ -139,5 +139,8 @@ lastmod = ["lastmod", ":git", "date"]
   url = "https://discord.gg/Bvfws6T"
 
 # Markdown Processor Settings
-[blackfriday]
-  extensions = ["hardLineBreak"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true # Needed for inline HTML to render properly (see https://gohugo.io/news/0.60.0-relnotes/)
