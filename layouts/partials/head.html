@@ -85,6 +85,14 @@
       {{ if .Site.Params.unsafeEvents }}{{ print "enabledUnsafeEvents: true," | safeJS }}{{ end }}
     };
   </script>
+  {{/*  Mailchimp Sign-up Pop-up  */}}
+  <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false" async></script>
+  <script type="text/javascript" async> 
+    window.dojoRequire(["mojo/signup-forms/Loader"], 
+    function(L) { 
+      L.start({"baseUrl":"mc.us9.list-manage.com","uuid":"25f7181ad1da5b9eef1f7deea","lid":"5989c94bb5","uniqueMethods":true}) 
+    })
+  </script>
   {{- $script_template := resources.Get "scripts/syna-head.js" -}}
   {{- $script := $script_template | resources.Minify | resources.Fingerprint }}
   <script {{- safeHTMLAttr (printf " src=\"%s\"" ($script.RelPermalink | relLangURL)) -}}></script>
