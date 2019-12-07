@@ -14,7 +14,7 @@
    width="1283.6875"
    height="500"
    viewBox="0 0 1283.6875 500"
-   sodipodi:docname="compe-logo-white-with-text.svg"
+   sodipodi:docname="compe-logo-white-text-3-row.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata872">
@@ -24,7 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,8 +46,8 @@
      inkscape:pagecheckerboard="true"
      showborder="false"
      inkscape:zoom="0.69053397"
-     inkscape:cx="164.04023"
-     inkscape:cy="177.26782"
+     inkscape:cx="54.164632"
+     inkscape:cy="3.4892585"
      inkscape:window-x="76"
      inkscape:window-y="52"
      inkscape:window-maximized="1"
@@ -71,22 +71,22 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.33333588px;line-height:1.25;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        x="307.0625"
-       y="-343.07205"
+       y="-315.07205"
        id="text889"><tspan
          sodipodi:role="line"
          id="tspan887"
          x="307.0625"
-         y="-343.07205"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:128px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Computer </tspan><tspan
+         y="-315.07205"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.33333588px;font-family:Raleway;-inkscape-font-specification:'Raleway, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">COMPUTER </tspan><tspan
          sodipodi:role="line"
          x="307.0625"
-         y="-183.07205"
+         y="-178.40538"
          id="tspan891"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:128px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Engineering </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.33333588px;font-family:Raleway;-inkscape-font-specification:'Raleway, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">ENGINEERING </tspan><tspan
          sodipodi:role="line"
          x="307.0625"
-         y="-23.072052"
+         y="-41.738712"
          id="tspan893"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:128px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">Club</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.33333588px;font-family:Raleway;-inkscape-font-specification:'Raleway, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1">CLUB</tspan></text>
   </g>
 </svg>
