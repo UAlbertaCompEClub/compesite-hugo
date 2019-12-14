@@ -19,4 +19,5 @@ How do you create a resume and cover letter that stands out from the 100+ other 
 Attendees should bring a current copy of both their documents and note changes they should make to align with best practices and to avoid being screened out by hiring managers.
 
 How do you create a resume and cover letter that stands out from the 100+ other applicants and gets you short-listed for an interview? One word: customize.
+
 Please [RSVP to the event on EventBrite](https://www.eventbrite.ca/e/compe-week-writing-effective-resumes-cover-letters-registration-85996480789). Registration is recommended but optional.
