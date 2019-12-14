@@ -6,5 +6,5 @@ date = "2019-11-05"
 position = "Grad Rep"
 
 [asset]
-    image = "execs/default-photo.png"
+    image = "execs/blake-sakaluk.jpg"
 +++
