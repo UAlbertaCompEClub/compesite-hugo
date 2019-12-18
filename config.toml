@@ -105,14 +105,14 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
+  url = "https://www.ualberta.ca/electrical-computer-engineering"
+  name = "ECE Department Website"
   weight = 10
 
-[[menu.copyright_footer]]
-  url = "#"
-  name = "Another Link"
-  weight = 30
+#[[menu.copyright_footer]]
+#  url = "#"
+#  name = "Another Link"
+#  weight = 30
 
 [[menu.footer_social]]
   weight = 20

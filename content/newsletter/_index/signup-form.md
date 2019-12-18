@@ -1,8 +1,9 @@
 +++
+date = "2019-12-16"
 fragment = "content"
-date = "2019-12-17"
-weight = 240
-#background = ""
+weight = 75 
+
+background = "white"
 +++
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
