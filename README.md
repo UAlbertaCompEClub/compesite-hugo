@@ -1,41 +1,67 @@
-# Syna Start
+# About
+The Comptuer Engineering Club website is built using [Hugo](https://gohugo.io/), a very powerful and efficient static site generator. The site is based on the [Syna](https://github.com/okkur/syna) theme for Hugo. Our site is deployed on [Netlify](https://www.netlify.com/). 
 
-This is a sample project that can be used to jump start your Syna project. It uses Syna theme and Hugo with sample files that introduce two simple pages, one for landing and one for the about page.
+# Installing Dependencies
 
-## Prerequisites
-- [Install Git](https://git-scm.com/downloads).
-- [Install Go](https://golang.org/doc/install).
-- [Install Hugo](https://gohugo.io/getting-started/installing/). Depending on your system, this might require Scoop, Choclatey, or other software.
+## Git
+[Install Git](https://git-scm.com/downloads).
 
-## Installation
+## Hugo
+The extended edition of Hugo is needed since the website uses SASS for styling.
 
-To start using this starter you need to clone or download this repository and update it's git submodules (Syna theme is added as a submodule).
+### Linux
+
+#### Snap
+
+`snap install hugo --channel=extended`
+
+#### Debian/Ubuntu
+This command installs the extended edition by default.
+
+`sudo apt-get install hugo`
+
+#### Other
+
+[Check the official installatoin instructions to see if hugo is packaged for your distro](https://gohugo.io/getting-started/installing/#linux). Otherwise, grab the extended hugo binaries from the [Github Releases](https://github.com/gohugoio/hugo/releases).
+
+### Windows
+If you are on a Windows machine and use [Chocolatey](https://chocolatey.org/) for package management, you can install Hugo with the following one-liner:
+
+`choco install hugo-extended -confirm`
+
+### OSX
+
+Installing hugo using homebrew is the easiest method. [Visit the Homebrew website for installation instructions](https://brew.sh/). Then, enter the following command to install hugo (extended edition is installed by default):
+
+`brew install hugo`
+
+[Visit the offical Hugo installation instructions for alternative installation methods](https://gohugo.io/getting-started/installing/#macos).
+
+
+# Clone repo and initalize submodules
+First clone the repo:
+
+`git clone https://github.com/UAlbertaCompEClub/compesite-hugo.git && cd compesite-hugo`
+
+Hugo themes are stored in the repo as [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules), so you will have to initalize all submodules in order to use any themes.
+
+`git submodule update --init --recursive`
+
+# Usage
+
+To start the website, run the following command:
 
 ```
-git clone https://git.okkur.org/syna-start project-name && cd project-name
-git submodule init
-git submodule update
+$ hugo server -D -F --disableFastRender
 ```
 
-## Usage
+This command starts a local webserver, usually http://localhost:1313/, and builds all draft pages (-D option), pages with future publish dates (-F), and disables the fast rendered in order to trigger full rebuilds on every change (useful to ensure RSS feeds and json arrays are fully regenerated).
 
-To start your website run the following commands:
+During the development process, if something breaks while you make a change try to first restart the server to see if that fixes it.
 
-**Development**:
-```
-$ hugo server -D # This command starts the Hugo server and watches the site directory for changes.
-```
+# Directory Structure
 
-**Production**:
-```
-$ hugo # This command generates the static website in the public/ directory. If you do not have a site, then it gives errors about missing layout files.
-```
-
-> Prerequisites: Go, Hugo
-
-## Directory Structure
-
-We're using the standard directory structure using content pages.
+We're using the standard [directory structure](https://gohugo.io/getting-started/directory-structure/) using content pages.
 
 ```
 ├─ content/
@@ -55,7 +81,3 @@ images in their own fragment directory, page directory and `static/images`
 directory. Read our [image fallthrough documentation](https://syna.okkur.org/docs/image-fallthrough/) for more info.
 
 Further details read our [full documentation](https://syna.okkur.org/docs).
-
-## First Steps
-
-Open index.md and type. The changes are visible almost immediately at http://localhost:1313/.
