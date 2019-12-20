@@ -29,4 +29,3 @@ T6G 2V4
 **VP Internal:** <internal@compeclub.com>
 **VP Social:** <social@compeclub.com>
 **VP Finance:** <finance@compeclub.com>
-*
