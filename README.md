@@ -7,7 +7,7 @@ The Comptuer Engineering Club website is built using [Hugo](https://gohugo.io/),
 [Install Git](https://git-scm.com/downloads).
 
 ## Hugo
-The extended edition of Hugo is needed since the website uses SASS for styling.
+The extended edition of Hugo is needed since the website uses SASS for styling.
 
 ### Linux
 
