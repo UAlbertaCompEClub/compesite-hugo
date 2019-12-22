@@ -10,10 +10,6 @@ read_more = true
 display_date = true
 date = {{ .Date }}
 
-summary = """
-SUMMARY
-"""
-
 [sidebar]
   align = "right"
 +++
@@ -26,7 +22,7 @@ SUMMARY
 * Highlight 3
 <br/>
 
-# 1)  ITEM 1
+### 1)  ITEM 1
 <!--
 Note, not all of these fields (who, what, etc.) are necessary.
 Remove unnecessary fields. Remove this comment as well.
@@ -37,7 +33,7 @@ Remove unnecessary fields. Remove this comment as well.
 **WHAT:** INSERT TEXT HERE
 <br/>
 
-# 2)  ITEM 2
+### 2)  ITEM 2
 <!--
 Note, not all of these fields (who, what, etc.) are necessary.
 Remove unnecessary fields. Remove this comment as well.
@@ -48,7 +44,7 @@ Remove unnecessary fields. Remove this comment as well.
 **WHAT:** INSERT TEXT HERE
 <br/>
 
-# 3)  ITEM 1
+### 3)  ITEM 1
 <!--
 Note, not all of these fields (who, what, etc.) are necessary.
 Remove unnecessary fields. Remove this comment as well.
