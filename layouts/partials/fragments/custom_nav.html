@@ -222,5 +222,14 @@
   //     resultsContainer.classList.remove('show');
   //   }
   // });
+
+    // document.getElementById("search-query-{{ .Name }}").addEventListener("keyup", function() {
+    //     console.log("keyup!!!");
+    // });
+    //
+    // document.getElementById("search-query-{{ .Name }}").addEventListener("input", function(e) {
+    //     console.log("input!!!");
+    // });
 </script>
+    <script type="text/javascript" src="{{ "js/custom-search.js" | absLangURL }}" searchInputId="search-query-{{ .Name }}" searchIndexUrl="{{ "index.json" | absLangURL }}"></script>
 {{- end -}}
