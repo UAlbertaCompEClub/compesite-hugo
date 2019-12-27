@@ -231,5 +231,9 @@
     //     console.log("input!!!");
     // });
 </script>
-    <script type="text/javascript" src="{{ "js/custom-search.js" | absLangURL }}" searchInputId="search-query-{{ .Name }}" searchIndexUrl="{{ "index.json" | absLangURL }}"></script>
+<script src=" {{ "js/flexsearch.min.js" | absLangURL }} "></script>
+<script type="text/javascript" src="{{ "js/lodash.min.js" | absLangURL }}"></script>
+<script type="text/javascript" src="{{ "js/custom-search.js" | absLangURL }}" 
+    searchInputId="search-query-{{ .Name }}" 
+    searchIndexUrl="{{ "index.json" | absLangURL }}"></script>
 {{- end -}}

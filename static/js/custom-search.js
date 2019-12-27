@@ -2,21 +2,6 @@
 
 var currentScript = document.currentScript;
 
-function debounce(func, wait) {
-  var timeout;
-
-  return function () {
-    var context = this;
-    var args = arguments;
-    clearTimeout(timeout);
-
-    timeout = setTimeout(function () {
-      timeout = null;
-      func.apply(context, args);
-    }, wait);
-  };
-}
-
 async function downloadSearchIndex(url) {
   try {
     const response = await fetch(url);
@@ -35,19 +20,30 @@ async function initSearch() {
   console.log("In initSearch()!");
 
   var searchIndexUrl = currentScript.getAttribute("searchIndexUrl");
-  console.log(searchIndexUrl);
+  var data = await downloadSearchIndex(searchIndexUrl); 
+  console.log("data: ");
+  console.log(data);
 
-  var searchIndex = await downloadSearchIndex(searchIndexUrl); 
-  console.log("searchIndex: ");
-  console.log(searchIndex);
+  var index = new FlexSearch({
+    doc: {
+        id: "permalink",
+        field: [
+            "title",
+            "tags",
+            "categories",
+            "contents"
+        ]
+    }
+  });
+  index.add(data);
 
   var searchInputId = currentScript.getAttribute("searchInputId");
-
   var searchInput = document.getElementById(searchInputId);
 
-  searchInput.addEventListener("keyup", debounce(function() {
-      console.log("keyup--custom search.js!");
-  }, 150));
+  searchInput.addEventListener("keyup", _.debounce(async function() {
+    var results = await index.search(searchInput.value);
+    console.log(results);
+  }, 500));
 
 }
 
