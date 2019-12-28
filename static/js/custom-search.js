@@ -110,13 +110,6 @@ function makeTeaser(body, terms) {
   return teaser.join("");
 }
 
-function formatSearchResultItem(item, terms) {
-  return '<div class="search-results__item">'
-  + `<a href="${item.permalink}">${item.title}</a>`
-  + `<div>${makeTeaser(item.contents, terms)}</div>`
-  + '</div>';
-}
-
 async function downloadSearchIndex(url) {
   try {
     const response = await fetch(url);
@@ -158,32 +151,8 @@ async function initSearch() {
   var searchResultsItems = document.querySelector(".search-results__items");
   var MAX_ITEMS = 10;
 
-  var currentTerm = "";
   searchInput.addEventListener("keyup", _.debounce(async function() {
-    // var results = await index.search(searchInput.value.trim());
-    // console.log(results);   
-    var term = searchInput.value.trim();
-    if (term === currentTerm || !index) {
-      return;
-    }
-    searchResults.style.display = term === "" ? "none" : "block";
-    searchResultsItems.innerHTML = "";
-    if (term === "") {
-      return;
-    }
-
-    var results = await index.search(term, MAX_ITEMS);
-    if (results.length === 0) {
-      searchResults.style.display = "none";
-      return;
-    }
-
-    currentTerm = term;
-    for (var i = 0; i < results.length; i++) {
-      var item = document.createElement("li");
-      item.innerHTML = formatSearchResultItem(results[i], term.split(" "));
-      searchResultsItems.appendChild(item);
-    }
+    console.log("here async closure!!!");
   }, 500));
 
 }

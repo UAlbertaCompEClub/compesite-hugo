@@ -92,15 +92,15 @@
                 <button class="btn btn-primary" title="{{- i18n "search.search" | default "Search" -}}"><i class="fa fa-search"></i></button>
               </div>
             </div>
-          <!-- </form> -->
-          <!-- <div class="search&#45;results&#45;container"> -->
-          <!--   <div class="col p&#45;0"> -->
-          <!--     <div id="search&#45;results&#45;{{ .Name }}" class="col px&#45;0 results"></div> -->
-          <!--   </div> -->
-          <!-- </div> -->
-            <div class="search-results">
-              <div class="search-results__items"></div>
+          </form>
+          <div class="search-results-container">
+            <div class="col p-0">
+              <div id="search-results-{{ .Name }}" class="col px-0 results"></div>
             </div>
+          </div>
+            <!-- <div class="search&#45;results"> -->
+            <!--   <div class="search&#45;results__items"></div> -->
+            <!-- </div> -->
         </div>
       {{- end }}
       {{- if .Site.IsMultiLingual -}}
@@ -225,14 +225,6 @@
   //     resultsContainer.classList.remove('show');
   //   }
   // });
-
-    // document.getElementById("search-query-{{ .Name }}").addEventListener("keyup", function() {
-    //     console.log("keyup!!!");
-    // });
-    //
-    // document.getElementById("search-query-{{ .Name }}").addEventListener("input", function(e) {
-    //     console.log("input!!!");
-    // });
 </script>
 <script src=" {{ "js/flexsearch.min.js" | absLangURL }} "></script>
 <script type="text/javascript" src="{{ "js/lodash.min.js" | absLangURL }}"></script>
