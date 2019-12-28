@@ -93,7 +93,7 @@
               </div>
             </div>
           </form>
-          <div class="search-results-container">
+          <div id="search-results-container-{{ .Name }}" class="search-results-container">
             <div class="col p-0">
               <div id="search-results-{{ .Name }}" class="col px-0 results"></div>
             </div>
@@ -231,5 +231,10 @@
 <script type="text/javascript" src="{{ "js/stemmer.min.js" | absLangURL }}"></script>
 <script type="text/javascript" src="{{ "js/custom-search.js" | absLangURL }}" 
     searchInputId="search-query-{{ .Name }}" 
+    resultsContainerId="search-results-container-{{ .Name }}"
+    resultsListId="search-results-{{ .Name }}"
+    resultsTemplateId="search-result-template-{{ .Name}}"
+    noResultsTemplateId="search-no-results-template-{{ .Name }}"
+    emptyTemplateId="search-empty-template-{{ .Name }}"
     searchIndexUrl="{{ "index.json" | absLangURL }}"></script>
 {{- end -}}

@@ -12,7 +12,7 @@ var currentScript = document.currentScript;
 // sum of the values of the words within the window. Then use the window that got the
 // maximum sum. If there are multiple maximas, then get the last one.
 // Enclose the terms in <b>.
-function makeTeaser(body, terms) {
+function makeTeaser(contents, terms) {
   var TERM_WEIGHT = 40;
   var NORMAL_WORD_WEIGHT = 2;
   var FIRST_WORD_WEIGHT = 8;
@@ -26,7 +26,7 @@ function makeTeaser(body, terms) {
   var weighted = []; // contains elements of ["word", weight, index_in_document]
 
   // split in sentences, then words
-  var sentences = body.toLowerCase().split(". ");
+  var sentences = contents.toLowerCase().split(". ");
 
   for (var i in sentences) {
     var words = sentences[i].split(" ");
@@ -54,7 +54,7 @@ function makeTeaser(body, terms) {
   }
 
   if (weighted.length === 0) {
-    return body;
+    return contents;
   }
 
   var windowWeights = [];
@@ -91,7 +91,7 @@ function makeTeaser(body, terms) {
     var word = weighted[i];
     if (startIndex < word[2]) {
       // missing text from index to start of `word`
-      teaser.push(body.substring(startIndex, word[2]));
+      teaser.push(contents.substring(startIndex, word[2]));
       startIndex = word[2];
     }
 
@@ -100,7 +100,7 @@ function makeTeaser(body, terms) {
       teaser.push("<b>");
     }
     startIndex = word[2] + word[0].length;
-    teaser.push(body.substring(word[2], startIndex));
+    teaser.push(contents.substring(word[2], startIndex));
 
     if (word[1] === TERM_WEIGHT) {
       teaser.push("</b>");
@@ -124,6 +124,10 @@ async function downloadSearchIndex(url) {
   }  
 }
 
+function populateResults(results, query) {
+
+}
+
 async function initSearch() {
   console.log("In initSearch()!");
 
@@ -145,14 +149,29 @@ async function initSearch() {
   });
   index.add(data);
 
-  var searchInputId = currentScript.getAttribute("searchInputId");
-  var searchInput = document.getElementById(searchInputId);
-  var searchResults = document.querySelector(".search-results");
-  var searchResultsItems = document.querySelector(".search-results__items");
+  var searchInput = document.getElementById(currentScript.getAttribute("searchInputId"));
+  var resultsContainer = document.getElementById(currentScript.getAttribute("resultsContainerId"));
+  var resultsList = document.getElementById(currentScript.getAttribute("resultsListId"));
+  var resultsTemplate = document.getElementById(currentScript.getAttribute("resultsTemplateId"));
+  var noResultsTemplate = document.getElementById(currentScript.getAttribute("noResultsTemplateId"));
+  var emptyTemplate = document.getElementById(currentScript.getAttribute("emptyTemplateId"));
+ 
+  console.log("Stuff: ");
+  console.log(searchInput);
+  console.log(resultsContainer);
+  console.log(resultsList);
+  console.log(resultsTemplate);
+  console.log(noResultsTemplate);
+  console.log(emptyTemplate);
+  console.log("End stuff");
+
   var MAX_ITEMS = 10;
 
   searchInput.addEventListener("keyup", _.debounce(async function() {
-    console.log("here async closure!!!");
+    let query = searchInput.value.trim();
+    let results = await index.search(query, MAX_ITEMS);
+    console.log("results: ", results);
+    populateResults(results, query);
   }, 500));
 
 }
