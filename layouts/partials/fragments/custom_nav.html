@@ -200,32 +200,6 @@
 </div>
 {{- if .Params.search }}
 {{ partial "helpers/search-result-template.html" (dict "self" $self "name" .Name "message_class" "p-2" "background" $bg) }}
-<script>
-  // var fragmentName = "{{ .Name }}";
-  // window.syna.api.register('search', 'search-' + fragmentName, {
-  //   searchInput: '#search-query-{{ .Name }}',
-  //   resultsContainer: '#search-results-{{ .Name }}',
-  //   template: '#search-result-template-{{ .Name }}',
-  //   noResults: '#search-no-results-template-{{ .Name }}',
-  //   empty: '#search-empty-template-{{ .Name }}',
-  // });
-
-  // var resultsContainer = document.querySelector('.search-results-container');
-  // document.querySelector('#search-query-{{ .Name }}').addEventListener('input', function(e) {
-  //   if (e.target.value.length) {
-  //     resultsContainer.classList.add('show');
-  //   } else {
-  //     resultsContainer.classList.remove('show');
-  //   }
-  // });
-  //
-  // document.addEventListener('click', function(e) {
-  //   if (!document.querySelector('.search-container').contains(e.target)) {
-  //     document.querySelector('#search-query-{{ .Name }}').value = '';
-  //     resultsContainer.classList.remove('show');
-  //   }
-  // });
-</script>
 <script src=" {{ "js/flexsearch.min.js" | absLangURL }} "></script>
 <script type="text/javascript" src="{{ "js/lodash.min.js" | absLangURL }}"></script>
 <script type="text/javascript" src="{{ "js/stemmer.min.js" | absLangURL }}"></script>
