@@ -70,19 +70,19 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 10
 
 [[menu.main]]
+  url = "/faq"
+  name = "FAQ"
+  weight = 20 
+
+[[menu.main]]
   url = "/calendar"
   name = "Event Calendar"
-  weight = 20
+  weight = 30
 
 [[menu.main]]
   url = "/newsletter"
   name = "Newsletter"
-  weight = 30
-
-# [[menu.main]]
-#   url = "/about"
-#   name = "About Us"
-#   weight = 40
+  weight = 40
 
 [[menu.main]]
   url = "/team"
