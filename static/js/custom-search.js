@@ -11,7 +11,7 @@ var currentScript = document.currentScript;
 // Then use a sliding window with a constant number of words and count the
 // sum of the values of the words within the window. Then use the window that got the
 // maximum sum. If there are multiple maximas, then get the last one.
-// Enclose the terms in <b>.
+// Enclose the terms in <mark>.
 function makeTeaser(contents, terms) {
   if (!contents) {
     return "";
@@ -99,15 +99,15 @@ function makeTeaser(contents, terms) {
       startIndex = word[2];
     }
 
-    // add <em/> around search terms
+    // add <mark> around search terms
     if (word[1] === TERM_WEIGHT) {
-      teaser.push("<b>");
+      teaser.push("<mark>");
     }
     startIndex = word[2] + word[0].length;
     teaser.push(contents.substring(word[2], startIndex));
 
     if (word[1] === TERM_WEIGHT) {
-      teaser.push("</b>");
+      teaser.push("</mark>");
     }
   }
   teaser.push("…");
