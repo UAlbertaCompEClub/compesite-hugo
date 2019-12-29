@@ -1,10 +1,8 @@
 +++
 title = "Ishaat Chowdhury"
-weight = 40
-date = "2019-11-05"
-
 position = "VP Finance (Winter)"
+weight = 40
 
 [asset]
-  image = "execs/ishaat-chowdhury.jpg"
+image = "execs/ishaat-chowdhury.jpg"
 +++

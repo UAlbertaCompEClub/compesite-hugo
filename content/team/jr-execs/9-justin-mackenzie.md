@@ -1,10 +1,8 @@
 +++
 title = "Justin MacKenzie"
-weight = 90
-date = "2019-11-05"
-
 position = "PR Rep"
+weight = 90
 
 [asset]
-    image = "execs/justin-mackenzie.jpg"
+image = "execs/justin-mackenzie.jpg"
 +++

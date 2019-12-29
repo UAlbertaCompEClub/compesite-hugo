@@ -1,10 +1,8 @@
 +++
 title = "Usama Ali"
-weight = 80
-date = "2019-11-05"
-
 position = "Geer Week Rep"
+weight = 80
 
 [asset]
-    image = "execs/default-photo.png"
+image = "execs/default-photo.png"
 +++

@@ -1,10 +1,8 @@
 +++
 title = "Erik Lewis"
-weight = 90
-date = "2019-11-05"
-
 position = "VP Social (Winter)"
+weight = 90
 
 [asset]
-  image = "execs/erik-lewis.jpg"
+image = "execs/erik-lewis.jpg"
 +++

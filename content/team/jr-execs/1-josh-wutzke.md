@@ -1,10 +1,8 @@
 +++
 title = "Josh Wutzke"
-weight = 10
-date = "2019-11-05"
-
 position = "2nd Year Rep"
+weight = 10
 
 [asset]
-    image = "execs/josh-wutzke.jpg"
+image = "execs/josh-wutzke.jpg"
 +++

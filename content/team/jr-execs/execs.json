@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Josh Wutzke",
+        "position": "2nd Year Rep",
+        "image": "execs/josh-wutzke.jpg"
+    },
+    {
+        "name": "Jehanzeb Mirza",
+        "position": "3rd Year Rep",
+        "image": "execs/default-photo.png"
+    },
+    {
+        "name": "Petar Cvijovic",
+        "position": "4th Year Rep",
+        "image": "execs/petar-cvijovic.jpg"
+    },
+    {
+        "name": "Haren",
+        "position": "Co-op Rep",
+        "image": "execs/default-photo.png"
+    },
+    {
+        "name": "Blake Sakaluk",
+        "position": "Grad Rep",
+        "image": "execs/blake-sakaluk.jpg"
+    },
+    {
+        "name": "Seyed Daneshmand",
+        "position": "Merchandise Rep",
+        "image": "execs/seyed-daneshmand.jpg"
+    },
+    {
+        "name": "Paige Lekach",
+        "position": "Geer Week Rep",
+        "image": "execs/paige-lekach.jpg"
+    },
+    {
+        "name": "Usama Ali",
+        "position": "Geer Week Rep",
+        "image": "execs/default-photo.png"
+    },
+    {
+        "name": "Justin MacKenzie",
+        "position": "PR Rep",
+        "image": "execs/justin-mackenzie.jpg"
+    },
+    {
+        "name": "Rafaella Gra\u00f1a",
+        "position": "Marketing Rep",
+        "image": "execs/rafaella-grana.jpg"
+    },
+    {
+        "name": "Ruimin Chen",
+        "position": "Marketing Rep",
+        "image": "execs/ruimin-chen.jpg"
+    },
+    {
+        "name": "Arun Woosaree",
+        "position": "Office Rep",
+        "image": "execs/arun-woosaree.jpg"
+    },
+    {
+        "name": "Juyoung Kim",
+        "position": "Stock Rep",
+        "image": "execs/juyoung-kim.jpg"
+    },
+    {
+        "name": "Imaad Khalid",
+        "position": "Stock Rep",
+        "image": "execs/imaad-khalid.jpg"
+    }
+]

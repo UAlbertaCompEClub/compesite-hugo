@@ -1,10 +1,8 @@
 +++
 title = "Arun Woosaree"
-weight = 120
-date = "2019-11-05"
-
 position = "Office Rep"
+weight = 120
 
 [asset]
-    image = "execs/arun-woosaree.jpg"
+image = "execs/arun-woosaree.jpg"
 +++

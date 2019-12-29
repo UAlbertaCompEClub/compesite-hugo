@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Navras Kamal",
+        "position": "Co-President",
+        "image": "execs/navras-kamal.jpg"
+    },
+    {
+        "name": "Alex Chen",
+        "position": "Co-President",
+        "image": "execs/alex-chen.jpg"
+    },
+    {
+        "name": "Mitchell Adam",
+        "position": "VP Finance (Fall)",
+        "image": "execs/mitchell-adam.jpg"
+    },
+    {
+        "name": "Ishaat Chowdhury",
+        "position": "VP Finance (Winter)",
+        "image": "execs/ishaat-chowdhury.jpg"
+    },
+    {
+        "name": "Archit Siby",
+        "position": "VP External (Fall)",
+        "image": "execs/archit-siby.jpg"
+    },
+    {
+        "name": "Tim Tran",
+        "position": "VP External (Winter)",
+        "image": "execs/tim-tran.jpg"
+    },
+    {
+        "name": "Tharidu Witharana",
+        "position": "VP Internal",
+        "image": "execs/tharidu-witharana.jpg"
+    },
+    {
+        "name": "Samuel Lojpur",
+        "position": "VP Social (Fall)",
+        "image": "execs/samuel-lojpur.jpg"
+    },
+    {
+        "name": "Erik Lewis",
+        "position": "VP Social (Winter)",
+        "image": "execs/erik-lewis.jpg"
+    },
+    {
+        "name": "Kevin de Haan",
+        "position": "AVP Hackathon",
+        "image": "execs/kevin-de-haan.jpg"
+    }
+]

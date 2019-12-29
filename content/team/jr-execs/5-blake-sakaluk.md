@@ -1,10 +1,8 @@
 +++
 title = "Blake Sakaluk"
-weight = 50
-date = "2019-11-05"
-
 position = "Grad Rep"
+weight = 50
 
 [asset]
-    image = "execs/blake-sakaluk.jpg"
+image = "execs/blake-sakaluk.jpg"
 +++
