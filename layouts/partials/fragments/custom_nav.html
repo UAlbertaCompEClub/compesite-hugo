@@ -85,15 +85,15 @@
       </ul>
       {{- if .Params.search }}
         <div class="search-container position-relative">
-          <form action="{{ "search" | absURL }}" class="my-0">
+          <!-- <form action="{{ "search" | absURL }}" class="my&#45;0"> -->
             <div class="input-group my-0">
-              <input type="text" class="form-control py-1" id="search-query-{{ .Name }}" name="s" placeholder="{{- i18n "navbar.search" | default "Search..." -}}">
+              <input type="search" class="form-control py-1" id="search-query-{{ .Name }}" name="s" placeholder="{{- i18n "navbar.search" | default "Search..." -}}">
               <div class="input-group-append">
                 <button class="btn btn-primary" title="{{- i18n "search.search" | default "Search" -}}"><i class="fa fa-search"></i></button>
               </div>
             </div>
           </form>
-          <div class="search-results-container">
+          <div id="search-results-container-{{ .Name }}" class="search-results-container">
             <div class="col p-0">
               <div id="search-results-{{ .Name }}" class="col px-0 results"></div>
             </div>
@@ -197,30 +197,15 @@
 </div>
 {{- if .Params.search }}
 {{ partial "helpers/search-result-template.html" (dict "self" $self "name" .Name "message_class" "p-2" "background" $bg) }}
-<script>
-  var fragmentName = "{{ .Name }}";
-  window.syna.api.register('search', 'search-' + fragmentName, {
-    searchInput: '#search-query-{{ .Name }}',
-    resultsContainer: '#search-results-{{ .Name }}',
-    template: '#search-result-template-{{ .Name }}',
-    noResults: '#search-no-results-template-{{ .Name }}',
-    empty: '#search-empty-template-{{ .Name }}',
-  });
-
-  var resultsContainer = document.querySelector('.search-results-container');
-  document.querySelector('#search-query-{{ .Name }}').addEventListener('input', function(e) {
-    if (e.target.value.length) {
-      resultsContainer.classList.add('show');
-    } else {
-      resultsContainer.classList.remove('show');
-    }
-  });
-
-  document.addEventListener('click', function(e) {
-    if (!document.querySelector('.search-container').contains(e.target)) {
-      document.querySelector('#search-query-{{ .Name }}').value = '';
-      resultsContainer.classList.remove('show');
-    }
-  });
-</script>
+<script src=" {{ "js/flexsearch.min.js" | absLangURL }} "></script>
+<script type="text/javascript" src="{{ "js/lodash.min.js" | absLangURL }}"></script>
+<script type="text/javascript" src="{{ "js/stemmer.min.js" | absLangURL }}"></script>
+<script type="text/javascript" src="{{ "js/custom-search.js" | absLangURL }}" 
+    searchInputId="search-query-{{ .Name }}" 
+    resultsContainerId="search-results-container-{{ .Name }}"
+    resultsListId="search-results-{{ .Name }}"
+    resultsTemplateId="search-result-template-{{ .Name}}"
+    noResultsTemplateId="search-no-results-template-{{ .Name }}"
+    emptyTemplateId="search-empty-template-{{ .Name }}"
+    searchIndexUrl="{{ "index.json" | absLangURL }}"></script>
 {{- end -}}

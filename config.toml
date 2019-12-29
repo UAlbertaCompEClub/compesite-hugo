@@ -12,7 +12,7 @@ paginate = 10
 googleAnalytics = ""
 
 [outputs]
-  home = ["html"]
+  home = ["html", "JSON"]
 
 [outputFormats]
   [outputFormats.event]
