@@ -1,10 +1,8 @@
 +++
 title = "Juyoung Kim"
-weight = 130
-date = "2019-11-05"
-
 position = "Stock Rep"
+weight = 130
 
 [asset]
-    image = "execs/juyoung-kim.jpg"
+image = "execs/juyoung-kim.jpg"
 +++

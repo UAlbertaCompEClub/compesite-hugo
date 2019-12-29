@@ -1,10 +1,8 @@
 +++
 title = "Haren"
-weight = 40
-date = "2019-11-05"
-
 position = "Co-op Rep"
+weight = 40
 
 [asset]
-    image = "execs/default-photo.png"
+image = "execs/default-photo.png"
 +++

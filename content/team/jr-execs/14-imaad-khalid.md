@@ -1,10 +1,8 @@
 +++
 title = "Imaad Khalid"
-weight = 140
-date = "2019-11-05"
-
 position = "Stock Rep"
+weight = 140
 
 [asset]
-    image = "execs/imaad-khalid.jpg"
+image = "execs/imaad-khalid.jpg"
 +++
