@@ -8,12 +8,12 @@
   <p class="{{ .message_class }}">{{- i18n "search.no_results" | default "No matches found" }}</p>
 </script>
 <script id="search-result-template-{{ .name }}" type="text/x-js-template">
-  <a href="${permalink}" id="summary-${key}" class="result ignore-color-change">
+  <a href="${permalink}" id="summary-${index}" class="result ignore-color-change">
     <div class="p-2">
       <h5>${title}</h5>
       <p class="m-0 
         {{- partial "helpers/text-color.html" (dict "self" $self "light" "secondary") -}}
-      ">${snippet}</p>
+      ">${teaser}</p>
     </div>
   </a>
 </script>
