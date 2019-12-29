@@ -33,13 +33,11 @@ def main():
         for index, exec_obj in enumerate(execs_array, start=1):
             parts = [str(index)] + exec_obj["name"].lower().split()
             fname = "-".join(parts) + ".md"
-            print(fname)
-            date = exec_obj["date"] if "date" in exec_obj else datetime.today().strftime("%Y-%m-%d") 
+            print(f"Writing {fname}...")
             front_matter = {
                 "title": exec_obj["name"],
                 "position": exec_obj["position"],
                 "weight": index * 10,
-                "date": date,
                 "asset": {
                     "image": exec_obj["image"],
                 },
