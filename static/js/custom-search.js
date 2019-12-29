@@ -2,6 +2,15 @@
 
 var currentScript = document.currentScript;
 
+function stripHtml(html)
+{
+   var tmp = document.createElement("DIV");
+   tmp.innerHTML = html;
+   let text = tmp.textContent || tmp.innerText || "";
+   tmp.outerHTML = "";
+   return text; 
+}
+
 // Taken from mdbook
 // The strategy is as follows:
 // First, assign a value to each word in the document:
@@ -16,6 +25,9 @@ function makeTeaser(contents, terms) {
   if (!contents) {
     return "";
   }
+  // TODO: Links within the contents will break highlighting of the search results.
+  //       So the html is converted to plain text first. This is a hack!!! Fix this!!
+  contents = stripHtml(contents);
 
   var TERM_WEIGHT = 40;
   var NORMAL_WORD_WEIGHT = 2;
