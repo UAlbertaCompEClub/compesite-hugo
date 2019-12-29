@@ -141,8 +141,6 @@ async function downloadSearchIndex(url) {
 }
 
 function populateResults(results, query, resultsList, resultsTemplate) {
-  console.log("In populateResults()!!!");
-
   let finalHTML = "";
   results.forEach((result, index) => {
     finalHTML += window.syna.api.renderTemplate(resultsTemplate.innerHTML, {
@@ -153,16 +151,11 @@ function populateResults(results, query, resultsList, resultsTemplate) {
     }); 
   });
   resultsList.innerHTML = finalHTML;
-  console.log("finalHTML: ", finalHTML);
 }
 
 async function initSearch() {
-  console.log("In initSearch()!");
-
   let searchIndexUrl = currentScript.getAttribute("searchIndexUrl");
   let data = await downloadSearchIndex(searchIndexUrl); 
-  console.log("data: ");
-  console.log(data);
 
   let index = new FlexSearch({
     doc: {
@@ -184,15 +177,6 @@ async function initSearch() {
   let noResultsTemplate = document.getElementById(currentScript.getAttribute("noResultsTemplateId"));
   let emptyTemplate = document.getElementById(currentScript.getAttribute("emptyTemplateId"));
  
-  console.log("Stuff: ");
-  console.log(searchInput);
-  console.log(resultsContainer);
-  console.log(resultsList);
-  console.log(resultsTemplate);
-  console.log(noResultsTemplate);
-  console.log(emptyTemplate);
-  console.log("End stuff");
-
   let MAX_ITEMS = 10;
 
   document.addEventListener("click", e => {
@@ -206,9 +190,7 @@ async function initSearch() {
 
   searchInput.addEventListener("keyup", _.debounce(async function() {
     let query = searchInput.value.trim();
-    console.log("query: ", query);
     if (!query) {
-      console.log("invalid query!");
       resultsList.innerHTML = window.syna.api.renderTemplate(emptyTemplate.innerHTML, {});
       if (resultsContainer.classList.contains("show")) {
         resultsContainer.classList.remove("show");
@@ -225,12 +207,10 @@ async function initSearch() {
       arr[index].date = new Date(arr[index].date); 
     });
     results = results.sort((a, b) => b.date - a.date);
-    console.log("results: ", results);
 
     if (results.length > 0) {
       populateResults(results, query, resultsList, resultsTemplate);
     } else {
-      console.log("No results!");
       resultsList.innerHTML = window.syna.api.renderTemplate(noResultsTemplate.innerHTML, {});
     }
 
