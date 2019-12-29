@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Josh Wutzke",
+        "position": "2nd Year Rep",
+        "image": "execs/josh-wutzke.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Jehanzeb Mirza",
+        "position": "3rd Year Rep",
+        "image": "execs/default-photo.png",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Petar Cvijovic",
+        "position": "4th Year Rep",
+        "image": "execs/petar-cvijovic.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Haren",
+        "position": "Co-op Rep",
+        "image": "execs/default-photo.png",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Blake Sakaluk",
+        "position": "Grad Rep",
+        "image": "execs/blake-sakaluk.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Seyed Daneshmand",
+        "position": "Merchandise Rep",
+        "image": "execs/seyed-daneshmand.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Paige Lekach",
+        "position": "Geer Week Rep",
+        "image": "execs/paige-lekach.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Usama Ali",
+        "position": "Geer Week Rep",
+        "image": "execs/default-photo.png",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Justin MacKenzie",
+        "position": "PR Rep",
+        "image": "execs/justin-mackenzie.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Rafaella Gra\u00f1a",
+        "position": "Marketing Rep",
+        "image": "execs/rafaella-grana.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Ruimin Chen",
+        "position": "Marketing Rep",
+        "image": "execs/ruimin-chen.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Arun Woosaree",
+        "position": "Office Rep",
+        "image": "execs/arun-woosaree.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Juyoung Kim",
+        "position": "Stock Rep",
+        "image": "execs/juyoung-kim.jpg",
+        "date": "2019-11-05"
+    },
+    {
+        "name": "Imaad Khalid",
+        "position": "Stock Rep",
+        "image": "execs/imaad-khalid.jpg",
+        "date": "2019-11-05"
+    }
+]
