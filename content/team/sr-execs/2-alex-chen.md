@@ -1,10 +1,8 @@
 +++
 title = "Alex Chen"
-weight = 20
-date = "2019-11-05"
-
 position = "Co-President"
+weight = 20
 
 [asset]
-    image = "execs/alex-chen.jpg"
+image = "execs/alex-chen.jpg"
 +++

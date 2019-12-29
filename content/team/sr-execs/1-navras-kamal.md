@@ -1,10 +1,8 @@
 +++
 title = "Navras Kamal"
-weight = 10
-date = "2019-11-05"
-
 position = "Co-President"
+weight = 10
 
 [asset]
-    image = "execs/navras-kamal.jpg"
+image = "execs/navras-kamal.jpg"
 +++

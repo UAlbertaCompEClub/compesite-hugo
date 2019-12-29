@@ -1,10 +1,8 @@
 +++
 title = "Tim Tran"
-weight = 60
-date = "2019-11-05"
-
 position = "VP External (Winter)"
+weight = 60
 
 [asset]
-  image = "execs/tim-tran.jpg"
+image = "execs/tim-tran.jpg"
 +++
