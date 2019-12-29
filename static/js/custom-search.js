@@ -4,10 +4,10 @@ var currentScript = document.currentScript;
 
 function stripHtml(html)
 {
-   var tmp = document.createElement("DIV");
+   var tmp = document.createElement("div");
    tmp.innerHTML = html;
    let text = tmp.textContent || tmp.innerText || "";
-   tmp.outerHTML = "";
+   tmp.remove();
    return text; 
 }
 
