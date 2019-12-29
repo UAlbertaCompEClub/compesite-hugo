@@ -219,7 +219,12 @@ async function initSearch() {
     if (!resultsContainer.classList.contains("show")) {
       resultsContainer.classList.add("show");
     }
+
     let results = await index.search(query, MAX_ITEMS);
+    results.forEach(function(elem, index, arr) {
+      arr[index].date = new Date(arr[index].date); 
+    });
+    results = results.sort((a, b) => b.date - a.date);
     console.log("results: ", results);
 
     if (results.length > 0) {
