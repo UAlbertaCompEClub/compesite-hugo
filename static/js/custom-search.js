@@ -13,6 +13,10 @@ var currentScript = document.currentScript;
 // maximum sum. If there are multiple maximas, then get the last one.
 // Enclose the terms in <b>.
 function makeTeaser(contents, terms) {
+  if (!contents) {
+    return "";
+  }
+
   var TERM_WEIGHT = 40;
   var NORMAL_WORD_WEIGHT = 2;
   var FIRST_WORD_WEIGHT = 8;
@@ -124,19 +128,31 @@ async function downloadSearchIndex(url) {
   }  
 }
 
-function populateResults(results, query) {
+function populateResults(results, query, resultsList, resultsTemplate) {
+  console.log("In populateResults()!!!");
 
+  let finalHTML = "";
+  results.forEach((result, index) => {
+    finalHTML += window.syna.api.renderTemplate(resultsTemplate.innerHTML, {
+        index: index,
+        title: result.title,
+        permalink: result.permalink,
+        teaser: makeTeaser(result.contents, query.split(" ")),
+    }); 
+  });
+  resultsList.innerHTML = finalHTML;
+  console.log("finalHTML: ", finalHTML);
 }
 
 async function initSearch() {
   console.log("In initSearch()!");
 
-  var searchIndexUrl = currentScript.getAttribute("searchIndexUrl");
-  var data = await downloadSearchIndex(searchIndexUrl); 
+  let searchIndexUrl = currentScript.getAttribute("searchIndexUrl");
+  let data = await downloadSearchIndex(searchIndexUrl); 
   console.log("data: ");
   console.log(data);
 
-  var index = new FlexSearch({
+  let index = new FlexSearch({
     doc: {
         id: "permalink",
         field: [
@@ -149,12 +165,12 @@ async function initSearch() {
   });
   index.add(data);
 
-  var searchInput = document.getElementById(currentScript.getAttribute("searchInputId"));
-  var resultsContainer = document.getElementById(currentScript.getAttribute("resultsContainerId"));
-  var resultsList = document.getElementById(currentScript.getAttribute("resultsListId"));
-  var resultsTemplate = document.getElementById(currentScript.getAttribute("resultsTemplateId"));
-  var noResultsTemplate = document.getElementById(currentScript.getAttribute("noResultsTemplateId"));
-  var emptyTemplate = document.getElementById(currentScript.getAttribute("emptyTemplateId"));
+  let searchInput = document.getElementById(currentScript.getAttribute("searchInputId"));
+  let resultsContainer = document.getElementById(currentScript.getAttribute("resultsContainerId"));
+  let resultsList = document.getElementById(currentScript.getAttribute("resultsListId"));
+  let resultsTemplate = document.getElementById(currentScript.getAttribute("resultsTemplateId"));
+  let noResultsTemplate = document.getElementById(currentScript.getAttribute("noResultsTemplateId"));
+  let emptyTemplate = document.getElementById(currentScript.getAttribute("emptyTemplateId"));
  
   console.log("Stuff: ");
   console.log(searchInput);
@@ -165,13 +181,42 @@ async function initSearch() {
   console.log(emptyTemplate);
   console.log("End stuff");
 
-  var MAX_ITEMS = 10;
+  let MAX_ITEMS = 10;
+
+  document.addEventListener("click", e => {
+    if (!resultsContainer.contains(e.target)) {
+        searchInput.value = "";
+        if (resultsContainer.classList.contains("show")) {
+            resultsContainer.classList.remove("show");
+        }
+    }
+  })
 
   searchInput.addEventListener("keyup", _.debounce(async function() {
     let query = searchInput.value.trim();
+    console.log("query: ", query);
+    if (!query) {
+      console.log("invalid query!");
+      resultsList.innerHTML = window.syna.api.renderTemplate(emptyTemplate.innerHTML, {});
+      if (resultsContainer.classList.contains("show")) {
+        resultsContainer.classList.remove("show");
+      }
+     return;
+    }
+   
+    if (!resultsContainer.classList.contains("show")) {
+      resultsContainer.classList.add("show");
+    }
     let results = await index.search(query, MAX_ITEMS);
     console.log("results: ", results);
-    populateResults(results, query);
+
+    if (results.length > 0) {
+      populateResults(results, query, resultsList, resultsTemplate);
+    } else {
+      console.log("No results!");
+      resultsList.innerHTML = window.syna.api.renderTemplate(noResultsTemplate.innerHTML, {});
+    }
+
   }, 500));
 
 }
