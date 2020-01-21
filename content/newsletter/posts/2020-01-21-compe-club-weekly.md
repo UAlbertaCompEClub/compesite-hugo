@@ -8,7 +8,7 @@ title_align = "left"
 read_more = true
 
 display_date = true
-date = 2020-01-21T12:30:06-05:00
+date = 2020-01-21T00:00:00-07:00
 
 [sidebar]
   align = "right"
