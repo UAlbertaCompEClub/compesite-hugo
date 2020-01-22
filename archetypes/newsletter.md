@@ -8,7 +8,7 @@ title_align = "left"
 read_more = true
 
 display_date = true
-date = {{ .Date }}
+date = {{ dateFormat "2006-01-02" .Date }}
 
 [sidebar]
   align = "right"
