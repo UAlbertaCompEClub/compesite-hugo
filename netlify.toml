@@ -2,6 +2,9 @@
 publish = "public"
 command = "hugo --gc --minify -b $URL"
 
+[build.environment]
+TZ = "America/Edmonton"
+
 [context.production.environment]
 HUGO_VERSION = "0.60.1"
 HUGO_ENV = "production"
