@@ -58,7 +58,7 @@ You'll learn some important security terms you can impress your friends with, as
 **WHO:** Anyone interested in the GA accredidation
 **WHEN:**  February 8th @ 1:00PM - 5:00PM
 **WHERE:** SUB, The Orion Room, [Register Here](https://leadinggreen.com/edmonton)
-**WHAT:**  ad your resume with the LEED Green Associate, the only professional designation to show employers and clients you have certified knowledge in the field. LEED (Leadership in Energy and Environmental Design) is simply a sustainability scorecard for green buildings. Buildings can become LEED Certified as can people!
+**WHAT:**  Pad your resume with the LEED Green Associate, the only professional designation to show employers and clients you have certified knowledge in the field. LEED (Leadership in Energy and Environmental Design) is simply a sustainability scorecard for green buildings. Buildings can become LEED Certified as can people!
 
 To date, this course and its materials have proven to be instrumental in helping over 9000 students pass their respective exam at a 99% pass rate. This course is offered at a quarter of the price and time as the competition and allows students to graduate with letters after their name!
 <br/>
