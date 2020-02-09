@@ -102,6 +102,11 @@ lastmod = ["lastmod", ":git", "date"]
 [[menu.footer]]
   url = "https://hacked.compeclub.com/"
   name = "HackED Website"
+  weight = 20
+
+[[menu.footer]]
+  url = "https://compeclub.square.site"
+  name = "CompE Club Online Store"
   weight = 30
 
 [[menu.copyright_footer]]
