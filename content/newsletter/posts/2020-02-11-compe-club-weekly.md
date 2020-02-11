@@ -41,11 +41,16 @@ Hoodie($42):
 
 ![](/images/merch/2019-2020-hoodie-mockup.jpg)
 
-Pre-orders will be taken until **February 16th 2020**.
+Pre-orders will be taken until **February 26th 2020**.
 Sizing samples are available in the CompE clubroom. Orders can be done online, or
 at the clubroom.
 
 For more information, check out the [CompE Website](https://www.compeclub.com/newsletter/posts/2020-02-09-merch-announcement/)
+
+Note:
+
+There was a mistake in the original announcement, XL hoodies and shirts DO NOT cost $2 extra. Only XXL hoodies and shirts cost $2 extra. 
+
 <br/>
 
 
