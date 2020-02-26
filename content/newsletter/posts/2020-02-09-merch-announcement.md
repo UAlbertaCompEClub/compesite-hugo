@@ -31,7 +31,7 @@ Shirts are $20.
 
 Hoodies are $42.
 
-Extra large (shirts or hoodies) costs $2 extra.
+Extra extra large (shirts or hoodies) costs $2 extra.
 <br/>
 
 ### How to order
