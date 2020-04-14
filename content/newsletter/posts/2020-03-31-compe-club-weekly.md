@@ -53,13 +53,16 @@ For Escalation position, please email a resume to Adrienne.Harvey@dell.com, Bhav
 ### 3) NeuroNexus Design Competition
 
 **WHO:** Anyone interested hackathons and neuroscience
-**WHEN:**  Application Deadline: April 15th
+**WHEN:**  EVENT POSTPHONED TO FALL
 **WHERE:** [Apply Here](https://www.neuro-nexus.ca/innovator-application)
 **WHAT:**  Neuro Nexus is a hackathon program designed to spark collaboration across disciplines and tackle
 complex challenges in brain science and mental health. The program connects experts in frontline,
 clinical, and academic practice with motivated, talented students to develop technological solutions
 over a fast-paced 6 week competition. This year, Neuro Nexus will facilitate 40+ projects across the
 province in our largest competition yet.
+
+Due to the COVID-19 pandemic, the **event has been postphoned to Fall 2020**, with dates to be announced.
+Visit the website below for more information and updates.
 
 To learn more, check out [their website](https://www.neuro-nexus.ca/)
 <br/>
