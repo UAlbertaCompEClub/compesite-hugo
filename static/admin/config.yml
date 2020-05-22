@@ -1,0 +1,103 @@
+backend:
+    name: github
+    repo: UAlbertaCompEClub/compesite-hugo # Path to your GitHub repository
+    branch: master
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads" # Media files will be stored in the repo under src/assets/img/upload
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /assets/img/upload
+collections:
+  - name: "event" # Used in routes, e.g. /admin/collections/event
+    label: "Event"
+    folder: "content/events/events/" # The path to the folder where the documents are stored
+    preview_path: "events/events/{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    extension: "md"
+    format: "toml-frontmatter"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Fragment", name: "fragment", widget: "hidden", default: "event"}
+      - {label: "Weight", name: "weight", widget: "hidden", default: 100}
+      - {label: "Title", name: "title", widget: "string", default: "EVENT TITLE"}
+      - {label: "Start Date/Time", name: "start", widget: "datetime", format: "YYYY-MM-DDTHH:MM:ss", dateFormat: "LL", timeFormat: "LTS"}
+      - {label: "End Date/Time", name: "end", widget: "datetime", format: "YYYY-MM-DDTHH:MM:ss", dateFormat: "LL", timeFormat: "LTS"}
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        default: |+
+            **When**: INSERT DATE HERE 
+            **Where**: INSERT TIME HERE
+
+            INSERT DESCRIPTION OF EVENT.
+  - name: "newsletter" # Used in routes, e.g., /admin/collections/blog
+    label: "Post" # Used in the UI
+    folder: "content/newsletter/posts" # The path to the folder where the documents are stored
+    preview_path: "newsletter/posts/{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    extension: "md"
+    format: "toml-frontmatter"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Fragment", name: "fragment", widget: "hidden", default: "content"}
+      - {label: "Weight", name: "weight", widget: "hidden", default: 100}
+      - {label: "Categories", name: "categories", widget: "hidden", default: []}
+      - {label: "Title", name: "title", widget: "string", default: "CompE Club Weekly"}
+      - {label: "Title Align", name: "title_align", widget: "hidden", default: "left"}
+      - {label: "Read More", name: "read_more", widget: "hidden", default: true}
+      - {label: "Display Date", name: "display_date", widget: "hidden", default: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", dateFormat: "LL", timeFormat: false}
+      - label: "Sidebar"
+        name: "sidebar"
+        widget: "object"
+        collapsed: true
+        fields:
+            - {label: "Align", name: "align", widget: "hidden", default: "right"}
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        default: |+
+            SUMMARY
+            <br/>
+
+            ### Highlights:
+            * Highlight 1
+            * Highlight 2
+            * Highlight 3
+            <br/>
+
+            ### 1)  ITEM 1
+            <!--
+            Note, not all of these fields (who, what, etc.) are necessary.
+            Remove unnecessary fields. Remove this comment as well.
+            -->
+            **WHO:** INSERT TEXT HERE
+            **WHEN:**  INSERT TEXT HERE
+            **WHERE:** INSERT TEXT HERE
+            **WHAT:** INSERT TEXT HERE
+            <br/>
+
+            ### 2)  ITEM 2
+            <!--
+            Note, not all of these fields (who, what, etc.) are necessary.
+            Remove unnecessary fields. Remove this comment as well.
+            -->
+            **WHO:** INSERT TEXT HERE
+            **WHEN:**  INSERT TEXT HERE
+            **WHERE:** INSERT TEXT HERE
+            **WHAT:** INSERT TEXT HERE
+            <br/>
+
+            ### 3)  ITEM 1
+            <!--
+            Note, not all of these fields (who, what, etc.) are necessary.
+            Remove unnecessary fields. Remove this comment as well.
+            -->
+            **WHO:** INSERT TEXT HERE
+            **WHEN:**  INSERT TEXT HERE
+            **WHERE:** INSERT TEXT HERE
+            **WHAT:** INSERT TEXT HERE
+            <br/>
+
+            ### Signing Off...
+            Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at <internal@compeclub.com>!  Be sure to stop by the CompE Club Room to grab a snack and say hi! Prices for most snacks have been slashed, so now is the time to buy. <33
+
+
