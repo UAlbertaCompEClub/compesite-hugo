@@ -9,7 +9,7 @@ collections:
   - name: "event" # Used in routes, e.g. /admin/collections/event
     label: "Event"
     folder: "content/events/events/" # The path to the folder where the documents are stored
-    preview_path: "events/events/{{title}}"
+    preview_path: "events/events/{{slug}}"
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     extension: "md"
@@ -31,7 +31,7 @@ collections:
   - name: "newsletter" # Used in routes, e.g., /admin/collections/blog
     label: "Post" # Used in the UI
     folder: "content/newsletter/posts" # The path to the folder where the documents are stored
-    preview_path: "newsletter/posts/{{title}}"
+    preview_path: "newsletter/posts/{{slug}}"
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     extension: "md"
