@@ -14,7 +14,7 @@ date = 2020-09-01
   align = "right"
 +++
 The new semester is upon us. This semester is bringing about a whole host of changes and we hope and encourage you to keep a positive mindset through it all.
-With the remote delivery, communication and comunity is more important than ever. With this in mind, we encourage you to follow CompE socials as well as join both the [ECE](https://discord.gg/RD6ff2) and [CompE](https://discord.gg/AzVYTw) Discord. While a remote semester might feel a little lonier, there is still plenty to do. Just look at all the events below!
+With the remote delivery, communication and comunity is more important than ever. With this in mind, we encourage you to follow CompE socials as well as join both the [ECE](https://discord.gg/RARjWMy) and [CompE](https://discord.gg/fdetzeb) Discord. While a remote semester might feel a little lonier, there is still plenty to do. Just look at all the events below!
 <br/>
 
 ### Highlights:
