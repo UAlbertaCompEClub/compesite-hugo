@@ -31,7 +31,7 @@ It's week 2, and labs are starting. While ending school at 1:00pm might soon be 
 ### 1) Garmin Info Session
 
 **WHO:**  Anyone interested in working at Garmin Canada
-**WHEN:**  Thursday, September 10, 2020 @ 5:00-6:00PM EST, RSVP by Wednesday Spet 9th @ 5pm
+**WHEN:**  Thursday, September 10, 2020 @ 5:00-6:00PM EST, RSVP by Wednesday Sept 9th @ 5pm
 **WHERE:** [RSVP HERE](https://forms.gle/Jgx77r7irj1h7K828), the meeting will be through Microsoft Teams, links will be sent out 30 minuites before the meeting
 **WHAT:**  Garmin Canada is a tech company that operates out of Cochrane, right outside of Calgary. They specialize in fitness and outdoor tech, and employ a diverse team of engineers, from a variiety of disciplines. They're hosting an information session to answer your questions about the company, and guide you through the recruitment process. If you're interested in the company, we encourage you to RSVP soon. If you'd like to learn more about the company, check out their [intro video](https://www.youtube.com/watch?v=QYF1lgFe0NI) and [website](https://www.garmin.com/en-CA/). 
 <br/>
@@ -40,7 +40,7 @@ It's week 2, and labs are starting. While ending school at 1:00pm might soon be 
 ### 2) Intuit Virtual Info Session
 
 **WHO:** Anyone seeking a 2021 Co-op, or interested in a career in Intuit
-**WHEN:**  September 15th @ 4PM MST
+**WHEN:**  Tuesday September 15th @ 4PM MST
 **WHERE:** [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeKN4pHS00tFSQWp4OijZ9WhWfQ8455FKW2tj7WgnpoJ6xEuQ/viewform)
 **WHAT:**  Intuit is hosting a virtual info session to show what a career at Intuit looks like. The meeting will also demonstrate how to set yourself up for success, covering resume prep, networking skills, and interview skills. Inuit is currently seeking Winter 2021 Co-op roles in Software Development, Tax and UX Design. If any of this sounds interesting to you, we encourage you to use the sign up link above, and check out the [Intuit Website](https://www.intuit.com/ca/careers/). 
 <br/>
