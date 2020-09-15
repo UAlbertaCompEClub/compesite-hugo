@@ -77,7 +77,7 @@ What will I learn? We can’t promise to get you a job, but we can promise that 
 **WHO:** Anyone in who wants to help mentor
 **WHERE:** [Sign Up Form](https://forms.gle/PY2aNye7K1FjUzwT7)
 **WHAT:** There have been a lot of applicants for people who would like to be mentored, which is good to see. However, this means we need more mentors to help ensure nobody is over-burdened. This is a great resume builder, as well as a chance to share your knowledge, experience, and advice with this incoming group of first and second year students, especially when many of our usual interactions are gone due to remote learning. Here is the link to the [sign up form](https://forms.gle/PY2aNye7K1FjUzwT7), and feel free to share this with friends or anyone you know who may be interested. 
-
+<br/>
 
 ### 6) Intuit Coffee Breaks
 
