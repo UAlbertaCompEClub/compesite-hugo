@@ -8,7 +8,7 @@ title_align = "left"
 read_more = true
 
 display_date = true
-date = 2020-09-08
+date = 2020-09-15
 
 [sidebar]
   align = "right"
@@ -19,24 +19,26 @@ Being the third week of classes, I'm sure your profs have begun easing you into 
 <br/>
 
 ### Highlights:
-* UofA CompE Club x McGill BOLT Virtual bootcamp
+* CompE 2020 AGM
 * Intuit Virtual Info Session
-* Intuit Coffee Breaks
-* ComIT .NET Core Course
-* UA-WISE/WISER Mentorship Program
-* NeuroNexus Design Competition
-* Hatch Info Session for Software Engineering
 * Get a JUMP on Your Career
+* ECE Trivia Night
+* UofA CompE Club x McGill BOLT Virtual bootcamp
+* Intuit Coffee Breaks
 * AI4Society online sessions
+* UA-WISE/WISER Mentorship Program
+* Hatch Info Session for Software Engineering
+* NeuroNexus Design Competition
+* ComIT .NET Core Course
 <br/>
 
 
-### 1) UofA CompE Club x McGill BOLT Virtual bootcamp
-
-**WHO:**  University students from ALL across Canada and supported by Microsoft, Google, Agorize, MTL CoWork, HP, Duolingo, Korbit AI, etc. Apply individually or in teams of 4-5 students. Each team must include at least one business student and one STEM student. While not required, it is highly encouraged that at least one team member has programming knowledge.
-**WHEN:**  Saturday, September 26, 2020 ~ Saturday October 3rd, 2020, Application due by Wednesday Sept 23rd @ 11:59PM EST
-**WHERE:** [APPLY HERE](https://form.jotform.com/202404773062044)
-**WHAT:**  The Evolution of Education from Sept 26 - Oct 3! A unique combination of a hackathon and a case competition, the event brings together Canadian management and STEM students to developing innovative education technology solutions. With just one week’s time commitment, students will learn about design thinking, power applications, product management and UI/UX design through workshops, and develop an impactful project to pitch to renowned corporate sponsors. There will also be a participant-exclusive networking session with recruiters from top tech firms. FB EVENT LINK: https://www.facebook.com/events/623935691654410/
+### 1) CompE 2020 AGM
+**WHO:** Anyone interesting in the CompE club or being a CompE exec
+**WHEN:**  Friday September 18th @ 5PM MST
+**WHERE:** [CompE Discord](https://discord.gg/mJ7JScQ)
+**WHAT:**  The Computer Engineering Club is holding it's AGM this Friday. If you're interesting in running for a position, or want to practice your right to vote, we encourage you to come! There are a slew of positions to fill and you could have one! Moreover, it is a good opportunity to learn what's in store, and ask any questions you may have. [Click here for more information](https://docs.google.com/presentation/d/1zPgWnuboY9cEMtVzEQAyKh5jYBgELmSflhidSoKN8qc/edit?usp=sharing)
+![AGM Poster](/images/events/2020AGM.jpg)
 <br/>
 
 
@@ -49,7 +51,26 @@ Being the third week of classes, I'm sure your profs have begun easing you into 
 <br/>
 
 
-### 3) Intuit Coffee Breaks
+### 3) Get a JUMP on Your Career
+
+**WHO:**  For post-secondary students
+**WHEN:**  Wednesday, September 16th at 5:00pm to 6:30pm.
+**WHERE:** [APPLY HERE](https://www.eventbrite.ca/e/get-a-jump-on-your-career-ace-the-interview-and-land-that-internship-tickets-118364022979) The individual Zoom link for the event will be emailed out the day before the event.
+**WHAT:**  Description of Event from Talent Attraction Manager at Jobber: Come hear from our Talent Attraction team on how to structure a resume as a student or new grad, hear from a panel of hiring managers about what they look for in students and the skills you should work on now, and hear from current and previous students who worked at Jobber about their experience of jumping from curriculum to career!
+What will I learn? We can’t promise to get you a job, but we can promise that you’ll take tangible information away to best set you up for success as you find your next (or first!) Co-Op/Internship opportunity.
+<br/>
+
+
+### 4) ECE Trivia Night 
+
+**WHO:** Anyone in ECE who likes trivia and/or prizes
+**WHEN:**  Thursday September 24th @ 6PM-7PM MST
+**WHERE:** [ECE Discord](https://discord.gg/zmz86Mg)
+**WHAT:** Do you know things? Do you want to win prizes for knowing said things? Do you want to chill with some ECE peeps? All that and more next Thursday on the ECE Discord. Flex that knowledge and come have a good time. 
+<br/>
+
+
+### 5) Intuit Coffee Breaks
 
 **WHO:** Anyone interested in seeking a career in Intuit
 **WHEN:**  Sept 21st 2020 @  11:00AM MST - [Coffee w/ Intuit Engineers](https://www.surveymonkey.com/r/MTZ9GN5)
@@ -62,15 +83,28 @@ Being the third week of classes, I'm sure your profs have begun easing you into 
 <br/>
 
 
-### 4) ComIT .NET Core Course 
+### 6) AI4Society online sessions
 
-**WHO:** Anyone interested in furthering their programming skillset 
-**WHERE:** [The ComIT website](http://www.comit.org/students)
-**WHAT:** ComIT is offering courses to students looking to take charge of their education. The programs offer 3-month part time courses for people looking to pursue a career in IT. The expected workload is about 8 hours per week, and will teach coding in various languages such as Java, React, .Net among others. It will also involve the often neglected soft skills. Students who graduate will recieve assistance in the job search. The course if covered by a scholarship, and will be offered free of charge. If this interests you, we encourage you to check out the [ComIT website](https://www.comit.org/).  
+**WHO:**  For post-secondary students
+**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction: AI4Society, a Signature Research Area
+Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
+**WHERE:** [APPLY HERE](https://www.eventbrite.ca/e/get-a-jump-on-your-career-ace-the-interview-and-land-that-internship-tickets-118364022979) The individual Zoom link for the event will be emailed out the day before the event.
+**WHAT:**  AI4Society is hosting two webinar sessions on September 25th
+Description: Come and discover AI4Society, UofA's newest Signature Research Area on artificial intelligence and its applications. We are hosting two online events on September 25th, one to introduce AI4Society and collaboratories, and another to feature research on artificial intelligence and machine learning around campus.
 <br/>
 
 
-### 5) UA-WISE/WISEWR Mentorship Program
+### 7) UofA CompE Club x McGill BOLT Virtual bootcamp
+
+**WHO:**  Teams of 4-5 University Students, preferably with programming experience
+**WHEN:**  Saturday, September 26, 2020 ~ Saturday October 3rd, 2020, Application due by Wednesday Sept 23rd @ 11:59PM EST
+**WHERE:** [APPLY HERE](https://form.jotform.com/202404773062044)
+**WHAT:**  The Evolution of Education from Sept 26 - Oct 3! A unique combination of a hackathon and a case competition, the event brings together Canadian management and STEM students to developing innovative education technology solutions. With just one week’s time commitment, students will learn about design thinking, power applications, product management and UI/UX design through workshops, and develop an impactful project to pitch to renowned corporate sponsors. There will also be a participant-exclusive networking session with recruiters from top tech firms. [FB EVENT LINK](https://www.facebook.com/events/623935691654410/)
+University students from ALL across Canada and supported by Microsoft, Google, Agorize, MTL CoWork, HP, Duolingo, Korbit AI, etc. Apply individually or in teams of 4-5 students. Each team must include at least one business student and one STEM student. While not required, it is highly encouraged that at least one team member has programming knowledge.
+<br/>
+
+
+### 8) UA-WISE/WISEWR Mentorship Program
 
 **WHO:** Undergrads, Grads, or people with less than 5 years professional experience
 **WHEN:** Application deadline: September 30th 2020
@@ -81,7 +115,17 @@ The program will consist of several events, from an introoduction event in Octob
 <br/>
 
 
-### 6) NeuroNexus Design Competition
+### 9) Hatch Info Session for Software Engineering
+
+**WHO:**  For the Software Engineering & Computer Scienc Students
+**WHEN:**  	Monday, October 5, 2020 @ 4:00 pm MST, Application due by Thursday October 1st, 2020 4:00 PM EST.
+**WHERE:** For details and to RSVP: [APPLY HERE](https://hatch.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hatch&service=6&rnd=0.7281881917381748&main_url=https%3A%2F%2Fhatch.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Dlandingfrommail%26%26%26EMK%3D4832534b0000000436d7c47785fd83cd40576804020d87fb67ca7644ba4abcbf07d281625ee4d01e%26siteurl%3Dhatch%26confViewID%3D169392733123783414%26encryptTicket%3DSDJTSwAAAASiGSFwof64qXgRz9bD8zb26SK0BlZxqS_H5eCJY5uE-A2%26email%3Dkiran.arif06%2540gmail.com)
+**WHAT:** Hatch is passionately committed to the pursuit of a better world through positive change. We embrace your visions as our own and partner with you to develop better ideas that are smarter, more efficient, and innovative. Our global network of 9,000 professionals work on the world’s toughest challenges. Our experience spans over 150 countries around the world in the metals, energy, infrastructure, digital, and investments market sectors.
+If you have any questions, please email campusnorthamerica@hatch.com
+<br/>
+
+
+### 10) NeuroNexus Design Competition
 
 **WHO:** Anyone interested hackathons and neuroscience
 **WHEN:** [See Complete Schedule Here](https://neuro-nexus.ca/events)
@@ -94,36 +138,11 @@ To learn more, check out [their website](https://www.neuro-nexus.ca/)
 <br/>
 
 
-### 7) Hatch Info Session for Software Engineering
+### 11) ComIT .NET Core Course 
 
-**WHO:**  For the Software Engineering & Computer Scienc Students
-**WHEN:**  	Monday, October 5, 2020 @ 4:00 pm MST, Application due by Thursday October 1st, 2020 4:00 PM EST.
-**WHERE:** For details and to RSVP: [APPLY HERE](https://hatch.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hatch&service=6&rnd=0.7281881917381748&main_url=https%3A%2F%2Fhatch.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Dlandingfrommail%26%26%26EMK%3D4832534b0000000436d7c47785fd83cd40576804020d87fb67ca7644ba4abcbf07d281625ee4d01e%26siteurl%3Dhatch%26confViewID%3D169392733123783414%26encryptTicket%3DSDJTSwAAAASiGSFwof64qXgRz9bD8zb26SK0BlZxqS_H5eCJY5uE-A2%26email%3Dkiran.arif06%2540gmail.com)
-**WHAT:**
-About Hatch:
-Hatch is passionately committed to the pursuit of a better world through positive change. We embrace your visions as our own and partner with you to develop better ideas that are smarter, more efficient, and innovative. Our global network of 9,000 professionals work on the world’s toughest challenges. Our experience spans over 150 countries around the world in the metals, energy, infrastructure, digital, and investments market sectors.
-If you have any questions, please email campusnorthamerica@hatch.com
-<br/>
-
-
-### 8) Get a JUMP on Your Career
-
-**WHO:**  For post-secondary students
-**WHEN:**  Wednesday, September 16th at 5:00pm to 6:30pm.
-**WHERE:** [APPLY HERE](https://www.eventbrite.ca/e/get-a-jump-on-your-career-ace-the-interview-and-land-that-internship-tickets-118364022979) The individual Zoom link for the event will be emailed out the day before the event.
-**WHAT:**  Description of Event from Talent Attraction Manager at Jobber: Come hear from our Talent Attraction team on how to structure a resume as a student or new grad, hear from a panel of hiring managers about what they look for in students and the skills you should work on now, and hear from current and previous students who worked at Jobber about their experience of jumping from curriculum to career!
-What will I learn? We can’t promise to get you a job, but we can promise that you’ll take tangible information away to best set you up for success as you find your next (or first!) Co-Op/Internship opportunity.
-<br/>
-
-
-### 9) AI4Society online sessions
-
-**WHO:**  For post-secondary students
-**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction: AI4Society, a Signature Research Area
-Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
-**WHERE:** [APPLY HERE](https://www.eventbrite.ca/e/get-a-jump-on-your-career-ace-the-interview-and-land-that-internship-tickets-118364022979) The individual Zoom link for the event will be emailed out the day before the event.
-**WHAT:**  AI4Society is hosting two webinar sessions on September 25th
-Description: Come and discover AI4Society, UofA's newest Signature Research Area on artificial intelligence and its applications. We are hosting two online events on September 25th, one to introduce AI4Society and collaboratories, and another to feature research on artificial intelligence and machine learning around campus.
+**WHO:** Anyone interested in furthering their programming skillset 
+**WHERE:** [The ComIT website](http://www.comit.org/students)
+**WHAT:** ComIT is offering courses to students looking to take charge of their education. The programs offer 3-month part time courses for people looking to pursue a career in IT. The expected workload is about 8 hours per week, and will teach coding in various languages such as Java, React, .Net among others. It will also involve the often neglected soft skills. Students who graduate will recieve assistance in the job search. The course if covered by a scholarship, and will be offered free of charge. If this interests you, we encourage you to check out the [ComIT website](https://www.comit.org/).  
 <br/>
 
 
