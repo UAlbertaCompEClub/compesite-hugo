@@ -23,6 +23,7 @@ Being the third week of classes, I'm sure your profs have begun easing you into 
 * Intuit Virtual Info Session
 * Get a JUMP on Your Career
 * ECE Trivia Night
+* Call for Mentors
 * UofA CompE Club x McGill BOLT Virtual bootcamp
 * Intuit Coffee Breaks
 * AI4Society online sessions
@@ -70,7 +71,15 @@ What will I learn? We can’t promise to get you a job, but we can promise that 
 <br/>
 
 
-### 5) Intuit Coffee Breaks
+
+### 5) Call for Mentors
+
+**WHO:** Anyone in who wants to help mentor
+**WHERE:** [Sign Up Form](https://forms.gle/PY2aNye7K1FjUzwT7)
+**WHAT:** There have been a lot of applicants for people who would like to be mentored, which is good to see. However, this means we need more mentors to help ensure nobody is over-burdened. This is a great resume builder, as well as a chance to share your knowledge, experience, and advice with this incoming group of first and second year students, especially when many of our usual interactions are gone due to remote learning. Here is the link to the [sign up form](https://forms.gle/PY2aNye7K1FjUzwT7), and feel free to share this with friends or anyone you know who may be interested. 
+
+
+### 6) Intuit Coffee Breaks
 
 **WHO:** Anyone interested in seeking a career in Intuit
 **WHEN:**  Sept 21st 2020 @  11:00AM MST - [Coffee w/ Intuit Engineers](https://www.surveymonkey.com/r/MTZ9GN5)
@@ -83,7 +92,7 @@ What will I learn? We can’t promise to get you a job, but we can promise that 
 <br/>
 
 
-### 6) AI4Society online sessions
+### 7) AI4Society online sessions
 
 **WHO:**  For post-secondary students
 **WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction: AI4Society, a Signature Research Area
@@ -94,7 +103,7 @@ Description: Come and discover AI4Society, UofA's newest Signature Research Area
 <br/>
 
 
-### 7) UofA CompE Club x McGill BOLT Virtual bootcamp
+### 8) UofA CompE Club x McGill BOLT Virtual bootcamp
 
 **WHO:**  Teams of 4-5 University Students, preferably with programming experience
 **WHEN:**  Saturday, September 26, 2020 ~ Saturday October 3rd, 2020, Application due by Wednesday Sept 23rd @ 11:59PM EST
@@ -104,7 +113,7 @@ University students from ALL across Canada and supported by Microsoft, Google, A
 <br/>
 
 
-### 8) UA-WISE/WISEWR Mentorship Program
+### 9) UA-WISE/WISEWR Mentorship Program
 
 **WHO:** Undergrads, Grads, or people with less than 5 years professional experience
 **WHEN:** Application deadline: September 30th 2020
@@ -115,7 +124,7 @@ The program will consist of several events, from an introoduction event in Octob
 <br/>
 
 
-### 9) Hatch Info Session for Software Engineering
+### 10) Hatch Info Session for Software Engineering
 
 **WHO:**  For the Software Engineering & Computer Scienc Students
 **WHEN:**  	Monday, October 5, 2020 @ 4:00 pm MST, Application due by Thursday October 1st, 2020 4:00 PM EST.
@@ -125,7 +134,7 @@ If you have any questions, please email campusnorthamerica@hatch.com
 <br/>
 
 
-### 10) NeuroNexus Design Competition
+### 11) NeuroNexus Design Competition
 
 **WHO:** Anyone interested hackathons and neuroscience
 **WHEN:** [See Complete Schedule Here](https://neuro-nexus.ca/events)
@@ -138,7 +147,7 @@ To learn more, check out [their website](https://www.neuro-nexus.ca/)
 <br/>
 
 
-### 11) ComIT .NET Core Course 
+### 12) ComIT .NET Core Course 
 
 **WHO:** Anyone interested in furthering their programming skillset 
 **WHERE:** [The ComIT website](http://www.comit.org/students)
