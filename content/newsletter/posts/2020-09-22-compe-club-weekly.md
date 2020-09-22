@@ -62,11 +62,12 @@ Thank you to everyone who came out to the AGM, we appreciate you, and we hope th
 ### 4) AI4Society online sessions
 
 **WHO:**  For post-secondary students
-**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction: AI4Society, a Signature Research Area
-Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
-**WHERE:** [APPLY HERE](https://www.eventbrite.ca/e/get-a-jump-on-your-career-ace-the-interview-and-land-that-internship-tickets-118364022979) The individual Zoom link for the event will be emailed out the day before the event.
+**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction \\
+           Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
+**WHERE:** [Instroduction](https://ualberta-ca.zoom.us/webinar/register/WN_1e_nPEsRQrigG5A7WJhgFQ) \\
+           [Webinar](https://ualberta-ca.zoom.us/webinar/register/WN_qVSU57CTTvCiVfTFGktdTA) \\
 **WHAT:**  AI4Society is hosting two webinar sessions on September 25th
-Description: Come and discover AI4Society, UofA's newest Signature Research Area on artificial intelligence and its applications. We are hosting two online events on September 25th, one to introduce AI4Society and collaboratories, and another to feature research on artificial intelligence and machine learning around campus.
+Come and discover AI4Society, UofA's newest Signature Research Area on artificial intelligence and its applications. We are hosting two online events on September 25th, one to introduce AI4Society and collaboratories, and another to feature research on artificial intelligence and machine learning around campus.
 <br/>
 
 ### 5) UofA CompE Club x McGill BOLT Virtual bootcamp
