@@ -34,6 +34,14 @@ It's about a month into classes and I hope that all of you are doing well in you
 ### 1) CompE 2020/2021 Junior Executives Election Results
 
 **WHAT:**  The Computer Engineering Club is held it's AGM last Friday. During the AGM there was election for the 2020/2021 Junior Executives. Now here are your new junior executives for term 2020/2021.
+* 2nd Year Rep: Justin Mikhail & Yi Meng Wang
+* 3rd Year Rep: Josh Wutzke
+* Marketing Rep: Noah Batiuk
+* Merch Rep: Abhishek Solanki
+* PR/GEER Week Rep: Muhammad Fiaz & Kashish Mittal
+
+Thank you to everyone who came out to the AGM, we appreciate you, and we hope that's evident with our work throughout the school year :) 
+
 <br/>
 
 ### 2) Call for Mentors
