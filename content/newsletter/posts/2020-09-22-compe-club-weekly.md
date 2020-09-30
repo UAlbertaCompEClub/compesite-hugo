@@ -11,11 +11,8 @@ date = "2020-09-21"
 [sidebar]
 align = "right"
 +++
-<!--StartFragment-->
-
 It's about a month into classes and I hope that all of you are doing well in your studies! If this is not challenging enough for you, don't worry, we got you!!! Check out these events coming up soon!
 
-<!--EndFragment-->
 <br/>
 
 ### Highlights:
@@ -34,6 +31,7 @@ It's about a month into classes and I hope that all of you are doing well in you
 ### 1) CompE 2020/2021 Junior Executives Election Results
 
 **WHAT:**  The Computer Engineering Club is held it's AGM last Friday. During the AGM there was election for the 2020/2021 Junior Executives. Now here are your new junior executives for term 2020/2021.
+
 * 2nd Year Rep: Justin Mikhail & Yi Meng Wang
 * 3rd Year Rep: Josh Wutzke
 * Marketing Rep: Noah Batiuk
@@ -62,7 +60,7 @@ Thank you to everyone who came out to the AGM, we appreciate you, and we hope th
 ### 4) AI4Society online sessions
 
 **WHO:**  For post-secondary students
-**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction \\
+**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction \
            Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
 **WHERE:** [Instroduction](https://ualberta-ca.zoom.us/webinar/register/WN_1e_nPEsRQrigG5A7WJhgFQ) and [Webinar](https://ualberta-ca.zoom.us/webinar/register/WN_qVSU57CTTvCiVfTFGktdTA)
 **WHAT:**  AI4Society is hosting two webinar sessions on September 25th
