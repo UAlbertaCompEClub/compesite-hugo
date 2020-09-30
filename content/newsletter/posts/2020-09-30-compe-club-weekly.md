@@ -11,11 +11,7 @@ date = "2020-09-29"
 [sidebar]
 align = "right"
 +++
-<!--StartFragment-->
-
 It's the fifth week of school and midterm season has started. Make sure to catch up on all of your lectures before the exam and we wish you all the best of luck! If you have extra time and wish to spend it productively, check out these events coming up soon.
-
-<!--EndFragment-->
 
 <br/>
 
