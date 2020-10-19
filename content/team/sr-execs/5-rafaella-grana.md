@@ -1,7 +1,7 @@
 +++
 title = "Rafaella Graña"
-position = "Marketing Rep"
-weight = 100
+position = "VP Social"
+weight = 50
 
 [asset]
 image = "execs/rafaella-grana.jpg"

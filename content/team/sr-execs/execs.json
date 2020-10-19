@@ -1,23 +1,28 @@
 [
     {
-        "name": "Navras Kamal",
-        "position": "Co-President",
-        "image": "execs/navras-kamal.jpg"
+        "name": "Archit Siby",
+        "position": "VP External (Fall)",
+        "image": "execs/archit-siby.jpg"
     },
     {
-        "name": "Alex Chen",
-        "position": "Co-President",
-        "image": "execs/alex-chen.jpg"
+        "name": "Tharidu Witharana",
+        "position": "President",
+        "image": "execs/tharidu-witharana.jpg"
     },
     {
-        "name": "Mitchell Adam",
-        "position": "VP Finance (Fall)",
-        "image": "execs/mitchell-adam.jpg"
+        "name": "Samuel Lojpur",
+        "position": "AVP Hackathon",
+        "image": "execs/samuel-lojpur.jpg"
     },
     {
-        "name": "Ishaat Chowdhury",
-        "position": "VP Finance (Winter)",
-        "image": "execs/ishaat-chowdhury.jpg"
+        "name": "Seyed Sajjad Daneshmand",
+        "position": "VP Finance",
+        "image": "execs/seyed-daneshmand.jpg"
+    },
+    {
+        "name": "Juyoung Kim",
+        "position": "VP Internal",
+        "image": "execs/juyoung-kim.jpg"
     },
     {
         "name": "Archit Siby",
@@ -25,28 +30,13 @@
         "image": "execs/archit-siby.jpg"
     },
     {
-        "name": "Tim Tran",
-        "position": "VP External (Winter)",
-        "image": "execs/tim-tran.jpg"
+      "name": "Rafaella Graña",
+      "position": "VP Social",
+      "image": "execs/rafaella-grana.jpg"
     },
     {
-        "name": "Tharidu Witharana",
-        "position": "VP Internal",
-        "image": "execs/tharidu-witharana.jpg"
-    },
-    {
-        "name": "Samuel Lojpur",
-        "position": "VP Social (Fall)",
-        "image": "execs/samuel-lojpur.jpg"
-    },
-    {
-        "name": "Erik Lewis",
-        "position": "VP Social (Winter)",
-        "image": "execs/erik-lewis.jpg"
-    },
-    {
-        "name": "Kevin de Haan",
-        "position": "AVP Hackathon",
-        "image": "execs/kevin-de-haan.jpg"
+      "name": "Justin Mackenzie",
+      "position": "VP Social",
+      "image":  "execs/justin-mackenzie.jpg"
     }
 ]

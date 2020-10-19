@@ -1,7 +1,7 @@
 +++
 title = "Samuel Lojpur"
-position = "VP Social (Fall)"
-weight = 80
+position = "AVP Hackathon"
+weight = 70
 
 [asset]
 image = "execs/samuel-lojpur.jpg"

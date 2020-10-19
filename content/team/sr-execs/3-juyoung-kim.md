@@ -1,8 +1,9 @@
 +++
 title = "Juyoung Kim"
-position = "Stock Rep"
-weight = 130
+position = "VP Internal"
+weight = 30
 
 [asset]
 image = "execs/juyoung-kim.jpg"
 +++
+

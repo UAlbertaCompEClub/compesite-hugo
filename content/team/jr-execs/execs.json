@@ -1,72 +1,37 @@
 [
     {
-        "name": "Josh Wutzke",
+        "name": "Yi Meng Wang",
         "position": "2nd Year Rep",
+        "image": "execs/yimeng-wang.jpg"
+    },
+    {
+        "name": "Justin Mikhail",
+        "position": "2nd Year Rep",
+        "image": "execs/default-photo.png"
+    },
+    {
+        "name": "Josh Wutzke",
+        "position": "3nd Year Rep",
         "image": "execs/josh-wutzke.jpg"
     },
     {
-        "name": "Jehanzeb Mirza",
-        "position": "3rd Year Rep",
-        "image": "execs/default-photo.png"
-    },
-    {
-        "name": "Petar Cvijovic",
-        "position": "4th Year Rep",
-        "image": "execs/petar-cvijovic.jpg"
-    },
-    {
-        "name": "Haren",
-        "position": "Co-op Rep",
-        "image": "execs/default-photo.png"
-    },
-    {
-        "name": "Blake Sakaluk",
-        "position": "Grad Rep",
-        "image": "execs/blake-sakaluk.jpg"
-    },
-    {
-        "name": "Seyed Daneshmand",
-        "position": "Merchandise Rep",
-        "image": "execs/seyed-daneshmand.jpg"
-    },
-    {
-        "name": "Paige Lekach",
-        "position": "Geer Week Rep",
-        "image": "execs/paige-lekach.jpg"
-    },
-    {
-        "name": "Usama Ali",
-        "position": "Geer Week Rep",
-        "image": "execs/default-photo.png"
-    },
-    {
-        "name": "Justin MacKenzie",
-        "position": "PR Rep",
-        "image": "execs/justin-mackenzie.jpg"
-    },
-    {
-        "name": "Rafaella Gra\u00f1a",
+        "name": "Noah Batiuk",
         "position": "Marketing Rep",
-        "image": "execs/rafaella-grana.jpg"
+        "image": "execs/noah-batiuk.jpg"
     },
     {
-        "name": "Ruimin Chen",
-        "position": "Marketing Rep",
-        "image": "execs/ruimin-chen.jpg"
+        "name": "Abhishek Solanki",
+        "position":  "Merchandise Rep",
+        "image": "execs/abhishek-solanki.jpg"
     },
     {
-        "name": "Arun Woosaree",
-        "position": "Office Rep",
-        "image": "execs/arun-woosaree.jpg"
+        "name": "Kashish Mittal",
+        "position" : "PR/GEER Week Rep",
+        "image": "execs/kashish-mittal.jpg"
     },
     {
-        "name": "Juyoung Kim",
-        "position": "Stock Rep",
-        "image": "execs/juyoung-kim.jpg"
-    },
-    {
-        "name": "Imaad Khalid",
-        "position": "Stock Rep",
-        "image": "execs/imaad-khalid.jpg"
+        "name": "Muhammad Fiaz",
+        "position":  "PR/Geer Week Rep",
+        "image":  "execs/muhamamd-fiaz.jpg"
     }
 ]

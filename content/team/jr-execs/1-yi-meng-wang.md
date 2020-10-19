@@ -1,8 +1,8 @@
 +++
-title = "Josh Wutzke"
+title = "Yi Meng Wang"
 position = "2nd Year Rep"
 weight = 10
 
 [asset]
-image = "execs/josh-wutzke.jpg"
+image = "execs/yimeng-wang.jpg"
 +++

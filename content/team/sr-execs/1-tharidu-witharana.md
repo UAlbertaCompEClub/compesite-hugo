@@ -1,7 +1,7 @@
 +++
 title = "Tharidu Witharana"
-position = "VP Internal"
-weight = 70
+position = "President"
+weight = 10
 
 [asset]
 image = "execs/tharidu-witharana.jpg"
