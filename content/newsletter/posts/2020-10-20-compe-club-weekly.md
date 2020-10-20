@@ -60,7 +60,7 @@ In this introductory session, the data science team at Cybera will provide you w
 ### 5)  EA’s Next-Gen Talent Conference
 **WHO:** Students and Graduates looking for internships
 **WHEN:** October 23rd 2020
-**WHERE:** [RSVP Here](EA’s Next-Gen Talent Conference)
+**WHERE:** [RSVP Here](https://events.bizzabo.com/EA-NGT-Conference)
 **WHAT:** Join us for our first-ever, all-day conference to connect with the next-generation of talent. Hear from our subject matter experts and leaders in the industry - all in your browser and on demand. The event will give insight into Electronic Arts’ work, culture, and impact. Plus, learn more about our internship and University graduate programs and explore career development resources. Breakout Tracks include Work & Culture, Discipline-based Career Pathing, Intern & University Grad Panel, and EA’s Intern 101.
 <br/>
 
