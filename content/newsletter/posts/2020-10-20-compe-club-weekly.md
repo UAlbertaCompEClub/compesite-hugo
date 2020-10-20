@@ -20,8 +20,9 @@ Hello friends, welcome to the eighth week of school. With Halloween coming up in
 * Startup Week
 * Breaking into Data Science - The How's and Why's
 * Launch Party 
-* TELUS In Their Shoes – Women in STEM Speed-mentoring Event
 * EA’s Next-Gen Talent Conference
+* ESS Costume Contest
+* TELUS In Their Shoes – Women in STEM Speed-mentoring Event
 * Vanderblit Graduate Engineering Information Session
 
 ### 1)  HackEd Beta Ticket sales
@@ -61,8 +62,23 @@ In this introductory session, the data science team at Cybera will provide you w
 **WHEN:** October 23rd 2020
 **WHERE:** [RSVP Here](EA’s Next-Gen Talent Conference)
 **WHAT:** Join us for our first-ever, all-day conference to connect with the next-generation of talent. Hear from our subject matter experts and leaders in the industry - all in your browser and on demand. The event will give insight into Electronic Arts’ work, culture, and impact. Plus, learn more about our internship and University graduate programs and explore career development resources. Breakout Tracks include Work & Culture, Discipline-based Career Pathing, Intern & University Grad Panel, and EA’s Intern 101.
+<br/>
+
+### 6) ESS Costume Contest
+**WHO:** Anyone who wants to dress up for halloween or for fun
+**WHEN:** October 25th 2020 - October 31st 2020
+**WHERE:** [Submit your pictures here] (https://forms.gle/JWfosSwdSaJeydeSA)
+**WHAT:** For one week, a theme is announced every day. Participants gather GEER Yeer points for their discipline by submitting a google form containing their information. Points will be awarded to the best costumes. The themes are:
+- Day 1 (Oct 25th): Spooky
+- Day 2 (Oct 26th): Animals
+- Day 3 (Oct 27th): Shirt Day (How many shirts can you fit on your body?)
+- Day 4 (Oct 28th): Theme Day (Dress according to your club theme)
+- Day 5 (Oct 29th): Characters (Movie/Shows)
+- Day 6 (Oct 30th): Black tie
+- Day 7 (Oct 31st): Best Halloween Costume
+<br/>
 ​
-### 6)  TELUS In Their Shoes – Women* in STEM Speed-mentoring Event
+### 7)  TELUS In Their Shoes – Women* in STEM Speed-mentoring Event
 <!--
 Note, not all of these fields (who, what, etc.) are necessary.
 Remove unnecessary fields. Remove this comment as well.
@@ -75,7 +91,7 @@ Remove unnecessary fields. Remove this comment as well.
 
 *TELUS values diversity and inclusiveness, and they welcome all those who identify as women, non-cis women, non-binary, agender and women on the spectrum.
 
-### 7)  Vanderblit Graduate Engineering Information Session
+### 8)  Vanderblit Graduate Engineering Information Session
 **WHO:** Students looking for summer reasearch or graduate programs
 **WHEN:** November 2nd @ 12:00PM - 1:00PM
 **WHERE:** [Here](https://apply.vanderbilt.edu/register/?id=f501ade0-76df-4b22-baee-7abad8f24b07)
