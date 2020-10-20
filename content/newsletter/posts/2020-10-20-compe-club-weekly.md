@@ -11,15 +11,10 @@ date = "2020-10-20"
 [sidebar]
 align = "right"
 +++
-<!--StartFragment-->
-
 Hello friends, welcome to the eighth week of school. With Halloween coming up in a couple of weeks, we hope you all are pumped to show off your costumes in the upcoming events. Midterms are mostly over for some but if you still writing, good luck! Whether you are done with midterms or not, here are some events to spend some time on.
-
-<!--EndFragment-->
 <br/>
 
 ### Highlights:
-
 * HackEd Beta Ticket sales
 * Startup Week
 * Breaking into Data Science - The How's and Why's
