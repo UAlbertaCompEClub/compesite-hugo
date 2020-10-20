@@ -28,6 +28,7 @@ Hello friends, welcome to the eighth week of school. With Halloween coming up in
 * ESS Costume Contest
 * TELUS In Their Shoes – Women in STEM Speed-mentoring Event
 * Vanderblit Graduate Engineering Information Session
+<br/>
 
 ### 1)  HackEd Beta Ticket sales
 
