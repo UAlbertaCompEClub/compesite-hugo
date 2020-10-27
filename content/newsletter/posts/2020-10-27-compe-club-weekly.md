@@ -68,7 +68,7 @@ The Webinar Series hosted by the UAlberta IEEE Student Branch is an initiative a
 ### 5) Vanderblit Graduate Engineering Information Session
 **WHO:** Students looking for summer reasearch or graduate programs
 **WHEN:** November 2nd @ 12:00PM - 1:00PM
-**WHERE:** [Here](https://apply.vanderbilt.edu/register/?id=f501ade0-76df-4b22-baee-7abad8f24b07)
+**WHERE:** [Apply Here](https://apply.vanderbilt.edu/register/?id=f501ade0-76df-4b22-baee-7abad8f24b07)
 **WHAT:** Vanderblit University is hosting an information session to promote their summer research and graduate programs.
 Vanderblit offers a variety of fully funded Ph.D programs, as well as several new Masters programs. These new programs include: Cyber-Physical Systems, Risk, Reliability and Resiliance, and Engineering Management.
 If you're interested in any of these topics and would like to purse research, graduate, or post graduate studies, this event is for you.
