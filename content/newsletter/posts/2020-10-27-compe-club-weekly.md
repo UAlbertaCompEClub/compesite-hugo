@@ -57,10 +57,10 @@ Those who register and attend will also have an opportunity to WIN a pair of Sol
 <br/>
 
 ### 4)  Python Webinar
-**WHO:** INSERT TEXT HERE
+**WHO:** Anyone who is interested in Python
 **WHEN:**  October 29th 2020 @ 7:00 pm MDT
 **WHERE:** [Register Here](https://forms.gle/vPFtpNwn28Zbhfwv5)
-**WHAT:** Webinar is about Python idioms. If you know some Python and would like to get more out of the language, this is the webinar for you.
+**WHAT:** During this webinar you will be able to learn about Python idioms. If you know some Python and would like to get more out of the language, this is the webinar for you.
 
 The Webinar Series hosted by the UAlberta IEEE Student Branch is an initiative aimed at sharing knowledge and building connections with fellow students. These webinars are planned and hosted by your peers. If you are interested in hosting a webinar yourself, consider volunteering with them! You can reach the branch by email at ieeesb@ualberta.ca, or by sending them a DM on Instagram at @uaieeesb.
 <br/>
