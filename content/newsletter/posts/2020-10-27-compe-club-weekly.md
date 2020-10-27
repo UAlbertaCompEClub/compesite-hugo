@@ -11,7 +11,7 @@ date = "2020-10-27"
 [sidebar]
 align = "right"
 +++
-SUMMARY
+Welcome to the ninth week of school! Halloween is only days away and I hope you have time to dress up and enjoy some treats. If you are looking for some interesting ways to spend your time, here they are!
 <br/>
 
 ### Highlights:
