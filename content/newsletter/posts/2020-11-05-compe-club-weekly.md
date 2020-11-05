@@ -11,10 +11,8 @@ date = "2020-11-05"
 [sidebar]
 align = "right"
 +++
-Welcome to the 10th week of school! We have entered November and reading week starts within few days and we hope you guys can get some rest and recharge. If you are going somewhere be careful and hope you guys have a lot of fun! We also approached near the end of semester but we still have few weeks to carry on. Relax but do not let your tension fully.
+Welcome to the 10th week of school! We have entered November and reading week starts within few days and we hope you guys can get some rest and recharge. If you are going somewhere be careful and hope you guys have a lot of fun! We also approached near the end of semester but we still have few weeks to carry on.
 <br/>
-
-
 
 ### Signing Off...
 
