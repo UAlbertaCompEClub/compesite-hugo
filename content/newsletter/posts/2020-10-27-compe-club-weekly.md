@@ -15,37 +15,42 @@ Welcome to the ninth week of school! Halloween is only days away and I hope you 
 <br/>
 
 ### Highlights:
+
 * ESS Costume Contest
 * TELUS In Their Shoes – Women* in STEM Speed-mentoring Event
 * TELUS Graduate Technology Leadership Program Careers Info Session
 * Python Webinar
 * Vanderblit Graduate Engineering Information Session
-<br/>
+  <br/>
 
 ### 1)  ESS Costume Contest
+
 **WHO:** Anyone who wants to dress up for halloween or for fun
 **WHEN:** October 25th 2020 - October 31st 2020
-**WHERE:** [Submit your pictures here] (https://forms.gle/JWfosSwdSaJeydeSA)
+**WHERE:** [Submit your pictures here](https://forms.gle/JWfosSwdSaJeydeSA)
 **WHAT:** For one week, a theme is announced every day. Participants gather GEER Yeer points for their discipline by submitting a google form containing their information. Points will be awarded to the best costumes. The themes are:
-- Day 1 (Oct 25th): Spooky
-- Day 2 (Oct 26th): Animals
-- Day 3 (Oct 27th): Shirt Day (How many shirts can you fit on your body?)
-- Day 4 (Oct 28th): Theme Day (Dress according to your club theme)
-- Day 5 (Oct 29th): Characters (Movie/Shows)
-- Day 6 (Oct 30th): Black tie
-- Day 7 (Oct 31st): Best Halloween Costume
-<br/>
+
+* Day 1 (Oct 25th): Spooky
+* Day 2 (Oct 26th): Animals
+* Day 3 (Oct 27th): Shirt Day (How many shirts can you fit on your body?)
+* Day 4 (Oct 28th): Theme Day (Dress according to your club theme)
+* Day 5 (Oct 29th): Characters (Movie/Shows)
+* Day 6 (Oct 30th): Black tie
+* Day 7 (Oct 31st): Best Halloween Costume
+  <br/>
 
 ### 2) TELUS In Their Shoes – Women* in STEM Speed-mentoring Event
+
 **WHO:** Computer and Electrical engineers
 **WHEN:**  October 28th 2020 @ 1:30 pm MDT
 **WHERE:** [Register Here](https://lnkd.in/g-dzKiB)
 **WHAT:** TELUS is committed to encouraging more women* to build careers in STEM and cultivating diversity within their industries. Are you a woman studying engineering or computer science and want a bit of guidance with your career development? That’s exactly why they created In Their Shoes – a mentorship program designed to connect you with TELUS professionals who are eager to share their wisdom and experience. On October 28, join them for a speed-mentoring event with both early-career and well-established professionals and learn about career opportunities at TELUS.
 
-*TELUS values diversity and inclusiveness, and they welcome all those who identify as women, non-cis women, non-binary, agender and women on the spectrum.
+\*TELUS values diversity and inclusiveness, and they welcome all those who identify as women, non-cis women, non-binary, agender and women on the spectrum.
 <br/>
 
 ### 3)  TELUS Graduate Technology Leadership Program Careers Info Session
+
 **WHO:** Recent or soon-to-be graduate in Engineering, Computer Science or another technical discipline
 **WHEN:**  October 28th 2020 @ 5:00 pm MDT
 **WHERE:** [Register Here](https://docs.google.com/forms/d/e/1FAIpQLSeuk9J8jnFBe4N36R_x-TOtTmkEj8JOpd_ta1Z7VHTYYwE3UA/viewform?gxids=7628)
@@ -57,6 +62,7 @@ Those who register and attend will also have an opportunity to WIN a pair of Sol
 <br/>
 
 ### 4)  Python Webinar
+
 **WHO:** Anyone who is interested in Python
 **WHEN:**  October 29th 2020 @ 7:00 pm MDT
 **WHERE:** [Register Here](https://forms.gle/vPFtpNwn28Zbhfwv5)
@@ -66,7 +72,8 @@ The Webinar Series hosted by the UAlberta IEEE Student Branch is an initiative a
 <br/>
 
 ### 5) Vanderblit Graduate Engineering Information Session
-**WHO:** Students looking for summer reasearch or graduate programs
+
+**WHO:** Students looking for summer research or graduate programs
 **WHEN:** November 2nd @ 12:00PM - 1:00PM
 **WHERE:** [Apply Here](https://apply.vanderbilt.edu/register/?id=f501ade0-76df-4b22-baee-7abad8f24b07)
 **WHAT:** Vanderblit University is hosting an information session to promote their summer research and graduate programs.
@@ -75,6 +82,5 @@ If you're interested in any of these topics and would like to purse research, gr
 <br/>
 
 ### Signing Off...
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at <internal@compeclub.com>!  Be sure to stop by the CompE Club Room to grab a snack and say hi! Prices for most snacks have been slashed, so now is the time to buy. <33
 
-
+Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!  Be sure to stop by the CompE Club Room to grab a snack and say hi! Prices for most snacks have been slashed, so now is the time to buy. <33
