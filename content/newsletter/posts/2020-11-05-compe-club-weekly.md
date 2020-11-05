@@ -26,7 +26,7 @@ Welcome to the 10th week of school! We have entered November and reading week st
 
 
 
-### 1) Exite Conference 2020
+### 1) Excite Conference 2020
 
 **WHO:** Anyone who wants to expand their network and learn more about careers in cs
 **WHEN:**  Saturday, November 7th 10:00AM to  November 8th 3:00PM
