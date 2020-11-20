@@ -51,7 +51,7 @@ Welcome to the 10th week of school! We have entered November and reading week st
 **WHO:** Anyone who wants to solve real problems
 **WHEN:**  Saturday, November 14 @ 9:00AM to 12:00PM
 **WHERE:** [Learn more and RSVP Here](https://www.startupedmonton.com/problem-solvers?utm_campaign=Student%20Startup%20Life%20Content&utm_medium=email&_hsenc=p2ANqtz-_NlYlw74wrC-cRwboZclUEQbT51Mg2d3mlcUHQRp7hWHkLcfhVcAfN0tSx8nsQtxX66YwGzzTrJplIfv6cM9VmhTeZYQ&_hsmi=98685022&utm_content=98685022&utm_source=hs_email&hsCtaTracking=16cc8148-d752-4e17-848e-2fcfb6754caa%7Cbcbc92de-1136-481b-9b98-51e6152b8114)
-**WHAT:** The Problem Lab open innovation challenge will pull participating teams into a virtual room with the customer you are solving for. The Startup Edmonton team will guide you through a morning of Human-Centered Design, where you will get to know and understand your customer and the problem you are building a solution for.\
+**WHAT:** The Problem Lab open innovation challenge will pull participating teams into a virtual room with the customer you are solving for. The Startup Edmonton team will guide you through a morning of Human-Centered Design, where you will get to know and understand your customer and the problem you are building a solution for.
 <br/>
 
 
