@@ -16,9 +16,10 @@ Welcome to the 11th Week of school! I hope you guys rested well during reading w
 
 ### Highlights:
 
-* Canadian Organization for Undergraduate Health Research
 * Accenture Technology: Tech Talks
-* Highlight 3
+* ECE Trivia Night
+* Annual Engineering Head Shave - Razored for Ron
+* Canadian Organization for Undergraduate Health Research
   <br/>
 
 ### 1)  Accenture Technology: Tech Talks
@@ -38,28 +39,37 @@ Welcome to the 11th Week of school! I hope you guys rested well during reading w
 RSVP with your resume including contact information (when uploading, please upload documents as a single file under the "Resume - Choose File" option). You will be notified by e-mail before the event if you are confirmed to attend. The e-mail will include a link to join via Microsoft Teams. Please click the title of the event you would like to attend which is a link to register. Follow the link and hit the "Register Now" button to register. We look forward to seeing you there!
 <br/>
 
-### 2)  Canadian Organization for Undergraduate Health Research
+### 2)  ECE Trivia Night
+
+**WHO:** ECE students
+
+**WHEN:**  November 26th, 6:00 ~ 7:00 PM MST
+
+**WHERE:** Zoom Meeting Id: 938 5342 8996, Passcode: 509974
+
+**WHAT:** ECE clubs are hosting ECE Trivia Night for all ECE students. It will be held in Zoom and there will be prizes valued up to $40 for winners. I hope you guys to show up and have fun!
+<br/>
+
+### 3)  Annual Engineering Head Shave - Razored for Ron
+
+**WHO:** Anyone, regardless of faculty, school, or demographic
+
+**WHEN:** Live Head Shave on Tuesday, December 1st, 2020 5:00 ~ 7:00 PM MST, Fundraising open until Wednesday December 16th
+
+**WHERE:** [Donate Here](https://p2p.onecause.com/enggshave/team/computer-engineering-club)
+
+**WHAT:** The 17th Annual Engineering Headshave (Razored for Ron) is a charity fundraising event hosted each year by the ESS! Support the CompE Club team by shaving your head, donating a ponytail, or simply spreading awareness. The event is open to anyone, regardless of faculty, school, or demographic. Those who fundraise have a chance to win their very own engineering toque and those who donate at least $5 will receive a complimentary Head Shave sticker.
+<br/>
+
+### 4)  Canadian Organization for Undergraduate Health Research
 
 **WHO:** Computer Engineering Students
-
-**WHEN:** Accepting applications until Friday December 11th, 2020 11:59 PM MDT
+s
+**WHEN:** Accepting applications until Friday December 11th, 2020 11:59 PM MST
 
 **WHERE:** [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSddaDaMJcQLsy6qlyq3hQa3hN2kLOHm1f_OkvIMNLNKBUW7hg/viewform)
 
 **WHAT:** They are currently looking for motivated individuals to work on their project, Palz. This app is currently built using Android Studio and been in development for almost a year now. Palz, is a novel data collection application designed to track the progression of Alzheimer’s Disease (AD). The Alztracker app will convert data from all relevant health indicators monitored into an easy-to-follow format for physicians to analyze.
-<br/>
-
-### 3)  ITEM 1
-
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
 <br/>
 
 ### Signing Off...
