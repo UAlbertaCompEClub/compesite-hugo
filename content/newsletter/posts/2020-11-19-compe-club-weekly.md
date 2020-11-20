@@ -64,7 +64,7 @@ RSVP with your resume including contact information (when uploading, please uplo
 ### 4)  Canadian Organization for Undergraduate Health Research
 
 **WHO:** Computer Engineering Students
-s
+
 **WHEN:** Accepting applications until Friday, December 11th 2020, 11:59 PM MST
 
 **WHERE:** [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSddaDaMJcQLsy6qlyq3hQa3hN2kLOHm1f_OkvIMNLNKBUW7hg/viewform)
