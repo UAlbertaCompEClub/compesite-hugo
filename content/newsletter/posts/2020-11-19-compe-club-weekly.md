@@ -28,7 +28,8 @@ Welcome to the 11th Week of school! I hope you guys rested well during reading w
 
 **WHEN:**  Thursday, November 26th 2020
 
-**WHERE:** Agile and Design Thinking [RSVP Here](https://accenturece.avature.net/eventsEN/EventDetail?eventId=9514&source=Accenture+Sponsored) Modern Delivery [RSVP Here] (https://accenturece.avature.net/eventsEN/EventDetail?eventId=9510&source=Accenture+Sponsored)
+**WHERE:** Agile and Design Thinking [RSVP Here](https://accenturece.avature.net/eventsEN/EventDetail?eventId=9514&source=Accenture+Sponsored) Modern Delivery
+[RSVP Here] (https://accenturece.avature.net/eventsEN/EventDetail?eventId=9510&source=Accenture+Sponsored)
 
 **WHAT:** Take your talent and passion to an organization at the forefront of business innovation and technology. They are holding two tech talks on November 26th. This series consists of 2 interactive sessions (1 hour each). These session will allow you to learn more about Accenture Technology, the interesting work they do and learn about their entry-level opportunities. They encourage students in their third year and final year of school to sign-up to attend. As spaces are limited, they are accepting the first to register. You may sign up for more than one Teach talk.
 
