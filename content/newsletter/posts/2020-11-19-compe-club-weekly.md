@@ -11,7 +11,7 @@ date = "2020-11-19"
 [sidebar]
 align = "right"
 +++
-Welcome to the 11th Week of school! I hope you guys had the nice rest during reading week. We only have about two weeks left to go and I believe all of you guys can make it.
+Welcome to the 11th Week of school! I hope you guys rested well during reading week. We only have about two weeks left to go and I believe in all of you guys can make it. This week I came with some student opportunities and information about interesting events.
 <br/>
 
 ### Highlights:
@@ -20,14 +20,6 @@ Welcome to the 11th Week of school! I hope you guys had the nice rest during rea
 * Accenture Technology: Tech Talks
 * Highlight 3
   <br/>
-
-### 2)  Canadian Organization for Undergraduate Health Research
-
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
-<br/>
 
 ### 1)  Accenture Technology: Tech Talks
 
@@ -44,6 +36,17 @@ Welcome to the 11th Week of school! I hope you guys had the nice rest during rea
 2. November 26th, 2:00 ~ 3:00 PM MST - Modern Delivery
 
 RSVP with your resume including contact information (when uploading, please upload documents as a single file under the "Resume - Choose File" option). You will be notified by e-mail before the event if you are confirmed to attend. The e-mail will include a link to join via Microsoft Teams. Please click the title of the event you would like to attend which is a link to register. Follow the link and hit the "Register Now" button to register. We look forward to seeing you there!
+<br/>
+
+### 2)  Canadian Organization for Undergraduate Health Research
+
+**WHO:** Computer Engineering Students
+
+**WHEN:** Accepting applications until Friday December 11th, 2020 11:59 PM MDT
+
+**WHERE:** [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSddaDaMJcQLsy6qlyq3hQa3hN2kLOHm1f_OkvIMNLNKBUW7hg/viewform)
+
+**WHAT:** They are currently looking for motivated individuals to work on their project, Palz. This app is currently built using Android Studio and been in development for almost a year now. Palz, is a novel data collection application designed to track the progression of Alzheimer’s Disease (AD). The Alztracker app will convert data from all relevant health indicators monitored into an easy-to-follow format for physicians to analyze.
 <br/>
 
 ### 3)  ITEM 1
