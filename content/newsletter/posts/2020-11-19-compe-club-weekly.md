@@ -26,7 +26,7 @@ Welcome to the 11th Week of school! I hope you guys rested well during reading w
 
 **WHO:** Any University of Alberta Computer or Mechanical engineering students that are passionate about joining an organization at the forefront of business innovation and technology
 
-**WHEN:**  Thursday, November 26th, 2020
+**WHEN:**  Thursday, November 26th 2020
 
 **WHERE:** Agile and Design Thinking [RSVP Here](https://accenturece.avature.net/eventsEN/EventDetail?eventId=9514&source=Accenture+Sponsored), Modern Delivery [RSVP Here] (https://accenturece.avature.net/eventsEN/EventDetail?eventId=9510&source=Accenture+Sponsored)
 
@@ -43,7 +43,7 @@ RSVP with your resume including contact information (when uploading, please uplo
 
 **WHO:** ECE students
 
-**WHEN:**  November 26th, 6:00 ~ 7:00 PM MST
+**WHEN:**  Thursday, November 26th 2020, 6:00 ~ 7:00 PM MST
 
 **WHERE:** Zoom Meeting Id: 938 5342 8996, Passcode: 509974
 
@@ -54,7 +54,7 @@ RSVP with your resume including contact information (when uploading, please uplo
 
 **WHO:** Anyone, regardless of faculty, school, or demographic
 
-**WHEN:** Live Head Shave on Tuesday, December 1st, 2020 5:00 ~ 7:00 PM MST, Fundraising open until Wednesday December 16th
+**WHEN:** Live Head Shave on Tuesday, December 1st 2020, 5:00 ~ 7:00 PM MST, Fundraising open until Wednesday December 16th 2020
 
 **WHERE:** [Donate Here](https://p2p.onecause.com/enggshave/team/computer-engineering-club)
 
@@ -65,7 +65,7 @@ RSVP with your resume including contact information (when uploading, please uplo
 
 **WHO:** Computer Engineering Students
 s
-**WHEN:** Accepting applications until Friday December 11th, 2020 11:59 PM MST
+**WHEN:** Accepting applications until Friday, December 11th 2020, 11:59 PM MST
 
 **WHERE:** [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSddaDaMJcQLsy6qlyq3hQa3hN2kLOHm1f_OkvIMNLNKBUW7hg/viewform)
 
