@@ -16,17 +16,12 @@ Welcome to the 11th Week of school! I hope you guys had the nice rest during rea
 
 ### Highlights:
 
-* Highlight 1
-* Highlight 2
+* Canadian Organization for Undergraduate Health Research
+* Accenture Technology: Tech Talks
 * Highlight 3
   <br/>
 
-### 1)  ITEM 1
-
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
+### 1)  Canadian Organization for Undergraduate Health Research
 
 **WHO:** INSERT TEXT HERE
 **WHEN:**  INSERT TEXT HERE
@@ -34,17 +29,22 @@ Remove unnecessary fields. Remove this comment as well.
 **WHAT:** INSERT TEXT HERE
 <br/>
 
-### 2)  ITEM 2
+### 2)  Accenture Technology: Tech Talks
 
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
+**WHO:** Any University of Alberta Computer or Mechanical engineering students that are passionate about joining an organization at the forefront of business innovation and technology
+**WHEN:**  Thursday, November 26th, 2020
+**WHERE:** \[RSVP Here]()
 
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+<br/>
+
+
+**WHAT:** Take your talent and passion to an organization at the forefront of business innovation and technology. They are holding two tech talks on November 26th. This series consists of 2 interactive sessions (1 hour each). These session will allow you to learn more about Accenture Technology, the interesting work they do and learn about their entry-level opportunities. They encourage students in their third year and final year of school to sign-up to attend. As spaces are limited, they are accepting the first to register. You may sign up for more than one Teach talk.
+
+1. November 26th, 12:00 ~ 1:00 PM EST - Agile and Design Thinking
+
+2. November 26th, 4:00 ~ 5:00 PM EST - Modern Delivery
+
+RSVP with your resume including contact information (when uploading, please upload documents as a single file under the "Resume - Choose File" option). You will be notified by e-mail before the event if you are confirmed to attend. The e-mail will include a link to join via Microsoft Teams. Please click the title of the event you would like to attend which is a link to register. Follow the link and hit the "Register Now" button to register. We look forward to seeing you there!
 <br/>
 
 ### 3)  ITEM 1
