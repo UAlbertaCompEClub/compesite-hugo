@@ -21,7 +21,7 @@ Welcome to the 11th Week of school! I hope you guys had the nice rest during rea
 * Highlight 3
   <br/>
 
-### 1)  Canadian Organization for Undergraduate Health Research
+### 2)  Canadian Organization for Undergraduate Health Research
 
 **WHO:** INSERT TEXT HERE
 **WHEN:**  INSERT TEXT HERE
@@ -29,7 +29,7 @@ Welcome to the 11th Week of school! I hope you guys had the nice rest during rea
 **WHAT:** INSERT TEXT HERE
 <br/>
 
-### 2)  Accenture Technology: Tech Talks
+### 1)  Accenture Technology: Tech Talks
 
 **WHO:** Any University of Alberta Computer or Mechanical engineering students that are passionate about joining an organization at the forefront of business innovation and technology
 
