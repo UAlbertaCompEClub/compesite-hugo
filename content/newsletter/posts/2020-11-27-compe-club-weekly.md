@@ -11,7 +11,7 @@ date = "2020-11-27"
 [sidebar]
 align = "right"
 +++
-Welcome to the 12th Week of school! We have only about a week left to go. I wish you guys all the bests for rest of semester. Today I brought some student opportunities and information about interesting events.
+Welcome to the 12th Week of school! We have only about a week left to go. I wish you guys all the best for rest of semester. Today I have some student opportunities and information about interesting events.
 <br/>
 
 ### Highlights:
