@@ -88,8 +88,6 @@ Welcome to the last full week of school! We have only about a week left to go. I
 
 ### 7)  NeurAlbertaTech
 
-**WHEN:** Fundraising open until Wednesday December 16th 2020
-
 **WHERE:** [More Information](https://natuab.ca/), [Contact them](https://natuab.ca/contact)
 
 **WHAT:** They create brain-computer interfaces and are recruiting engineering students for their hardware-focused projects and workshops. If you like PCB design, micro-controllers, integrated circuits, or low-level programming then make sure to get in touch.
