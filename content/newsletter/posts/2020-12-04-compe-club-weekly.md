@@ -11,7 +11,7 @@ date = "2020-12-04"
 [sidebar]
 align = "right"
 +++
-Welcome to the last full week of school! Congratulations to everyone who made it to this point. For some people, exam season has already started and for rest it is soon to be come. Good Luck on your finals and I hope you guys achieve the goals that you are aiming for! Here is some information about student opportunities and events for you!
+Welcome to the last full week of school! Congratulations to everyone who made it to this point. For some people, exam season has already started and for rest it is soon to come. Good Luck on your finals and I hope you guys achieve the goals that you are aiming for! Here is some information about student opportunities and events for you!
 <br/>
 
 ### Highlights:
