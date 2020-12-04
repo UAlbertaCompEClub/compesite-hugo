@@ -22,6 +22,7 @@ Welcome to the last full week of school! We have only about a week left to go. I
 * Canadian Organization for Undergraduate Health Research
 * Annual Engineering Head Shave - Razored for Ron
 * Upcoming hackathons
+* NeurAlbertaTech
   <br/>
 
 ### 1)  Interviewing done right
@@ -50,7 +51,7 @@ Welcome to the last full week of school! We have only about a week left to go. I
 **WHAT:** There comes a time in every developer's life when they learn about Advent of Code. Welcome to that time, my friend. A month full of challenges and puzzles to level up your skills this holiday season.
 <br/>
 
-### 2)  Canadian Organization for Undergraduate Health Research
+### 4)  Canadian Organization for Undergraduate Health Research
 
 **WHO:** Computer Engineering Students
 
@@ -61,7 +62,7 @@ Welcome to the last full week of school! We have only about a week left to go. I
 **WHAT:** They are currently looking for motivated individuals to work on their project, Palz. This app is currently built using Android Studio and been in development for almost a year now. Palz, is a novel data collection application designed to track the progression of Alzheimer’s Disease (AD). The Alztracker app will convert data from all relevant health indicators monitored into an easy-to-follow format for physicians to analyze.
 <br/>
 
-### 1)  Annual Engineering Head Shave - Razored for Ron
+### 5)  Annual Engineering Head Shave - Razored for Ron
 
 **WHO:** Anyone, regardless of faculty, school, or demographic
 
@@ -72,7 +73,7 @@ Welcome to the last full week of school! We have only about a week left to go. I
 **WHAT:** The 17th Annual Engineering Headshave (Razored for Ron) is a charity fundraising event hosted each year by the ESS! Support the CompE Club team by shaving your head, donating a ponytail, or simply spreading awareness. The event is open to anyone, regardless of faculty, school, or demographic. Those who fundraise have a chance to win their very own engineering toque and those who donate at least $5 will receive a complimentary Head Shave sticker.
 <br/>
 
-### 1)  Upcoming hackathons
+### 6)  Upcoming hackathons
 
 **WHEN:**
 - SharkHacks - December 4th ~ 6th, 2020
@@ -83,6 +84,17 @@ Welcome to the last full week of school! We have only about a week left to go. I
 
 
 **WHAT:** Our friends at Major League Hacking are ensuring that hackers around the world have the opportunity to learn, build, and share every weekend with digital hackathons. These weekend-long invention competitions welcome all skill levels, from beginners to the most veteran developers. At each hackathon, they run beginner-friendly workshops on the latest topics in tech. It’s not just commits and code, the MLH team coordinates mini-events and hacker hangouts to help you expand your network, learn something new, and make new memories. Plus, each weekend has a theme to help inspire you. Event themes don’t limit what you can build though! All hacks are welcome!
+<br/>
+
+### 7)  NeurAlbertaTech
+
+**WHO:** Anyone, regardless of faculty, school, or demographic
+
+**WHEN:** Fundraising open until Wednesday December 16th 2020
+
+**WHERE:** [More Information](https://natuab.ca/), [Contact them](https://natuab.ca/contact)
+
+**WHAT:** They create brain-computer interfaces and are recruiting engineering students for their hardware-focused projects and workshops. If you like PCB design, micro-controllers, integrated circuits, or low-level programming then make sure to get in touch.
 <br/>
 
 ### Signing Off...
