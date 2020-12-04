@@ -88,8 +88,6 @@ Welcome to the last full week of school! We have only about a week left to go. I
 
 ### 7)  NeurAlbertaTech
 
-**WHO:** Anyone, regardless of faculty, school, or demographic
-
 **WHEN:** Fundraising open until Wednesday December 16th 2020
 
 **WHERE:** [More Information](https://natuab.ca/), [Contact them](https://natuab.ca/contact)
