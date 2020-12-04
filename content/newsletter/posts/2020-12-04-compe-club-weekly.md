@@ -11,7 +11,7 @@ date = "2020-12-04"
 [sidebar]
 align = "right"
 +++
-Welcome to the last full week of school! We have only about a week left to go. I wish you guys all the best for rest of semester. Today I have some student opportunities and information about interesting events.
+Welcome to the last full week of school! Congratulations to everyone who made it to this point. For some people final season already started and for rest it is soon to be come. Good Luck on your finals and I hope are of you guys achieve the goals that you are aiming for! Here I prepared some information about student opportunities and events for you!
 <br/>
 
 ### Highlights:
