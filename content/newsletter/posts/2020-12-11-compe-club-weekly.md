@@ -25,18 +25,11 @@ Welcome to the last full week of school! Congratulations to everyone who made it
 
 ### 1)  Hackathon Ticket Registration
 
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-
-**WHO:** INSERT TEXT HERE
-
-**WHEN:**  INSERT TEXT HERE
+**WHEN:** A virtual event from Saturday, January 16th, 2021, 10:00 AM ~to Sunday to January 17th, 2021, 4:00 PM MST
 
 **WHERE:** [Register Here](https://hacked.compeclub.com/)
 
-**WHAT:** HackED tickets are available right now! The U of A hosts the largest student run hackathon in Alberta! If you're interested in getting together with a team, making something cool, or catching some workshops hosted by local technology leaders, you can register on Thursday at!
+**WHAT:** HackED tickets are available right now! The U of A hosts the largest student run hackathon in Alberta! If you're interested in getting together with a team, making something cool, or catching some workshops hosted by local technology leaders register now!
 
 ### 2)  Canadian Organization for Undergraduate Health Research
 
