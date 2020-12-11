@@ -16,14 +16,14 @@ Welcome to the final season. I hope you guys are doing well with your finals and
 
 ### Highlights:
 
-* Hackathon Ticket Registration
+* HackED Ticket Registration
 * Canadian Organization for Undergraduate Health Research
 * Annual Engineering Head Shave - Razored for Ron
 * Upcoming hackathons
 * NeurAlbertaTech
   <br/>
 
-### 1)  Hackathon Ticket Registration
+### 1)  HackED Ticket Registration
 
 **WHEN:** A virtual event from Saturday, January 16th, 2021, 10:00 AM ~ Sunday to January 17th, 2021, 4:00 PM MST
 
