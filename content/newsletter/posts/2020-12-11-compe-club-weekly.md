@@ -35,18 +35,18 @@ Welcome to the final season. I hope you guys are doing well with your finals and
 
 **WHO:** Computer Engineering Students
 
-**WHEN:** Accepting applications until Friday, December 11th 2020, 11:59 PM MST
+**WHEN:** Accepting applications until Friday, December 11th, 2020, 11:59 PM MST
 
 **WHERE:** [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSddaDaMJcQLsy6qlyq3hQa3hN2kLOHm1f_OkvIMNLNKBUW7hg/viewform)
 
-**WHAT:** They are currently looking for motivated individuals to work on their project, Palz. This app is currently built using Android Studio and been in development for almost a year now. Palz, is a novel data collection application designed to track the progression of Alzheimer’s Disease (AD). The Alztracker app will convert data from all relevant health indicators monitored into an easy-to-follow format for physicians to analyze.
+**WHAT:** They are currently looking for motivated individuals to work on their project, Palz. This app is currently built using Android Studio and been in development for almost a year now. Palz is a novel data collection application designed to track the progression of Alzheimer’s Disease (AD). The Alztracker app will convert data from all relevant health indicators monitored into an easy-to-follow format for physicians to analyze.
 <br/>
 
 ### 3)  Annual Engineering Head Shave - Razored for Ron
 
 **WHO:** Anyone, regardless of faculty, school, or demographic
 
-**WHEN:** Fundraising open until Wednesday December 16th 2020
+**WHEN:** Fundraising open until Wednesday, December 16th, 2020
 
 **WHERE:** [Donate Here](https://p2p.onecause.com/enggshave/team/computer-engineering-club)
 
@@ -76,5 +76,5 @@ Welcome to the final season. I hope you guys are doing well with your finals and
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!
+Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want to be featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!
 <br/>
