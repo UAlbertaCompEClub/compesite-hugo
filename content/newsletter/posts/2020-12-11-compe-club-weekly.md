@@ -25,7 +25,7 @@ Welcome to the final season. I hope you guys are doing well with your finals and
 
 ### 1)  HackED Ticket Registration
 
-**WHEN:** A virtual event from Saturday, January 16th, 2021, 10:00 AM ~ Sunday to January 17th, 2021, 4:00 PM MST
+**WHEN:** Registration is now open. A virtual event from Saturday, January 16th, 2021, 10:00 AM ~ Sunday to January 17th, 2021, 4:00 PM MST
 
 **WHERE:** [Register Here](https://hacked.compeclub.com/)
 
