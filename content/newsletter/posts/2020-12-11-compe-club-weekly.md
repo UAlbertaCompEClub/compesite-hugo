@@ -11,7 +11,7 @@ date = "2020-12-11"
 [sidebar]
 align = "right"
 +++
-Welcome to the final season. I hope you guys are doing well on your finals and good luck on all your exams! But don't forget to sleep and get some rest. Here is some information about student opportunities and events for you!
+Welcome to the final season. I hope you guys are doing well with your finals and good luck with all your exams! But don't forget to sleep well and get some rest. Here is some information about student opportunities and events for you!
 <br/>
 
 ### Highlights:
