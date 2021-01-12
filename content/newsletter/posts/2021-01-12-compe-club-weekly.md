@@ -25,7 +25,7 @@ Welcome to the first week of the 2021 Winter Semester! I hope everyone recharged
 
 **WHERE:** [Register Here](https://hacked.compeclub.com/)
 
-**WHAT:** HackED tickets are available right now! The U of A hosts the largest student run hackathon in Alberta! If you're interested in getting together with a team, making something cool, or catching some workshops hosted by local technology leaders register now!
+**WHAT:** HackED tickets are available right now! Hurry, tickets are selling out fast! The U of A hosts the largest student run hackathon in Alberta! If you're interested in getting together with a team, making something cool, or catching some workshops hosted by local technology leaders register now!
 <br/>
 
 ### Signing Off...
