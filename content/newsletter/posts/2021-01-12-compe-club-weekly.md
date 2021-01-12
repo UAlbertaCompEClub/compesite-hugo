@@ -11,7 +11,7 @@ date = "2021-01-11"
 [sidebar]
 align = "right"
 +++
-Welcome to the first week of the 2021 Winter Semester! I hope everyone recharged well during the break and had a great start to the new semester. If you are in your work term currently, good luck to you! 
+Welcome to the first week of the 2021 Winter Semester! I hope everyone recharged well during the break and had a great start to the new semester. If you are in your work term currently, good luck to you! Let the semester begin!
 <br/>
 
 ### Highlights:
