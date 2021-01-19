@@ -11,7 +11,7 @@ date = "2021-01-18"
 [sidebar]
 align = "right"
 +++
-Welcome to the second week of the winter semester! Labs are about to start in a week or two and I hope everyone is still on top of the lecture schedule. Today I brought a volunteering opportunity so check it out if you are interested!
+Welcome to the second week of the winter semester! Labs are about to start in a week or two and I hope everyone is still on top of the lecture schedule. Today I brought a volunteering opportunity, so check it out if you are interested!
 <br/>
 
 ### Highlights:
