@@ -11,27 +11,17 @@ date = "2021-01-18"
 [sidebar]
 align = "right"
 +++
-Welcome to the second week of the winter semester! Labs are about to start in a week or two and I hope everyone is still on top of the lecture schedule. 
+Welcome to the second week of the winter semester! Labs are about to start in a week or two and I hope everyone is still on top of the lecture schedule. Today I brought a volunteering opportunity so check it out if you are interested!
 <br/>
 
 ### Highlights:
 
-* Highlight 1
-* Highlight 2
-* Highlight 3
+* Schulich Ignite: A Volunteering Opportunity
   <br/>
 
-### 1)  ITEM 1
+### 1)  Schulich Ignite: A Volunteering Opportunity
 
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-
+**WHERE:** [Apply Here](https://forms.gle/MKwYpEEpqdPVV4bp8)
 
 **WHAT:**
 
