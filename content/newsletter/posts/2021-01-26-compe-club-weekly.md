@@ -11,7 +11,7 @@ date = "2021-01-25"
 [sidebar]
 align = "right"
 +++
-Welcome to the third week of Winter 2021! Some classes already started having midterms 
+Welcome to the third week of the winter semester! Some classes already have midterms approaching. Make sure to read and go over the syllabus to not miss anything. Good luck to everyone and make sure to stay on top of the lecture schedule! Today I brought some interesting events and career opportunities.
 <br/>
 
 ### Highlights:
@@ -42,20 +42,23 @@ So if you are interested send your name and emails to [kmittal@ualberta.ca](mai
 ### 2)  ITEM 2
 
 **WHEN:**
+
+
 BlackBerry Brings you a Recruiters Tell-All Session | Jan 26 @ 11:00 am MST
 BlackBerry Brings You Networking, Systems and Cybersecurity | Jan 27 @ 11:00 am MST
 BlackBerry Brings You Software Development and Testing | Jan 28 @ 11:00 am MST
 BlackBerry Brings you Business | Jan 29 @ 11:00 am MST
+
+
 **WHERE:** [Register Here](https://www.blackberry.com/us/en/company/careers/students/job-fair)
-**WHAT:** Blackberry is hosting some virtual Info Session. Join them and learn more about Summer 2021 opportunities!
+
+
+**WHAT:** 
+
+Blackberry is hosting some virtual Info Session. Join them and learn more about Summer 2021 opportunities!
 <br/>
 
 ### 3)  ITEM 1
-
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
 
 **WHO:** INSERT TEXT HERE
 **WHEN:**  INSERT TEXT HERE
