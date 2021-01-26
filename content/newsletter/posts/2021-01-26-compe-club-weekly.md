@@ -19,7 +19,6 @@ Welcome to the third week of the winter semester! Some classes already have midt
 * **GEER Yeer's annual Debate**
 * **BlackBerry Virtual Info Session**
 * **Siemens Canada Virtual Info Session**
-* Highlight 3
   <br/>
 
 ### 1)  **GEER Yeer's annual Debate**
@@ -60,10 +59,20 @@ Blackberry is hosting some virtual Info Session. Join them and learn more about 
 
 ### 3)  ITEM 1
 
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+**WHO:** University of Alberta Engineering Graduate & Undergraduate Students from Chemical (CPC), Computer, Electrical, Internetworking, Mechanical, and Petroleum Engineering.
+
+
+**WHEN:**  Thursday, February 4, 2021, 5:00 PM – 6:30 PM MST
+
+
+**WHERE:** [Register Here](https://www.eventbrite.ca/e/siemens-canada-sceta-information-session-registration-137846660071)
+
+
+**WHAT:** 
+
+Start your journey toward a promising career with Siemens by joining their elite Siemens in Canada Engineering & Technology Academy (SCETA). Are you only a year away from finishing school and looking for an exciting career opportunity with Siemens?
+
+Their unique Dual Education program recruits the most elite students and prepares them to take a future leadership role in the company. Siemens provides comprehensive training, pays you while you work and throughout your final year of studies, and provides a tuition allowance upon graduation.
 <br/>
 
 ### Signing Off...
