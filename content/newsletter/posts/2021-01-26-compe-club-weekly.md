@@ -42,15 +42,12 @@ So if you are interested send your name and emails to [kmittal@ualberta.ca](mai
 
 **WHEN:**
 
-
 BlackBerry Brings you a Recruiters Tell-All Session | Jan 26 @ 11:00 am MST
 BlackBerry Brings You Networking, Systems and Cybersecurity | Jan 27 @ 11:00 am MST
 BlackBerry Brings You Software Development and Testing | Jan 28 @ 11:00 am MST
 BlackBerry Brings you Business | Jan 29 @ 11:00 am MST
 
-
 **WHERE:** [Register Here](https://www.blackberry.com/us/en/company/careers/students/job-fair)
-
 
 **WHAT:** 
 
@@ -61,12 +58,9 @@ Blackberry is hosting some virtual Info Session. Join them and learn more about 
 
 **WHO:** University of Alberta Engineering Graduate & Undergraduate Students from Chemical (CPC), Computer, Electrical, Internetworking, Mechanical, and Petroleum Engineering.
 
-
 **WHEN:**  Thursday, February 4, 2021, 5:00 PM – 6:30 PM MST
 
-
 **WHERE:** [Register Here](https://www.eventbrite.ca/e/siemens-canada-sceta-information-session-registration-137846660071)
-
 
 **WHAT:** 
 
@@ -77,4 +71,4 @@ Their unique Dual Education program recruits the most elite students and prepare
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!  Be sure to stop by the CompE Club Room to grab a snack and say hi! Prices for most snacks have been slashed, so now is the time to buy. <33
+Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want to be featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!
