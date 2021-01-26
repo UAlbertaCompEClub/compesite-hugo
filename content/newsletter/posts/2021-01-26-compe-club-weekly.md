@@ -57,7 +57,7 @@ BlackBerry Brings you Business | Jan 29 @ 11:00 am MST
 Blackberry is hosting some virtual Info Session. Join them and learn more about Summer 2021 opportunities!
 <br/>
 
-### 3)  ITEM 1
+### 3)  Siemens Canada Virtual Info Session
 
 **WHO:** University of Alberta Engineering Graduate & Undergraduate Students from Chemical (CPC), Computer, Electrical, Internetworking, Mechanical, and Petroleum Engineering.
 
