@@ -30,10 +30,12 @@ Registration by Tuesday, January 26th, 6 PM. Debate on Wednesday, January 27th f
 
 **WHAT:** 
 
-GEER Yeer’s annual Debate is just around the corner! This event will be held over Zoom this Wednesday (January 27th) from 1-8 pm. Each debate will run for 22 minutes, with an 8 minute break in between rounds. The debate will follow a formal parliamentary-style, where competitors will present an entertaining and reasonable argument to the presented topic. Each round will begin with the moderator giving a brief introduction to the proposition and opposition speakers, along with the resolution. Each debate will be separated into 3 stages: opening remarks, open discussion, and closing remarks.\
+GEER Yeer’s annual Debate is just around the corner! This event will be held over Zoom this Wednesday (January 27th) from 1-8 pm. Each debate will run for 22 minutes, with an 8 minute break in between rounds. The debate will follow a formal parliamentary-style, where competitors will present an entertaining and reasonable argument to the presented topic. Each round will begin with the moderator giving a brief introduction to the proposition and opposition speakers, along with the resolution. Each debate will be separated into 3 stages: opening remarks, open discussion, and closing remarks.
+
 Opening Remarks: Beginning with the proposition, speakers from each team will have 4 minutes to address the resolution.\
 Open Discussion: Speakers from each team can freely address and heckle their opponent for 4 minutes.\
-Closing Remarks: Beginning with the opposition, each speaker will have 3 minutes to address the resolution and their opponent’s argument.                     \
+Closing Remarks: Beginning with the opposition, each speaker will have 3 minutes to address the resolution and their opponent’s argument.
+
 So if you are interested send your name and emails to [kmittal@ualberta.ca](mailto:kmittal@ualberta.ca) by 26 January Before 6 pm
 <br/>
 
