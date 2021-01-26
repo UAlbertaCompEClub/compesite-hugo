@@ -24,7 +24,6 @@ Welcome to the third week of Winter 2021! Some classes already started having mi
 
 ### 1)  **GEER Yeer's annual Debate**
 
-
 **WHEN:** 
 
 Registration by Tuesday, January 26th, 6 PM. Debate on Wednesday, January 27th from 1 PM ~ 8 PM
@@ -40,15 +39,13 @@ So if you are interested send your name and emails to [kmittal@ualberta.ca](mai
 
 ### 2)  ITEM 2
 
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+**WHEN:**
+BlackBerry Brings you a Recruiters Tell-All Session | Jan 26 @ 11:00 am MST
+BlackBerry Brings You Networking, Systems and Cybersecurity | Jan 27 @ 11:00 am MST
+BlackBerry Brings You Software Development and Testing | Jan 28 @ 11:00 am MST
+BlackBerry Brings you Business | Jan 29 @ 11:00 am MST
+**WHERE:** [Register Here](https://www.blackberry.com/us/en/company/careers/students/job-fair)
+**WHAT:** Blackberry is hosting some virtual Info Session. Join them and learn more about Summer 2021 opportunities!
 <br/>
 
 ### 3)  ITEM 1
