@@ -38,7 +38,7 @@ Closing Remarks: Beginning with the opposition, each speaker will have 3 minutes
 So if you are interested send your name and emails to [kmittal@ualberta.ca](mailto:kmittal@ualberta.ca) by 26 January Before 6 pm
 <br/>
 
-### 2)  ITEM 2
+### 2)  BlackBerry Virtual Info Session
 
 **WHEN:**
 
