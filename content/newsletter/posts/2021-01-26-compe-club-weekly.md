@@ -23,6 +23,8 @@ Welcome to the third week of the winter semester! Some classes already have midt
 
 ### 1)  **GEER Yeer's annual Debate**
 
+**WHO:** Computer Engineering Students
+
 **WHEN:** 
 
 Registration by Tuesday, January 26th, 6 PM. Debate on Wednesday, January 27th from 1 PM ~ 8 PM
