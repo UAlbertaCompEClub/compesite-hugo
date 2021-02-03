@@ -37,7 +37,7 @@ Their unique Dual Education program recruits the most elite students and prepare
 
 ### 2)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
 
-**WHO:** This event is targeted for graduate students and early-career professionals who want to amp up their skills in professional settings.
+**WHO:** This event is targeted at graduate students and early-career professionals who want to amp up their skills in professional settings.
 
 
 **WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
