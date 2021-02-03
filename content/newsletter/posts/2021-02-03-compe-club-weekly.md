@@ -11,7 +11,7 @@ date = "2021-02-02"
 [sidebar]
 align = "right"
 +++
-Welcome to the fourth week of school. 
+Welcome to the fourth week of school. Already month of 2021 has passed and reading week is coming in few weeks. I hope everyone is doing well and here are some interesting events and career opportunities
 <br/>
 
 ### Highlights:
@@ -44,22 +44,9 @@ Remove unnecessary fields. Remove this comment as well.
 -->
 
 **WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
-<br/>
-
-### 3)  ITEM 1
-
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+**WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
+**WHERE:** [RSVP Here](https://wiserimprov.eventbrite.ca/)
+**WHAT:** Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). This event is targeted for graduate students and early-career professionals who want to amp up their skills in professional settings.
 <br/>
 
 ### Signing Off...
