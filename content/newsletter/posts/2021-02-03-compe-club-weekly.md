@@ -11,7 +11,7 @@ date = "2021-02-02"
 [sidebar]
 align = "right"
 +++
-Welcome to the fourth week of school. Already month of 2021 has passed and reading week is coming in few weeks. I hope everyone is doing well and here are some interesting events and career opportunities
+Welcome to the fourth week of school. Already month of 2021 has passed and reading week is coming in few weeks. I hope everyone is doing well and here are some interesting events and career opportunities.
 <br/>
 
 ### Highlights:
