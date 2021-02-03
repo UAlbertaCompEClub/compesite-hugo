@@ -53,4 +53,4 @@ Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the c
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!  Be sure to stop by the CompE Club Room to grab a snack and say hi! Prices for most snacks have been slashed, so now is the time to buy. <33
+Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want to be featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!
