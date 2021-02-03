@@ -17,8 +17,7 @@ Welcome to the fourth week of school. Already month of 2021 has passed and readi
 ### Highlights:
 
 * **Siemens Canada Virtual Info Session**
-* Highlight 2
-* Highlight 3
+* **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
   <br/>
 
 ### 1)  Siemens Canada Virtual Info Session
@@ -36,12 +35,7 @@ Start your journey toward a promising career with Siemens by joining their elite
 Their unique Dual Education program recruits the most elite students and prepares them to take a future leadership role in the company. Siemens provides comprehensive training, pays you while you work and throughout your final year of studies, and provides a tuition allowance upon graduation.
 <br/>
 
-### 2)  ITEM 2
-
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
+### 2)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
 
 **WHO:** INSERT TEXT HERE
 **WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
