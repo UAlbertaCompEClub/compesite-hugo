@@ -34,17 +34,18 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
 <br/>
 
-### 2)  ITEM 2
+### 2)  Tech Leadership Program
 
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
+**WHO:** Woman with an undergrad or master’s degree (currently enrolled or recently graduated) in a technical field who is curious about tech entrepreneurship.
 
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+
+**WHEN:**  Application close February 22, 2021
+**WHERE:** [Apply Here](http://tandemlaunch-8609124.hs-sites.com/young-womens-tech-leadership-program) [Produce your video Here](https://www.sparkhire.com/job/57fad029-f952-453c-951f-54b819fbf486)
+**WHAT:**
+
+
+
+You can apply by submitting a letter of interest, stating why you wish to pursue this learning journey, as well as uploading a 2-minute video stating the same.
 <br/>
 
 ### 3)  ITEM 1
