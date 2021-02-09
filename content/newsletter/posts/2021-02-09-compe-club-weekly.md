@@ -52,6 +52,8 @@ The Young Women’s Tech Leadership Program (YWTL) is designed by TandemLaunch, 
 
 You can apply by submitting a letter of interest, stating why you wish to pursue this learning journey, as well as uploading a 2-minute video stating the same.
 
+Criteria: currently enrolled or recently graduated (within two years) bachelor or master's level in a technical discipline with a demonstrated interest in entrepreneurship.
+
 Limit of 10 spots in the program, so apply early!
 
 For more information, contact Bobbi Bidochka at [bobbi.bidochka@tandemlaunch.​com](mailto:bobbi.bidochka@tandemlaunch.com)
