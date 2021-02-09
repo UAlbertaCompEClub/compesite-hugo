@@ -11,7 +11,7 @@ date = "2021-02-08"
 [sidebar]
 align = "right"
 +++
-Welcome to the fifth week of school! Midterm season is here so good luck to everyone! Make sure to check the syllabus and course outline to not miss anything. Also, we have a reading week next week so I hope everyone can recharge and rest. Today I brought 
+Welcome to the fifth week of school! Midterm season is here so good luck to everyone! Make sure to check the syllabus and course outline to not miss anything. Also, we have a reading week next week so I hope everyone can recharge and rest. Today I brought some career opportunities!
 <br/>
 
 ### Highlights:
@@ -53,6 +53,8 @@ The Young Women’s Tech Leadership Program (YWTL) is designed by TandemLaunch, 
 You can apply by submitting a letter of interest, stating why you wish to pursue this learning journey, as well as uploading a 2-minute video stating the same.
 
 Limit of 10 spots in the program, so apply early!
+
+For more information, contact Bobbi Bidochka at [bobbi.bidochka@tandemlaunch.​com](mailto:bobbi.bidochka@tandemlaunch.com)
 <br/>
 
 ### 3)  ITEM 1
