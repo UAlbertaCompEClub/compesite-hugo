@@ -28,7 +28,7 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 **WHEN:**  One-hour webinars take place on February 11 at 12 pm ET and February 25 at 2 pm ET.
 
 
-**WHERE:** To register and learn more: [https://blog.​canadianprosperityproject.ca/​ignite-with-stem/](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
+**WHERE:** [To register and learn more](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
 
 
 **WHAT:** 
