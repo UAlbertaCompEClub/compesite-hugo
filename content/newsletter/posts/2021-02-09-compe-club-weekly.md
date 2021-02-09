@@ -67,9 +67,19 @@ Remove unnecessary fields. Remove this comment as well.
 -->
 
 **WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+**WHEN:**  One-hour webinars take place on February 11 at 12 pm ET and February 25 at 2 pm ET.
+**WHERE:** To register and learn more: [https://blog.​canadianprosperityproject.ca/​ignite-with-stem/](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
+**WHAT:** 
+
+The Prosperity Project™ and Ontario Power Generation are hosting a webinar series that is all about Women in STEM.
+
+This series introduces women in the workforce to inspirational and encouraging speakers within STEM fields. Featuring motivated speakers, the free webinars are open to everyone with a passion for science, technology, engineering, and mathematics.
+
+· Speakers from industry and academia will share their insight, success stories, opportunities, resources and provide valuable guidance.
+
+If you have any questions, please contact us at [info@​canadianprosperityproject.ca](mailto:info@canadianprosperityproject.ca).
+
+<!--EndFragment-->
 <br/>
 
 ### Signing Off...
