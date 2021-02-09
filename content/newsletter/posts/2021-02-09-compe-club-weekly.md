@@ -34,7 +34,7 @@ The Prosperity Project™ and Ontario Power Generation are hosting a webinar ser
 
 This series introduces women in the workforce to inspirational and encouraging speakers within STEM fields. Featuring motivated speakers, the free webinars are open to everyone with a passion for science, technology, engineering, and mathematics.
 
-· Speakers from industry and academia will share their insight, success stories, opportunities, resources and provide valuable guidance.
+Speakers from industry and academia will share their insight, success stories, opportunities, resources and provide valuable guidance.
 
 If you have any questions, please contact them at [info@​canadianprosperityproject.ca](mailto:info@canadianprosperityproject.ca).
 <br/>
