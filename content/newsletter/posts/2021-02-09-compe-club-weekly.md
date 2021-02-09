@@ -16,22 +16,22 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 
 ### Highlights:
 
-* Highlight 1
+* **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
 * Highlight 2
 * Highlight 3
   <br/>
 
-### 1)  ITEM 1
+### 1)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
 
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
+**WHO:** This event is targeted at graduate students and early-career professionals who want to amp up their skills in professional settings.
 
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+**WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
+
+**WHERE:** [RSVP Here](https://wiserimprov.eventbrite.ca/)
+
+**WHAT:** 
+
+Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
 <br/>
 
 ### 2)  ITEM 2
