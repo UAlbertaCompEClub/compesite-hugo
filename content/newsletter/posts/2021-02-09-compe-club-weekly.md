@@ -16,22 +16,30 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 
 ### Highlights:
 
-* **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
+* **Webinar series about Women in STEM**
 * **Young Women’s Tech Leadership Program**
-* Highlight 3
-  <br/>
+* **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
 
-### 1)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
+<br/>
 
-**WHO:** This event is targeted at graduate students and early-career professionals who want to amp up their skills in professional settings.
+### 1) Webinar series about **Women in STEM**
 
-**WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
 
-**WHERE:** [RSVP Here](https://wiserimprov.eventbrite.ca/)
+**WHEN:**  One-hour webinars take place on February 11 at 12 pm ET and February 25 at 2 pm ET.
+
+
+**WHERE:** To register and learn more: [https://blog.​canadianprosperityproject.ca/​ignite-with-stem/](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
+
 
 **WHAT:** 
 
-Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
+The Prosperity Project™ and Ontario Power Generation are hosting a webinar series that is all about Women in STEM.
+
+This series introduces women in the workforce to inspirational and encouraging speakers within STEM fields. Featuring motivated speakers, the free webinars are open to everyone with a passion for science, technology, engineering, and mathematics.
+
+· Speakers from industry and academia will share their insight, success stories, opportunities, resources and provide valuable guidance.
+
+If you have any questions, please contact us at [info@​canadianprosperityproject.ca](mailto:info@canadianprosperityproject.ca).
 <br/>
 
 ### 2)  Young Women’s Tech Leadership Program
@@ -59,27 +67,17 @@ Limit of 10 spots in the program, so apply early!
 For more information, contact Bobbi Bidochka at [bobbi.bidochka@tandemlaunch.​com](mailto:bobbi.bidochka@tandemlaunch.com)
 <br/>
 
-### 3)  ITEM 1
+### 3)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
 
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
+**WHO:** This event is targeted at graduate students and early-career professionals who want to amp up their skills in professional settings.
 
-**WHO:** INSERT TEXT HERE
-**WHEN:**  One-hour webinars take place on February 11 at 12 pm ET and February 25 at 2 pm ET.
-**WHERE:** To register and learn more: [https://blog.​canadianprosperityproject.ca/​ignite-with-stem/](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
+**WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
+
+**WHERE:** [RSVP Here](https://wiserimprov.eventbrite.ca/)
+
 **WHAT:** 
 
-The Prosperity Project™ and Ontario Power Generation are hosting a webinar series that is all about Women in STEM.
-
-This series introduces women in the workforce to inspirational and encouraging speakers within STEM fields. Featuring motivated speakers, the free webinars are open to everyone with a passion for science, technology, engineering, and mathematics.
-
-· Speakers from industry and academia will share their insight, success stories, opportunities, resources and provide valuable guidance.
-
-If you have any questions, please contact us at [info@​canadianprosperityproject.ca](mailto:info@canadianprosperityproject.ca).
-
-<!--EndFragment-->
+Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
 <br/>
 
 ### Signing Off...
