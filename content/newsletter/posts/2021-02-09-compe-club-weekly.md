@@ -24,12 +24,9 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 
 ### 1) Webinar series about **Women in STEM**
 
-
 **WHEN:**  One-hour webinars take place on February 11 at 12 pm ET and February 25 at 2 pm ET.
 
-
 **WHERE:** [To register and learn more](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
-
 
 **WHAT:** 
 
@@ -39,7 +36,7 @@ This series introduces women in the workforce to inspirational and encouraging s
 
 · Speakers from industry and academia will share their insight, success stories, opportunities, resources and provide valuable guidance.
 
-If you have any questions, please contact us at [info@​canadianprosperityproject.ca](mailto:info@canadianprosperityproject.ca).
+If you have any questions, please contact them at [info@​canadianprosperityproject.ca](mailto:info@canadianprosperityproject.ca).
 <br/>
 
 <br/>
@@ -50,9 +47,7 @@ If you have any questions, please contact us at [info@​canadianprosperityproj
 
 **WHEN:**  Application close February 22, 2021
 
-
 **WHERE:** [Apply Here](http://tandemlaunch-8609124.hs-sites.com/young-womens-tech-leadership-program) [Produce your video Here](https://www.sparkhire.com/job/57fad029-f952-453c-951f-54b819fbf486)
-
 
 **WHAT:**
 
