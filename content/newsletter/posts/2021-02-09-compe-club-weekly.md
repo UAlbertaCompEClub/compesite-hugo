@@ -48,15 +48,11 @@ Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the c
 
 <!--StartFragment-->
 
-The Young Women’s Tech Leadership Program (YWTL) is designed by TandemLaunch, as a way of giving back to the community by offering a free learning program to young women, to discover what it takes to lead and co-found a deep tech company. It is their hope that by exposing young women tech leaders to the aspects of creating a deep tech company, they may be more inspired to pursue this type of opportunity as a career in the future. The program will run for four weeks, starting on March 8, 2021 (International Women’s Day) and ending on March 31, 2021. Participants will be introduced to concepts and activities that have been instrumental to TandemLaunch’s success such as, building an engaging narrative, conducting market studies, IP licensing, business validation, product development, developing an entrepreneurial mindset, venture capital fundraising and much more.
-
- 
-
-The program will run for four weeks, starting on March 8, 2021 (International Women’s Day) and ending March 31, 2021. Participants will be introduced to concepts and activities that have been instrumental to TandemLaunch’s success such as, building an engaging narrative, conducting market studies, IP licensing, business validation, product development, developing an entrepreneurial mindset, venture capital fundraising and much more.
-
-<!--EndFragment-->
+The Young Women’s Tech Leadership Program (YWTL) is designed by TandemLaunch, as a way of giving back to the community by offering a free learning program to young women, to discover what it takes to lead and co-found a deep tech company. It is their hope that by exposing young women tech leaders to the aspects of creating a deep tech company, they may be more inspired to pursue this type of opportunity as a career in the future. The program will run for four weeks, starting on March 8, 2021 (International Women’s Day) and ending on March 31, 2021. Participants will be introduced to concepts and activities that have been instrumental to TandemLaunch’s success such as, building an engaging narrative, conducting market studies, IP licensing, business validation, product development, developing an entrepreneurial mindset, venture capital fundraising, and much more.
 
 You can apply by submitting a letter of interest, stating why you wish to pursue this learning journey, as well as uploading a 2-minute video stating the same.
+
+Limit of 10 spots in the program, so apply early!
 <br/>
 
 ### 3)  ITEM 1
