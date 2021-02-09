@@ -17,7 +17,7 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 ### Highlights:
 
 * **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
-* Highlight 2
+* **Young Women’s Tech Leadership Program**
 * Highlight 3
   <br/>
 
@@ -34,16 +34,27 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
 <br/>
 
-### 2)  Tech Leadership Program
+### 2)  Young Women’s Tech Leadership Program
 
 **WHO:** Woman with an undergrad or master’s degree (currently enrolled or recently graduated) in a technical field who is curious about tech entrepreneurship.
 
-
 **WHEN:**  Application close February 22, 2021
+
+
 **WHERE:** [Apply Here](http://tandemlaunch-8609124.hs-sites.com/young-womens-tech-leadership-program) [Produce your video Here](https://www.sparkhire.com/job/57fad029-f952-453c-951f-54b819fbf486)
+
+
 **WHAT:**
 
+<!--StartFragment-->
 
+The Young Women’s Tech Leadership Program (YWTL) is designed by TandemLaunch, as a way of giving back to the community by offering a free learning program to young women, to discover what it takes to lead and co-found a deep tech company. It is their hope that exposing young women tech leaders to the aspects of creating a deep tech company, they may be more inspired to pursue this type of opportunity as a career in the future. The program will run for four weeks, starting on March 8, 2021 (International Women’s Day) and ending March 31, 2021. Participants will be introduced to concepts and activities that have been instrumental to TandemLaunch’s success such as, building an engaging narrative, conducting market studies, IP licensing, business validation, product development, developing an entrepreneurial mindset, venture capital fundraising and much more.
+
+ 
+
+The program will run for four weeks, starting on March 8, 2021 (International Women’s Day) and ending March 31, 2021. Participants will be introduced to concepts and activities that have been instrumental to TandemLaunch’s success such as, building an engaging narrative, conducting market studies, IP licensing, business validation, product development, developing an entrepreneurial mindset, venture capital fundraising and much more.
+
+<!--EndFragment-->
 
 You can apply by submitting a letter of interest, stating why you wish to pursue this learning journey, as well as uploading a 2-minute video stating the same.
 <br/>
