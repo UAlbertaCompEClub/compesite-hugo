@@ -36,7 +36,6 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
 
 <br/>
-<br/>
 
 ### 2) Webinar series about **Women in STEM**
 
