@@ -24,7 +24,25 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 
 <br/>
 
-### 1) Webinar series about **Women in STEM**
+
+<br/>
+
+### 1)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
+
+**WHO:** This event is targeted at graduate students and early-career professionals who want to amp up their skills in professional settings.
+
+**WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
+
+**WHERE:** [RSVP Here](https://wiserimprov.eventbrite.ca/)
+
+**WHAT:** 
+
+Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
+<br/>
+
+<br/>
+
+### 2) Webinar series about **Women in STEM**
 
 **WHEN:**  One-hour webinars take place on February 25 at 2 pm ET.
 
@@ -39,22 +57,6 @@ This series introduces women in the workforce to inspirational and encouraging s
 Speakers from industry and academia will share their insight, success stories, opportunities, resources and provide valuable guidance.
 
 If you have any questions, please contact them at [info@​canadianprosperityproject.ca](mailto:info@canadianprosperityproject.ca).
-<br/>
-
-<br/>
-
-### 3)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
-
-**WHO:** This event is targeted at graduate students and early-career professionals who want to amp up their skills in professional settings.
-
-**WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
-
-**WHERE:** [RSVP Here](https://wiserimprov.eventbrite.ca/)
-
-**WHAT:** 
-
-Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
-<br/>
 
 <br/>
 
