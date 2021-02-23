@@ -24,7 +24,7 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 
 ### 1) Webinar series about **Women in STEM**
 
-**WHEN:**  One-hour webinars take place on February 11 at 12 pm ET and February 25 at 2 pm ET.
+**WHEN:**  One-hour webinars take place on February 25 at 2 pm ET.
 
 **WHERE:** [To register and learn more](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
 
