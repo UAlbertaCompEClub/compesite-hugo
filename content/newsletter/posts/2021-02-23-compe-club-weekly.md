@@ -11,7 +11,7 @@ date = "2021-02-22"
 [sidebar]
 align = "right"
 +++
-Welcome to the sixth week of school! I hope everyone rested well during reading week and doing well on their midterm exams! Make sure to check the syllabus and course outline to not miss anything. Also, we have a reading week next week so I hope everyone can recharge and rest. Here are some interesting career opportunities today!
+Welcome to the sixth week of school! I hope everyone rested well during reading week and doing well on their midterm exams! Here are some interesting career opportunities today!
 <br/>
 
 ### Highlights:
