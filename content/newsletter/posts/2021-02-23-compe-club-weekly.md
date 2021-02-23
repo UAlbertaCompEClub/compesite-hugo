@@ -18,7 +18,7 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 
 * **Webinar series about Women in STEM**
 * **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
-* **Young Women’s Tech Leadership Program**
+* **ECE First Year Night**
 
 
 
