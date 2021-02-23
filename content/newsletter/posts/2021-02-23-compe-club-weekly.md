@@ -44,7 +44,7 @@ Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the c
 
 ### 2) Webinar series about **Women in STEM**
 
-**WHEN:**  One-hour webinars take place on February 25 at 2 pm ET.
+**WHEN:**  One-hour webinars take place on Thursday, February 25th at 2 pm ET.
 
 **WHERE:** [To register and learn more](https://blog.canadianprosperityproject.ca/ignite-with-stem/)
 
