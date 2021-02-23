@@ -16,15 +16,11 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 
 ### Highlights:
 
-* **Webinar series about Women in STEM**
 * **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
+* **Webinar series about Women in STEM**
 * **ECE First Year Night**
 
-
-
 <br/>
-
-
 <br/>
 
 ### 1)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
@@ -38,8 +34,8 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 **WHAT:** 
 
 Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
-<br/>
 
+<br/>
 <br/>
 
 ### 2) Webinar series about **Women in STEM**
@@ -80,7 +76,6 @@ Attendees will have the opportunity to ask questions about what it's like
 being in one of the top 3 Engineering disciplines. Everything from course content
 to career advice, with sessions for 1 on 1 Q&A if you're so inclined.
 We hope to see you there.
-<br/>
 
 <br/>
 
