@@ -64,21 +64,30 @@ For more information, contact Bobbi Bidochka atÂ [bobbi.bidochka@tandemlaunch.â€
 
 <br/>
 
-### 3)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
+### 3)  **ECE First Year Night**
 
-**WHO:** This event is targeted at graduate students and early-career professionals who want to amp up their skills in professional settings.
+**WHO:** All first years interested in ECE Disciplines
 
-**WHEN:**  2 dates available - Tuesday, February 23rd and Wednesday, February 24th - pick one that fits your schedule!
+**WHEN:**  Wednesday, March 10th, 5:00pm - 6:00pm
 
-**WHERE:** [RSVP Here](https://wiserimprov.eventbrite.ca/)
+**WHERE:** Zoom meeting (Link to be announced)
+
 
 **WHAT:** 
 
-Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the concept of improvisation and give you a new perspective of how improvisation can polish confidence, adaptability, interpersonal skills, and communications. All these are essential in making a good first impression in job interviews, networking with new people, and communicating more effectively at your workplace (or in life in general). 
+ECE First Year night is coming. If you're in your first year
+and you're having doubts about what discipline to pick, this is the event for you!
+If you're not in the first year, be sure to let all your first-year friends know.
+This will be an hour-long panel where panelists will
+discuss what one can expect from each ECE discipline.
+Attendees will have the opportunity to ask questions about what it's like
+being in one of the top 3 Engineering disciplines. Everything from course content
+to career advice, with sessions for 1 on 1 Q&A if you're so inclined.
+We hope to see you there.
 <br/>
 
 <br/>
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!
+Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want to be featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!
