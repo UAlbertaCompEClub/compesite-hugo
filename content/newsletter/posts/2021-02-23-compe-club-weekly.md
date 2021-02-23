@@ -17,8 +17,10 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 ### Highlights:
 
 * **Webinar series about Women in STEM**
-* **Young Women’s Tech Leadership Program**
 * **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
+* **Young Women’s Tech Leadership Program**
+
+
 
 <br/>
 
@@ -56,25 +58,26 @@ Facilitated by Rapid Fire Theatre, the interactive workshop will introduce the c
 
 <br/>
 
-### 2)  Young Women’s Tech Leadership Program
+### 3)  **ECE First Year Night**
 
-**WHO:** Woman with an undergrad or master’s degree (currently enrolled or recently graduated) in a technical field who is curious about tech entrepreneurship.
+**WHO:** All first years interested in ECE Disciplines
 
-**WHEN:**  Application close February 22, 2021
+**WHEN:**  Wednesday, March 10th, 5:00pm - 6:00pm
 
-**WHERE:** [Apply Here](http://tandemlaunch-8609124.hs-sites.com/young-womens-tech-leadership-program) [Produce your video Here](https://www.sparkhire.com/job/57fad029-f952-453c-951f-54b819fbf486)
+**WHERE:** Zoom meeting (Link to be announced)
 
-**WHAT:**
 
-The Young Women’s Tech Leadership Program (YWTL) is designed by TandemLaunch, as a way of giving back to the community by offering a free learning program to young women, to discover what it takes to lead and co-found a deep tech company. It is their hope that by exposing young women tech leaders to the aspects of creating a deep tech company, they may be more inspired to pursue this type of opportunity as a career in the future. The program will run for four weeks, starting on March 8, 2021 (International Women’s Day) and ending on March 31, 2021. Participants will be introduced to concepts and activities that have been instrumental to TandemLaunch’s success such as, building an engaging narrative, conducting market studies, IP licensing, business validation, product development, developing an entrepreneurial mindset, venture capital fundraising, and much more.
+**WHAT:** 
 
-You can apply by submitting a letter of interest, stating why you wish to pursue this learning journey, as well as uploading a 2-minute video stating the same.
-
-Criteria: currently enrolled or recently graduated (within two years) bachelor or master's level in a technical discipline with a demonstrated interest in entrepreneurship.
-
-Limit of 10 spots in the program, so apply early!
-
-For more information, contact Bobbi Bidochka at [bobbi.bidochka@tandemlaunch.​com](mailto:bobbi.bidochka@tandemlaunch.com)
+ECE First Year night is coming. If you're in your first year
+and you're having doubts about what discipline to pick, this is the event for you!
+If you're not in the first year, be sure to let all your first-year friends know.
+This will be an hour-long panel where panelists will
+discuss what one can expect from each ECE discipline.
+Attendees will have the opportunity to ask questions about what it's like
+being in one of the top 3 Engineering disciplines. Everything from course content
+to career advice, with sessions for 1 on 1 Q&A if you're so inclined.
+We hope to see you there.
 <br/>
 
 <br/>
