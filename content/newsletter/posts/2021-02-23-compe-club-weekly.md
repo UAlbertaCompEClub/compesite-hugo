@@ -21,7 +21,6 @@ Welcome to the sixth week of school! I hope everyone rested well during reading 
 * **ECE First Year Night**
 
 <br/>
-<br/>
 
 ### 1)  **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
 
