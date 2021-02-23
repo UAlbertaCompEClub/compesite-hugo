@@ -18,7 +18,7 @@ Welcome to the fifth week of school! Midterm season is here so good luck to ever
 
 * **Webinar series about Women in STEM**
 * **Young Women’s Tech Leadership Program**
-* **WiSER's Essential Improvisation Skills for Professional Settings Workshop**
+* **ECE First Year Night**
 
 <br/>
 
