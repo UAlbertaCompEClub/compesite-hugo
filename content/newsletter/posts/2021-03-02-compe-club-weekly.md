@@ -16,7 +16,6 @@ Welcome to the seventh week of school! March started which means half of the sem
 
 ### Highlights:
 * **ECE First Year Night**
-* Highlight 2
 <br/>
 
 ### 1)  **ECE First Year Night**
@@ -40,18 +39,6 @@ to career advice, with sessions for 1 on 1 Q&A if you're so inclined.
 We hope to see you there.
 
 <br/>
-
-### 2)  ITEM 2
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
-<br/>
-
 
 ### Signing Off...
 
