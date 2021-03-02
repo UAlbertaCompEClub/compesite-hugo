@@ -11,7 +11,7 @@ date = "2021-03-01"
 [sidebar]
 align = "right"
 +++
-Welcome to the seventh week of school! March started which means half of the semester has passed. I believe you guys will be able to get through the rest of the semester as well! Here are some interesting event for you!
+Welcome to the seventh week of school! March started which means half of the semester has passed. I believe you guys will be able to get through the rest of the semester as well! Here is some interesting event for you!
 <br/>
 
 ### Highlights:
