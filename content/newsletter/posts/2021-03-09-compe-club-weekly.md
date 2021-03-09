@@ -11,7 +11,7 @@ date = "2021-03-08"
 [sidebar]
 align = "right"
 +++
-Welcome to the eighth week of school! I hope all of your midterms are going well. This Wednesday, we have an ECE combined First year night at 5:00 PM. Please spread the word to the first years you know and have a great week!
+Welcome to the eighth week of school! I hope all of your midterms are going well. This Wednesday, we have an ECE combined First year night at 5:00 PM. Please share the news with your first year friends and have a great week!
 <br/>
 
 ### Highlights:
