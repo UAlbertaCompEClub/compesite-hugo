@@ -11,7 +11,7 @@ date = "2021-03-16"
 [sidebar]
 align = "right"
 +++
-Welcome to the ninth week of school! I hope everyone is almost done with their midterms and achieved what you aimed for. School is important but don't forget to rest and take a break!
+Welcome to the ninth week of school! I hope everyone is almost done with their midterms and achieved what you aimed for. School is important but don't forget to rest and take some break!
 <br/>
 
 ### Highlights:
