@@ -11,24 +11,20 @@ date = "2021-03-16"
 [sidebar]
 align = "right"
 +++
-Welcome to the ninth week of school! I hope everyone is almost done with their midterms and achieved what you aimed for. School is important but don't forget to rest and take a break! Today I don't have a news for you 
+Welcome to the ninth week of school! I hope everyone is almost done with their midterms and achieved what you aimed for. School is important but don't forget to rest and take a break!
 <br/>
 
 ### Highlights:
-* Highlight 1
-* Highlight 2
-* Highlight 3
+* **Computer Engineering Club Election**
 <br/>
 
-### 1)  ITEM 1
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+### 1)  Computer Engineering Club Election
+
+**WHO:** Computer Engineering Students
+
+**WHEN:** To be announced
+
+**WHAT:** Our annual election for the Computer Engineeing Club will be held in few weeks. It is a good time to start think about it if you wish to run for it. More detailed information will be provided in future newsletter.
 <br/>
 
 ### Signing Off...
