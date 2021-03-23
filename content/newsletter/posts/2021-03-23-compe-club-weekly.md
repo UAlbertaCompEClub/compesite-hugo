@@ -27,7 +27,7 @@ Welcome to the tenth week of school! We are almost approaching the end of the se
 
 **WHEN:** Thursday, April 1st, 7:00 PM
 
-**WHAT:** Our election and Annual General Meeting for the Computer Engineering Club will be held next week. It is a good time to start think about it if you wish to run for it. Following roles up for election.
+**WHAT:** Our election and Annual General Meeting for the Computer Engineering Club will be held next week. It is a good time to start think about it if you wish to run for it. The following roles are up for election.
 - President
 - VP Internal
 - VP External
