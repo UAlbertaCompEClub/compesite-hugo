@@ -54,14 +54,14 @@ Remove unnecessary fields. Remove this comment as well.
 <br/>
 
 ### 4)  10th Annual Unity Engineering Art Show: Closing Ceremonies
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
+
+**WHEN:**  Friday, March 26th, 6:00 - 8:00 PM
+
+**WHERE:** Zoom, [RSVP Here](https://www.eventbrite.ca/e/engineering-art-show-closing-ceremonies-tickets-130140350291)
+
+**WHAT:** The ESS Engineering Art Show will be hosting Closing Ceremonies on March 26th, 6:00-8:00 PM via Zoom. There will be the final art showcase, speeches, and live performances. Arno Pronk and Victoria Thomsen are confirmed guest speakers.
+
+If you have any questions, please contact the Engineering Art Show Coordinators at [itieu@ualberta.ca](mailto:itieu@ualberta.ca) and [fr3@ualberta.ca](mailto:fr3@ualberta.ca).
 <br/>
 
 ### Signing Off...
