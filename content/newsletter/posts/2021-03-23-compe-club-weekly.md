@@ -11,7 +11,7 @@ date = "2021-03-23"
 [sidebar]
 align = "right"
 +++
-Welcome to the tenth week of school! We have a 
+Welcome to the tenth week of school! We are almost approaching the end of the semester and I hope everyone is doing well! Good Luck on your midterms if you still have them and here are some interesting events that are coming up.
 <br/>
 
 ### Highlights:
