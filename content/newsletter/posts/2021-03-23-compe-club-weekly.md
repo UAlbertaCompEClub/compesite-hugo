@@ -48,7 +48,7 @@ Remove unnecessary fields. Remove this comment as well.
 
 **WHEN:**  Wednesday, March 24th, 7:00 PM to 9:00 PM 
 
-**WHERE:** [RSVP Here](https://www.eventbrite.ca/e/engineering-art-show-talent-show-competition-tickets-130140280081), [Google Form dor Performances](https://docs.google.com/forms/d/e/1FAIpQLSezvCOyGLBObz3fi4CvJ4cbnN7dEthAQb0iNSBfa4SFuKqF9g/viewform)
+**WHERE:** [RSVP Here](https://www.eventbrite.ca/e/engineering-art-show-talent-show-competition-tickets-130140280081)
 
 **WHAT:** The Engineering Art Show will be hosting a Talent Show Competition via Discord where Engineering students can perform or submit performance videos in advance for participants to watch. The set will last 2 hours and incentives will be given out to viewers throughout the event. Participants will get to rank performers in the submitted video and live performance categories and the performers with the most points in each category will receive a prize.
 <br/>
