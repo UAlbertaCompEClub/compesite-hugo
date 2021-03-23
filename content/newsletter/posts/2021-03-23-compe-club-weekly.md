@@ -19,6 +19,7 @@ Welcome to the tenth week of school! We are almost approaching the end of the se
 * **Unity Engineering Art Show: Cooking Night**
 * **Unity Engineering Art Show: Talent Show Competition**
 * **10th Annual Unity Engineering Art Show: Closing Ceremonies**
+
 <br/>
 
 ### 1)  Computer Engineering Club Election & AGM
@@ -35,6 +36,7 @@ Welcome to the tenth week of school! We are almost approaching the end of the se
 - VP Finance
 
 More detailed information will be provided in a future newsletter.
+
 <br/>
 
 ### 2)  Unity Engineering Art Show: Cooking Night
@@ -45,6 +47,7 @@ More detailed information will be provided in a future newsletter.
 **WHERE:** [RSVP Here](https://www.eventbrite.ca/e/engineering-art-show-cooking-night-tickets-130140009271), 
 
 **WHAT:** The Engineering Art Show will be hosting a Talent Show Competition via Discord where Engineering students can perform or submit performance videos in advance for participants to watch. The set will last 2 hours and incentives will be given out to viewers throughout the event. Participants will get to rank performers in the submitted video and live performance categories and the performers with the most points in each category will receive a prize.
+
 <br/>
 
 ### 3)  Unity Engineering Art Show: Talent Show Competition
@@ -58,6 +61,7 @@ Remove unnecessary fields. Remove this comment as well.
 **WHERE:** [RSVP Here](https://www.eventbrite.ca/e/engineering-art-show-talent-show-competition-tickets-130140280081)
 
 **WHAT:** The Engineering Art Show will be hosting a Talent Show Competition via Discord where Engineering students can perform or submit performance videos in advance for participants to watch. The set will last 2 hours and incentives will be given out to viewers throughout the event. Participants will get to rank performers in the submitted video and live performance categories and the performers with the most points in each category will receive a prize.
+
 <br/>
 
 ### 4)  10th Annual Unity Engineering Art Show: Closing Ceremonies
@@ -69,6 +73,7 @@ Remove unnecessary fields. Remove this comment as well.
 **WHAT:** The ESS Engineering Art Show will be hosting Closing Ceremonies on March 26th, 6:00-8:00 PM via Zoom. There will be the final art showcase, speeches, and live performances. Arno Pronk and Victoria Thomsen are confirmed guest speakers.
 
 If you have any questions, please contact the Engineering Art Show Coordinators at [itieu@ualberta.ca](mailto:itieu@ualberta.ca) and [fr3@ualberta.ca](mailto:fr3@ualberta.ca).
+
 <br/>
 
 ### Signing Off...
