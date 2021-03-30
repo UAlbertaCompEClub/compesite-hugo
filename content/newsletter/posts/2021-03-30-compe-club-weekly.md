@@ -34,12 +34,11 @@ Welcome to the eleventh week of school!
 - VP External
 - VP Social
 - VP Finance
+- AVP Hackaton
 
-Here is the link to a more detailed description of each role.
+Here is the link to a more detailed description of each role. [Role Description](https://docs.google.com/presentation/d/1qsHOBKf1bvF-hZNxQIXHwJcOeeFZojBWfUZZ5LCeo7Q/edit?usp=sharing)
 
-[Role Description]()
-
-If you.
+If you wish to run please contact [internal@compeclub.com](mailto:internal@compeclub.com) and let us know about which role are you intereseted and one or two paragraphs of your Bio.
 
 <br/>
 
