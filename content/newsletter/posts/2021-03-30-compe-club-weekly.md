@@ -36,7 +36,7 @@ Welcome to the eleventh week of school! The semester is almost ending and I wish
 
 To Run for President or AVP hackathon, you need experience within Computer Engineering Club. Here is the link to a more detailed description of each role. [Role Description](https://docs.google.com/presentation/d/1qsHOBKf1bvF-hZNxQIXHwJcOeeFZojBWfUZZ5LCeo7Q/edit?usp=sharing)
 
-If you wish to run please contact [internal@compeclub.com](mailto:internal@compeclub.com) and let us know about which role are you interested in and one or two paragraphs of your bio and platform.
+If you wish to run please contact [internal@compeclub.com](mailto:internal@compeclub.com) and let us know about which role are you interested in, a picture of yourself, and one or two paragraphs of your bio and platform.
 
 <br/>
 
