@@ -11,13 +11,11 @@ date = "2021-03-30"
 [sidebar]
 align = "right"
 +++
-Welcome to the eleventh week of school!
+Welcome to the eleventh week of school! The Semester is almost ending and I wish everyone is doing well! We have an election coming up this Thursday if you are interested please read below for more details.
 <br/>
 
 ### Highlights:
 * **Computer Engineering Club Election & AGM**
-* Highlight 2
-* Highlight 3
 <br/>
 
 ### 1)  Computer Engineering Club Election & AGM
@@ -38,30 +36,8 @@ Welcome to the eleventh week of school!
 
 Here is the link to a more detailed description of each role. [Role Description](https://docs.google.com/presentation/d/1qsHOBKf1bvF-hZNxQIXHwJcOeeFZojBWfUZZ5LCeo7Q/edit?usp=sharing)
 
-If you wish to run please contact [internal@compeclub.com](mailto:internal@compeclub.com) and let us know about which role are you intereseted and one or two paragraphs of your Bio.
+If you wish to run please contact [internal@compeclub.com](mailto:internal@compeclub.com) and let us know about which role are you interested in and one or two paragraphs of your Bio and platform.
 
-<br/>
-
-### 2)  ITEM 2
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
-<br/>
-
-### 3)  ITEM 1
-<!--
-Note, not all of these fields (who, what, etc.) are necessary.
-Remove unnecessary fields. Remove this comment as well.
--->
-**WHO:** INSERT TEXT HERE
-**WHEN:**  INSERT TEXT HERE
-**WHERE:** INSERT TEXT HERE
-**WHAT:** INSERT TEXT HERE
 <br/>
 
 ### Signing Off...
