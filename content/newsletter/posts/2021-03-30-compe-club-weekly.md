@@ -11,7 +11,7 @@ date = "2021-03-30"
 [sidebar]
 align = "right"
 +++
-Welcome to the eleventh week of school! The Semester is almost ending and I wish everyone is doing well! We have an election coming up this Thursday if you are interested please read below for more details.
+Welcome to the eleventh week of school! The Semester is almost ending and I wish everyone is doing well! We have an election coming up this Thursday so if you are interested please read below for more details.
 <br/>
 
 ### Highlights:
