@@ -28,8 +28,8 @@ Welcome to the eleventh week of school! The semester is almost ending and I wish
 
 **WHAT:** Our election and Annual General Meeting for the Computer Engineering Club will be held this Thursday. It is a good time to start thinking about it if you wish to get involved in student governance. The following roles are up for election.
 - President
-- VP Internal
 - VP External
+- VP Internal
 - VP Social
 - VP Finance
 - AVP Hackaton
