@@ -26,7 +26,7 @@ Welcome to the eleventh week of school! The Semester is almost ending and I wish
 
 **WHERE:** [Computer Engineering Club Discord Server](https://discord.gg/AgPyeuhyCp)
 
-**WHAT:** Our election and Annual General Meeting for the Computer Engineering Club will be held this Thursday. It is a good time to start think about it if you wish to run for it. The following roles are up for election.
+**WHAT:** Our election and Annual General Meeting for the Computer Engineering Club will be held this Thursday. It is a good time to start thinking about it if you wish to get involved in student governance. The following roles are up for election.
 - President
 - VP Internal
 - VP External
