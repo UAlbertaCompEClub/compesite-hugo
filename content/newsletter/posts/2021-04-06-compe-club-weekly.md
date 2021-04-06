@@ -54,7 +54,7 @@ Whether you’re already an entrepreneur, might be one in the future, or just wa
 
 **WHERE:** [Survey Link](https://forms.gle/pFgGEGLKgH4Zd4wQ8)
 
-**WHAT:** The Innovation, Creativity, and Entrepreneurship (ICE) program is looking for your input! Our program team is developing an interdisciplinary technology incubator for students/recent graduates to take their ideas through a systematic process of exploration, development, assessment, and materialization. To help develop meaningful programming, we want to hear about your experience exploring entrepreneurship on campus. The survey takes approx. 5-10 minutes to complete, and all responses are anonymous.
+**WHAT:** The Innovation, Creativity, and Entrepreneurship (ICE) program is looking for your input! Their program team is developing an interdisciplinary technology incubator for students/recent graduates to take their ideas through a systematic process of exploration, development, assessment, and materialization. To help develop meaningful programming, They want to hear about your experience exploring entrepreneurship on campus. The survey takes approx. 5-10 minutes to complete, and all responses are anonymous.
 <br/>
 
 ### Signing Off...
