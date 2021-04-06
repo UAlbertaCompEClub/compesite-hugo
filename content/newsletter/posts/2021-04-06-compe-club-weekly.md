@@ -11,7 +11,7 @@ date = "2021-04-06"
 [sidebar]
 align = "right"
 +++
-Welcome to the twelfth week of school! Our semester is ending in about two weeks. Good Luck to everyone 
+Welcome to the twelfth week of school! Our semester is ending in about two weeks. Good Luck to everyone I hope you guys achive what you aimed for. Today I brought the Compute Engineering Club election result and some interesting event.
 <br/>
 
 ### Highlights:
@@ -22,7 +22,7 @@ Welcome to the twelfth week of school! Our semester is ending in about two weeks
 
 ### 1)  Computer Engineering Club Election Result
 
-**WHAT:** Computer Engineering Club Anuual General Meeting and the senior executive election was held on April 1st. Here is a list of our next senior executives for the 2021-2022 Academic Term.
+**WHAT:** Computer Engineering Club Annual General Meeting and the senior executive election was held on April 1st. Here is a list of our next senior executives for the 2021-2022 Academic Term.
 - President: Rafaella Graña & Tharidu Witharana
 - VP External: Cyrus Diego 
 - VP Internal: Muhammad Fiaz 
