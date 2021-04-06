@@ -11,7 +11,7 @@ date = "2021-04-06"
 [sidebar]
 align = "right"
 +++
-Welcome to the twelfth week of school! Our semester is ending in about two weeks. Good Luck to everyone and I hope you guys achieve what you are aiming for. Today I brought the Compute Engineering Club election result and some interesting event.
+Welcome to the twelfth week of school! Our semester is ending in about two weeks. Good Luck to everyone and I hope you guys achieve what you are aiming for. Today I brought the Computer Engineering Club election result and some interesting event.
 <br/>
 
 ### Highlights:
@@ -58,6 +58,7 @@ Whether you’re already an entrepreneur, might be one in the future, or just wa
 <br/>
 
 ### Signing Off...
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at <internal@compeclub.com>!  Be sure to stop by the CompE Club Room to grab a snack and say hi! Prices for most snacks have been slashed, so now is the time to buy. <33
+Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want to be featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)! <33
+
 
 
