@@ -11,7 +11,7 @@ date = "2021-04-06"
 [sidebar]
 align = "right"
 +++
-Welcome to the twelfth week of school! Our semester is ending in about two weeks. Good Luck to everyone and I hope you guys achieve what you aimed for. Today I brought the Compute Engineering Club election result and some interesting event.
+Welcome to the twelfth week of school! Our semester is ending in about two weeks. Good Luck to everyone and I hope you guys achieve what you are aiming for. Today I brought the Compute Engineering Club election result and some interesting event.
 <br/>
 
 ### Highlights:
