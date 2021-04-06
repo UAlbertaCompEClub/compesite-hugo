@@ -11,7 +11,7 @@ date = "2021-04-06"
 [sidebar]
 align = "right"
 +++
-Welcome to the twelveth week of school! Our semester is ending in about two weeks. Good Luck to everyone 
+Welcome to the twelfth week of school! Our semester is ending in about two weeks. Good Luck to everyone 
 <br/>
 
 ### Highlights:
