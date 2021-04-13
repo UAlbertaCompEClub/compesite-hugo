@@ -11,7 +11,7 @@ date = "2021-04-12"
 [sidebar]
 align = "right"
 +++
-Welcome to the last week of school! Congratulation to everyone on making it this far. The final season is here and I wish you all the best on your test! This is the last newsletter of this semester. Thank you for reading and I hope this newsletter 
+Welcome to the last week of school! Congratulation to everyone on making it this far. The final season is here and I wish you all the best on your test! This is the last newsletter of this semester. Thank you for reading and I hope this newsletter made your year better!
 <br/>
 
 ### Highlights:
