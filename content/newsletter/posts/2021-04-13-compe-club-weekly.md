@@ -11,7 +11,7 @@ date = "2021-04-12"
 [sidebar]
 align = "right"
 +++
-Welcome to the last week of school! Cpngratulation to everyone on making this far. Final season is here and I hope 
+Welcome to the last week of school! Congratulation to everyone on making it this far. The final season is here and I wish you all the best on your test! This is the last newsletter of this semester. Thank you for reading and I hope this newsletter 
 <br/>
 
 ### Highlights:
@@ -46,6 +46,6 @@ Whether you’re already an entrepreneur, might be one in the future, or just wa
 <br/>
 
 ### Signing Off...
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want featured in future editions, contact us at <internal@compeclub.com>!  Be sure to stop by the CompE Club Room to grab a snack and say hi! Prices for most snacks have been slashed, so now is the time to buy. <33
+Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want to be featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)! <33
 
 
