@@ -56,7 +56,7 @@ This issue is slightly off-schedule - expect an issue of the CompE club weekly e
 
 **WHEN:** September 13 - November 8
 
-**WHERE:** [Link to Webpage](www.compe.plus)
+**WHERE:** [Link to Webpage](https://www.compe.plus)
 
 **WHAT:** CompE+ is a student led pilot program to provide students with support to find internships in the tech industry. Finding an internship within the tech industry can be difficult and daunting - that’s where CompE+ comes in! CompE+ strives to provide students with services that will aid them on their internship hunt and to provide insight on what it's like to work in the tech industry. Check out www.compe.plus to learn more
 
