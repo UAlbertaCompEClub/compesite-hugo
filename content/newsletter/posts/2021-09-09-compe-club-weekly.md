@@ -11,9 +11,9 @@ date = "2021-09-09"
 [sidebar]
 align = "right"
 +++
-Welcome to the new semester! With each new semester comes change: welcome to our new computer engineering students! Don't think we forgot about you, seniors. We're glad to see you back too!
+Welcome to the new semester, and to a new issue of the CompE Weekly! With each new semester comes change: welcome to our new computer engineering students! Don't think we forgot about you, seniors. We're glad to see you back too!
 
-Note that This issue is early - expect an issue of the CompE club weekly every monday.
+This issue is slightly off-schedule - expect an issue of the CompE club weekly every monday.
 </br>
 
 ### Highlights
