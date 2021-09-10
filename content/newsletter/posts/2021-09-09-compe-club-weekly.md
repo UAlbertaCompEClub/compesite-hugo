@@ -92,7 +92,7 @@ There will also be food trucks, music and games to keep you entertained between 
 
 **WHO:** Anyone
 
-**WHERE:** 
+**WHERE:** [Link to Web Page](https://shellhacks.net/)
 
 **WHEN:**  Friday, September 10th, from 10AM-3pm
 
