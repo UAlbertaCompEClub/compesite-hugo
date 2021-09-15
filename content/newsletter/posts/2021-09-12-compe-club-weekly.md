@@ -61,7 +61,7 @@ This here is this semester's second issue of the CompE Weekly! The .
 
 **WHAT:** The Winter 2022 Co-op recruitment season has begun! This year, the co-op office has made some changes to the process of applying to jobs. You may have received an email informing you of the changes. All information about the upcoming term is located on the [Winter 2022 Recruitment website](https://www.ualberta.ca/engineering/co-op/students/winter-recruitment.html).
 
-NOTE: There was an error in the time specified in the last week's issue. This has been corrected in this issue!
+NOTE: There was an error in the dates specified in the last week's issue. This has been corrected in this issue!
 
 
 </br>
