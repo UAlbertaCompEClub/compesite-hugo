@@ -84,4 +84,4 @@ This Datathon is a chance to experience what the Rotman MMA has to offer from th
 
 ### Signing Off...
 
-I'm looking forward to meeting many of you guys at the AGM! Hopefully we see a lot of new execs join our team (we definitely need you)! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)! Oh, and make sure you come check out the new CompE Club Room (MecE building 5th floor)!
+I'm looking forward to meeting many of you guys at the AGM! Hopefully we see a lot of new execs join our team (we definitely need you)! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
