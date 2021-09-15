@@ -17,10 +17,10 @@ This here is this semester's second issue of the CompE Weekly! The .
 
 ### Highlights
 
-* **CompE+ Launch**
 * **CompE Club AGM**
+* **CompE+ Launch**
 * **Winter 2022 Co-op Recruitment**
-* **Shellhacks**
+* **Rotman: Online Datathon 2021**
 
 
 </br>
@@ -66,7 +66,7 @@ NOTE: There was an error in the time specified in the last week's issue. This ha
 
 </br>
 
-### 4)  Online Datathon 2021
+### 4)  Rotman School of Management: Online Datathon 2021
 
 **WHO:** All Students
 
