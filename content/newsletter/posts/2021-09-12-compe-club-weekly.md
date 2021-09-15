@@ -33,7 +33,7 @@ This here is this semester's second issue of the CompE Weekly! The .
 
 **WHERE:** ECERF W2-010
 
-**WHAT:** The location for the annual general meeting for the Computer Engineering Club is soon to be announced! Come visit us if you're interested in running for a junior position, want free pizza, or just want to have fun and meet new people! We'll announce a location soon - keep your eyes peeled!
+**WHAT:** The location for the annual general meeting for the Computer Engineering Club has been announced, as promised! Come visit us if you're interested in running for a junior executive position, or just want to have fun and meet new people! 
 
 
 </br>
