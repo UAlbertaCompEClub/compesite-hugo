@@ -6,18 +6,18 @@ title = "CompE Club Weekly"
 title_align = "left"
 read_more = true
 display_date = true
-date = "2021-09-09"
+date = "2021-09-17"
 
 [sidebar]
 align = "right"
 +++
-This here is this semester's second issue of the CompE Weekly! The .
+This here is this semester's second issue of the CompE Weekly! Enjoy!
 
 </br>
 
 ### Highlights
 
-* **CompE Club AGM**
+* **CompE Club AGM Moved Online!**
 * **CompE+ Launch**
 * **Winter 2022 Co-op Recruitment**
 * **Rotman: Online Datathon 2021**
@@ -31,9 +31,9 @@ This here is this semester's second issue of the CompE Weekly! The .
 
 **WHEN:** Friday, September 17th, from 5-6pm
 
-**WHERE:** ECERF W2-010
+**WHERE:** Check our [Discord](https://discord.gg/PNd9drskwn)
 
-**WHAT:** The location for the annual general meeting for the Computer Engineering Club has been announced, as promised! Come visit us if you're interested in running for a junior executive position, or just want to have fun and meet new people! 
+**WHAT:** We've shift the annual general meeting for the Computer Engineering Club online! Come visit us if you're interested in running for a junior executive position, or just want to have fun and meet new people! 
 
 
 </br>
