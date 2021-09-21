@@ -6,116 +6,101 @@ title = "CompE Club Weekly"
 title_align = "left"
 read_more = true
 display_date = true
-date = "2021-09-20"
+date = "2021-09-21"
 
 [sidebar]
 align = "right"
 +++
-<!--StartFragment-->
+This here is this semester's third issue of the CompE Weekly! We've finished up our AGM, and the results are out!
 
-It's about a month into classes and I hope that all of you are doing well in your studies! If this is not challenging enough for you, don't worry, we got you!!! Check out these events coming up soon!
+</br>
 
-<!--EndFragment-->
-<br/>
+### Highlights
 
-### Highlights:
+* **CompE Club Election Results!**
+* **Happiness Survey**
+* **Winter 2022 Co-op Recruitment**
+* **Rotman: Online Datathon 2021**
+* **CompE+ Launch**
 
-* CompE 2020/2021 Junior Executive Election Results
-* Call for Mentors
-* ECE Trivia Night
-* AI4Society online sessions
-* UofA CompE Club x McGill BOLT Virtual bootcamp
-* UA-WISE/WISER Mentorship Program
-* Hatch Info Session for Software Engineering
-* NeuroNexus Design Competition
-* ComIT .NET Core Course
-  <br/>
 
-### 1) CompE 2020/2021 Junior Executives Election Results
+</br>
 
-**WHAT:**  The Computer Engineering Club is held it's AGM last Friday. During the AGM there was election for the 2020/2021 Junior Executives. Now here are your new junior executives for term 2020/2021.
-* 2nd Year Rep: Justin Mikhail & Yi Meng Wang
-* 3rd Year Rep: Josh Wutzke
-* Marketing Rep: Noah Batiuk
-* Merch Rep: Abhishek Solanki
-* PR/GEER Week Rep: Muhammad Fiaz & Kashish Mittal
+### 1)  CompE Club Election Results
 
-Thank you to everyone who came out to the AGM, we appreciate you, and we hope that's evident with our work throughout the school year :) 
+**WHO:** Computer Engineering Students
 
-<br/>
+**WHERE:** Check our [Discord](https://discord.gg/PNd9drskwn)
 
-### 2) Call for Mentors
+**WHAT:** Our annual general meeting for the Computer Engineering Club has finished! We've elected a new set of junior executives:
+* 2nd Year Rep: Jacob Feng & Eric Khumbata
+* 3rd Year Rep: Rachel Ellis
+* Marketing Rep: Castor Shem
+* Merch Rep: Anushka Khare
+* PR Rep: Sami Jagirdar
+* Stock/Office Reps (🥔): Kevin Huang & Zack Dorward
 
-**WHO:** Anyone in who wants to help mentor
-**WHERE:** [Sign Up Form](https://forms.gle/PY2aNye7K1FjUzwT7)
-**WHAT:** There have been a lot of applicants for people who would like to be mentored, which is good to see. However, this means we need more mentors to help ensure nobody is over-burdened. This is a great resume builder, as well as a chance to share your knowledge, experience, and advice with this incoming group of first and second year students, especially when many of our usual interactions are gone due to remote learning. Here is the link to the [sign up form](https://forms.gle/PY2aNye7K1FjUzwT7), and feel free to share this with friends or anyone you know who may be interested. 
-<br/>
 
-### 3) ECE Trivia Night
+</br>
 
-**WHO:** Anyone in ECE who likes trivia and/or prizes
-**WHEN:**  Thursday September 24th @ 6PM-7PM MST
-**WHERE:** [ECE Discord](https://discord.gg/zmz86Mg)
-**WHAT:** Do you know things? Do you want to win prizes for knowing said things? Do you want to chill with some ECE peeps? All that and more next Thursday on the ECE Discord. Flex that knowledge and come have a good time. 
-<br/>
+### 2)  Happiness Survey
 
-### 4) AI4Society online sessions
+**WHO:** ECE Students
 
-**WHO:**  For post-secondary students
-**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction \\
-           Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
-**WHERE:** [Instroduction](https://ualberta-ca.zoom.us/webinar/register/WN_1e_nPEsRQrigG5A7WJhgFQ) and [Webinar](https://ualberta-ca.zoom.us/webinar/register/WN_qVSU57CTTvCiVfTFGktdTA)
-**WHAT:**  AI4Society is hosting two webinar sessions on September 25th
-Come and discover AI4Society, UofA's newest Signature Research Area on artificial intelligence and its applications. We are hosting two online events on September 25th, one to introduce AI4Society and collaboratories, and another to feature research on artificial intelligence and machine learning around campus.
-<br/>
+**WHEN:** ASAP
 
-### 5) UofA CompE Club x McGill BOLT Virtual bootcamp
+**WHERE:** [Link to Survey](https://forms.gle/FtgDMNoDfmLee2Cy9)
 
-**WHO:**  Teams of 4-5 University Students, preferably with programming experience
-**WHEN:**  Saturday, September 26, 2020 ~ Saturday October 3rd, 2020, Application due by Wednesday Sept 23rd @ 11:59PM EST
-**WHERE:** [APPLY HERE](https://form.jotform.com/202404773062044)
-**WHAT:**  The Evolution of Education from Sept 26 - Oct 3! A unique combination of a hackathon and a case competition, the event brings together Canadian management and STEM students to developing innovative education technology solutions. With just one week’s time commitment, students will learn about design thinking, power applications, product management and UI/UX design through workshops, and develop an impactful project to pitch to renowned corporate sponsors. There will also be a participant-exclusive networking session with recruiters from top tech firms. [FB EVENT LINK](https://www.facebook.com/events/623935691654410/)
-University students from ALL across Canada and supported by Microsoft, Google, Agorize, MTL CoWork, HP, Duolingo, Korbit AI, etc. Apply individually or in teams of 4-5 students. Each team must include at least one business student and one STEM student. While not required, it is highly encouraged that at least one team member has programming knowledge.
-<br/>
+**WHAT:** Thanks to those who filled out the survey! Dr Iyer has requested more responses so we can bring the info up to higher level faculty! If you have not answered it please do so and encourage your friends to answer it too! 
 
-### 6) UA-WISE/WISEWR Mentorship Program
+CompE has created the Happiness Survey to gather your input on how students are doing and their ideas on how to make your engineering experience better. The more responses, the more powerful our message to the faculty will be! Alumni and First Years are also welcome to provide feedback!
 
-**WHO:** Undergrads, Grads, or people with less than 5 years professional experience
-**WHEN:** Application deadline: September 30th 2020
-**WHERE:** [Apply Here](https://ua-wise-wiser-mentorship2020-2021.eventbrite.ca/)
-**WHAT:**  UA-WiSE (Women in Science & Engineering) and WISER (Women in Science, Engineering, & Research) are hosting a mentorship program for undergraduate and graduate students. Our program aims to connect underrepresented individuals with mentors who can help to foster professional development and personal discovery. Our program consists of a unique trio format and 3 virtual events. The trio consists of an undergraduate, early career professional / graduate, and experienced mentor. This year applicants will get to tell us exactly which mentors they would be interested in. Check out all of the mentor bios [here](https://docs.google.com/document/d/1bkUkxlkQyFC0v_ucfh0XRF1k9rGTNYZcbfL-wg51iio/edit).
 
-The program will consist of several events, from an introoduction event in October, to a Certification event in March. To get to most up-to-date calendar, check the Eventbrite page. The program is aimed at underrepresented individuals, **anyone** can apply using the [eventbrite link](https://ua-wise-wiser-mentorship2020-2021.eventbrite.ca/)
-<br/>
+</br>
 
-### 7) Hatch Info Session for Software Engineering
+### 3)  Winter 2022 Co-op Recruitment
 
-**WHO:**  For the Software Engineering & Computer Scienc Students
-**WHEN:**  	Monday, October 5, 2020 @ 4:00 pm MST, Application due by Thursday October 1st, 2020 4:00 PM EST.
-**WHERE:** For details and to RSVP: [APPLY HERE](https://hatch.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hatch&service=6&rnd=0.7281881917381748&main_url=https%3A%2F%2Fhatch.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Dlandingfrommail%26%26%26EMK%3D4832534b0000000436d7c47785fd83cd40576804020d87fb67ca7644ba4abcbf07d281625ee4d01e%26siteurl%3Dhatch%26confViewID%3D169392733123783414%26encryptTicket%3DSDJTSwAAAASiGSFwof64qXgRz9bD8zb26SK0BlZxqS_H5eCJY5uE-A2%26email%3Dkiran.arif06%2540gmail.com)
-**WHAT:** Hatch is passionately committed to the pursuit of a better world through positive change. We embrace your visions as our own and partner with you to develop better ideas that are smarter, more efficient, and innovative. Our global network of 9,000 professionals work on the world’s toughest challenges. Our experience spans over 150 countries around the world in the metals, energy, infrastructure, digital, and investments market sectors.
-If you have any questions, please email campusnorthamerica@hatch.com
-<br/>
+**WHO:** Co-op Students
 
-### 8) NeuroNexus Design Competition
+**WHEN:** All Semester
 
-**WHO:** Anyone interested hackathons and neuroscience
-**WHEN:** [See Complete Schedule Here](https://neuro-nexus.ca/events)
-          Ice breaker event: October 16th 2020 @ 5:00PM - 9:00PM\
-**WHERE:** [Apply Here](https://neuro-nexus.ca/apply-as-an-innovator)
-**WHAT:**  Neuro Nexus is a hackathon program designed to spark collaboration across disciplines and tackle complex challenges in brain science and mental health. The program connects experts in frontline, clinical, and academic practice with motivated, talented students to develop technological solutions
-over a fast-paced 6 week competition. This year, Neuro Nexus will facilitate 40+ projects across the province in their largest competition yet.
+**WHERE:** [Link to Info Page](https://www.ualberta.ca/engineering/co-op/students/winter-recruitment.html)
 
-To learn more, check out [their website](https://www.neuro-nexus.ca/)
-<br/>
+**WHAT:** The Winter 2022 Co-op recruitment season has begun! This year, the co-op office has made some changes to the process of applying to jobs. You may have received an email informing you of the changes. All information about the upcoming term is located on the [Winter 2022 Recruitment website](https://www.ualberta.ca/engineering/co-op/students/winter-recruitment.html).
 
-### 9) ComIT .NET Core Course
+NOTE: There was an error in the dates specified in the last week's issue. This has been corrected in this issue!
 
-**WHO:** Anyone interested in furthering their programming skillset 
-**WHERE:** [The ComIT website](http://www.comit.org/students)
-**WHAT:** ComIT is offering courses to students looking to take charge of their education. The programs offer 3-month part time courses for people looking to pursue a career in IT. The expected workload is about 8 hours per week, and will teach coding in various languages such as Java, React, .Net among others. It will also involve the often neglected soft skills. Students who graduate will recieve assistance in the job search. The course if covered by a scholarship, and will be offered free of charge. If this interests you, we encourage you to check out the [ComIT website](https://www.comit.org/).\
-<br/>
+
+</br>
+
+### 4)  Rotman School of Management: Online Datathon 2021
+
+**WHO:** All Students
+
+**WHEN:** Registration Deadline is September 23rd
+
+**WHERE:** [Link to Webpage](https://rotman.force.com/events/s/special-event/a1V2B0000001XrtUAE/master-of-management-analytics-mma-online-datathon-2021)
+
+**WHAT:** This 16 day-long Online Datathon (September 30 - October 16) with the Master of Management Analytics (MMA) program at the Rotman School of Management will give teams the opportunity to dive into a real-live case and data set and come up with a managerial solution to a business case surrounding the data. This event is open to current undergraduate/graduate students and young professionals looking to experience a data analysis case competition!
+
+This Datathon is a chance to experience what the Rotman MMA has to offer from the comfort of your home, while creating new friendships globally.
+
+
+</br>
+
+### 5)  CompE+ Launch
+
+**WHO:** Computer Engineering Students wanting resources for support to find internships
+
+**WHEN:** September 13 - November 8
+
+**WHERE:** [Link to Webpage](https://www.compe.plus)
+
+**WHAT:** CompE+ is a student led pilot program to provide students with support to find internships in the tech industry. Finding an internship within the tech industry can be difficult and daunting - that’s where CompE+ comes in! CompE+ strives to provide students with services that will aid them on their internship hunt and to provide insight on what it's like to work in the tech industry. Check out www.compe.plus to learn more!
+
+
+</br>
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter. If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)! Be sure to stop by the [ECE](https://discord.gg/zmz86Mg) and [CompE](https://discord.gg/mJ7JScQ) Discord to come say hi <3
+Thanks for reading this week's issue of the CompE weekly! Congratulations to all the new execs! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
