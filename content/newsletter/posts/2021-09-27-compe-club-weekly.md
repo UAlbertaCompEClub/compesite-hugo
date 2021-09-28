@@ -82,7 +82,7 @@ We are looking for new members! Join our server to learn more and become part of
 Information Session: Tue, Oct 5, 12:30 pm - 1:30 pm MDT
 *You'll receive a Calendar invite and Google Meet information after you RSVP.
 
-To secure your spot, RSVP [here] (https://docs.google.com/forms/d/e/1FAIpQLScN2YdZtudmgIXenQ0QnhYjlhavd7tmsEsgcbPXamfMJOlHCg/viewform)
+To secure your spot, RSVP [here](https://docs.google.com/forms/d/e/1FAIpQLScN2YdZtudmgIXenQ0QnhYjlhavd7tmsEsgcbPXamfMJOlHCg/viewform)
 
 
 
