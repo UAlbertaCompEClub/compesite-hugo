@@ -21,6 +21,7 @@ This here is this semester's fourth issue of the CompE Weekly! We've stocking up
 * **Winter 2022 Co-op Recruitment**
 * **Albertaloop Discord Server and Recruitment**
 * **CompE+ Launch**
+* **Google Recruitment Event @UAlberta**
 
 
 
@@ -68,6 +69,25 @@ We are looking for new members! Join our server to learn more and become part of
 
 </br>
 
+### 4)  Google Recruitment Event @UAlberta
+
+**WHO:** UAlberta Students
+
+**WHEN:** Oct 5, 12:30 pm - 1:30 pm MDT
+
+**WHERE:** [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLScN2YdZtudmgIXenQ0QnhYjlhavd7tmsEsgcbPXamfMJOlHCg/viewform)
+
+**WHAT:** Meet virtually with Googlers to discover more about our culture and teams, hear about our internships and full time opportunities, and learn tips on updating your resume and preparing for technical interviews. 
+
+Information Session: Tue, Oct 5, 12:30 pm - 1:30 pm MDT
+*You'll receive a Calendar invite and Google Meet information after you RSVP.
+
+To secure your spot, RSVP [here] (https://docs.google.com/forms/d/e/1FAIpQLScN2YdZtudmgIXenQ0QnhYjlhavd7tmsEsgcbPXamfMJOlHCg/viewform)
+
+
+
+</br>
+
 ### Signing Off...
 
-Thanks for reading this week's issue of the CompE weekly! Congratulations to all the new execs! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
+Thanks for reading this week's issue of the CompE weekly! Come grab some well-priced food from our club-room! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
