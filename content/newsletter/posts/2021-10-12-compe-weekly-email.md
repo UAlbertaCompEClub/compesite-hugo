@@ -2,7 +2,7 @@
 fragment = "content"
 weight = 100
 categories = []
-title = "CompE Weekly Email"
+title = "CompE Club Weekly"
 title_align = "left"
 read_more = true
 display_date = true
@@ -11,55 +11,65 @@ date = "2021-10-12"
 [sidebar]
 align = "right"
 +++
-    
-### Pancakes & Bonspiels
+This here is this semester's fifth issue of the CompE Weekly! These exams are really taking their time - eh? Good luck, as always!
 
 
-This is the last week to register your teams for the Curling Bonspiel. The event is taking place next weekend so register asap. As well, there will be pancakes for sale in ETLC this week, so come check it out.
-1. Pancakes!
-2. Curling Bonspiel
-3. Extra-Life Result
-4. Microsoft Scholarship Opportunity
-5. Facebook Tech Talk
-6. Soldering Workshop
-</br>
+<br/>
 
-### 1. Pancakes!
+### Highlights
 
-The Computer Engineering Club will be selling pancakes in the ETLC Atrium on Tuesday, November 4. Come and get some delicious pancakes - you'll regret it if you don't.
-</br>
+* **Winter 2022 Co-op Recruitment**
+* **UToronto CS Graduate Programs Info Session**
+* **CompE+ Services**
 
-### 2. Curling Bonspiel
 
-The Computer Engineering Club Curling Bonspiel will be taking place on November 15th, at the Granite Curling Club. Entry fee is $30/person, with teams of 4 -- this includes dinner, equipment rentals, a free tutorial for beginners, and lots of prizes including trophies for the top teams!
-Registration closes Friday, Nov 7th, so sign up right away.
 
-Registration is open at the Computer Engineering Club (ETL E2-040M)!
-</br>
+<br/>
 
-### 3. Extra-Life Results
-Thank you to everyone who participated and donated to Extra-Life last weekend. Over the 24h, around 50 people participated, raising over $4,700. All the donations will be going to the Stollery Childrens Hospital.
-</br>
+### 1)  Winter 2022 Co-op Recruitment
 
-### 4. Microsoft Scholarship Opportunity
+**WHO:** Co-op Students
 
-Microsoft's undergraduate scholarship program is an amazing opportunity for undergrad students pursuing degrees in computer science and related technical disciplines. By applying to the Microsoft Scholarship Program, you may be eligibile for full or partial tuition for the 2015-2016 academic year.
+**WHEN:** All Semester
 
-Student Eligibility Criteria:
-* Currently enrolled full-time in a bachelors degree
-* Pursuing a degree in CS, CE or STEM related technical discipline
-* Cumulative GPA of 3.0 / 4.0 or higher
+**WHERE:** [Link to Info Page](https://www.ualberta.ca/engineering/co-op/students/winter-recruitment.html)
 
-Visit their scholarship [website](http://careers.microsoft.com/careers/en/us/university-programs.aspx#tab_scholarship-program-apply) for more information.
-</br>
+**WHAT:** The Winter 2022 Co-op recruitment season has begun! This year, the co-op office has made some changes to the process of applying to jobs. You may have received an email informing you of the changes. All information about the upcoming term is located on the [Winter 2022 Recruitment website](https://www.ualberta.ca/engineering/co-op/students/winter-recruitment.html).
 
-### 5. Facebook Tech Talk
 
-Facebook will be giving a tech talk on November 13th at 5pm. All engineering students, 2015 graduates, and alumni are welcome to attend. This session is organized by the Engineering Employment Centre. You can RSVP through the [EEC page](https://www.eventbrite.ca/e/facebook-tech-talk-registration-13967684721) .
-</br>
 
-### 6. Soldering Workshop
+<br/>
 
-In the last week of November the Computer Engineering Club will be hosting a Soldering workshop held at the Edmonton New Technology Society. You will get to choose from 4 kits, a [Binary Blaster Kit](https://www.sparkfun.com/products/12037) , [Big Time Watch Kit](https://www.sparkfun.com/products/11734) , [Larson Scanner Kit](https://www.sparkfun.com/products/11365)  or a Light up Rocket. There will be a sign up sheet in
-Computer Engineering Club (ETL E2-040M) later this week so feel free to stop by and sign up, space is limited.
+### 2)  UToronto CS Graduate Programs Info Session!
 
+**WHO:** Students planning to graduate
+
+**WHEN:** 9:30-11AM EST, October 20, 2021
+
+**WHERE:** [Link to RSVP](https://zoom.us/webinar/register/WN_tjeP4p8lRM20Lb0fmWzymQ)
+
+**WHAT:** The Department of Computer Science at the University of Toronto is hosting an information session to tell you everything you need to know about graduate studies in Computer Science, and how to apply to our programs – Master of Science (MSc), Master of Science in Applied Computing (MScAC), and Doctor of Philosophy (PhD and Direct-entry PhD). 
+
+There will be a chance to hear from our faculty, staff, and current students to have them address your questions live. 
+
+
+
+<br/>
+
+### 3)  CompE+
+
+**WHO:** Computer Engineering Students wanting resources for support to find internships
+
+**WHEN:** September 13 - November 8
+
+**WHERE:** [Link to Webpage](https://www.compe.plus)
+
+**WHAT:** CompE+ is a student led pilot program to provide students with support to find internships in the tech industry. Finding an internship within the tech industry can be difficult and daunting - that’s where CompE+ comes in! CompE+ strives to provide students with services that will aid them on their internship hunt and to provide insight on what it's like to work in the tech industry. Check out www.compe.plus to learn more!
+
+
+
+<br/>
+
+### Signing Off...
+
+Thanks for reading this week's issue of the CompE weekly! Come grab some well-priced food from our club-room! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
