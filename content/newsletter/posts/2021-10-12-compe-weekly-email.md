@@ -42,7 +42,7 @@ This here is this semester's fifth issue of the CompE Weekly! These exams are re
 
 ### 2)  UToronto CS Graduate Programs Info Session!
 
-**WHO:** Students planning to graduate
+**WHO:** Students planning to attend grad school
 
 **WHEN:** 9:30-11AM EST, October 20, 2021
 
