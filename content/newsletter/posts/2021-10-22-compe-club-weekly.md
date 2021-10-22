@@ -6,77 +6,52 @@ title = "CompE Club Weekly"
 title_align = "left"
 read_more = true
 display_date = true
-date = "2021-10-21"
+date = "2021-10-12"
 
 [sidebar]
 align = "right"
 +++
-Welcome to the third week of the winter semester! Some classes already have midterms approaching. Make sure to read and go over the syllabus to not miss anything. Good luck to everyone and make sure to stay on top of the lecture schedule! Today I brought some interesting events and career opportunities.
+This here is this semester's sixth issue of the CompE Weekly!
+
+
 <br/>
 
-### Highlights:
+### Highlights
 
-* **GEER Yeer's annual Debate**
-* **BlackBerry Virtual Info Session**
-* **Siemens Canada Virtual Info Session**
-  <br/>
+* **ECE Graduation Banquet Form 🧑‍🎓**
+* **CompE+ Services**
 
-### 1)  **GEER Yeer's annual Debate**
 
-**WHO:** Computer Engineering Students
 
-**WHEN:** 
-
-Registration by Tuesday, January 26th, 6 PM. Debate on Wednesday, January 27th from 1 PM ~ 8 PM
-
-**WHAT:** 
-
-GEER Yeer’s annual Debate is just around the corner! This event will be held over Zoom this Wednesday (January 27th) from 1-8 pm. Each debate will run for 22 minutes, with an 8 minute break in between rounds. The debate will follow a formal parliamentary-style, where competitors will present an entertaining and reasonable argument to the presented topic. Each round will begin with the moderator giving a brief introduction to the proposition and opposition speakers, along with the resolution. Each debate will be separated into 3 stages: opening remarks, open discussion, and closing remarks.
-
-Opening Remarks: Beginning with the proposition, speakers from each team will have 4 minutes to address the resolution.\
-Open Discussion: Speakers from each team can freely address and heckle their opponent for 4 minutes.\
-Closing Remarks: Beginning with the opposition, each speaker will have 3 minutes to address the resolution and their opponent’s argument.
-
-So if you are interested send your name and emails to [kmittal@ualberta.ca](mailto:kmittal@ualberta.ca) by 26 January Before 6 pm
 <br/>
 
-### 2)  BlackBerry Virtual Info Session
+### 1)  ECE Graduation Banquet Form 🧑‍🎓
 
-**WHEN:**
+**WHO:** Any ECE student that is graduating or any students interested in attending the grad banquet
 
-BlackBerry Brings you a Recruiters Tell-All Session | Jan 26 @ 11:00 am MST
+**WHEN:** Form closes next Tuesday
 
+**WHERE:** [Link to Form](https://docs.google.com/forms/d/e/1FAIpQLSdwOBCZjwUiQDu2XI3_u25KyqyeJKVmaRutj4OsWH7xS8W7EA/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link)
 
-BlackBerry Brings You Networking, Systems and Cybersecurity | Jan 27 @ 11:00 am MST
-
-
-BlackBerry Brings You Software Development and Testing | Jan 28 @ 11:00 am MST
+**WHAT:** The graduation committee is organizing a banquet (read: throwing a sweet party) to celebrate this year's graduating ECE students. In order to more accurately plan for things like tables, food, and a venue, we need more information from you guys!! Fill out this form to ensure that this event is as awesome as possible 😃
 
 
-BlackBerry Brings you Business | Jan 29 @ 11:00 am MST
-
-**WHERE:** [Register Here](https://www.blackberry.com/us/en/company/careers/students/job-fair)
-
-**WHAT:** 
-
-Blackberry is hosting some virtual Info Session. Join them and learn more about Summer 2021 opportunities!
 <br/>
 
-### 3)  Siemens Canada Virtual Info Session
+### 2)  CompE+
 
-**WHO:** University of Alberta Engineering Graduate & Undergraduate Students from Chemical (CPC), Computer, Electrical, Internetworking, Mechanical, and Petroleum Engineering.
+**WHO:** Computer Engineering Students wanting resources for support to find internships
 
-**WHEN:**  Thursday, February 4, 2021, 5:00 PM – 6:30 PM MST
+**WHEN:** September 13 - November 8
 
-**WHERE:** [Register Here](https://www.eventbrite.ca/e/siemens-canada-sceta-information-session-registration-137846660071)
+**WHERE:** [Link to Webpage](https://www.compe.plus)
 
-**WHAT:** 
+**WHAT:** CompE+ is a student led pilot program to provide students with support to find internships in the tech industry. Finding an internship within the tech industry can be difficult and daunting - that’s where CompE+ comes in! CompE+ strives to provide students with services that will aid them on their internship hunt and to provide insight on what it's like to work in the tech industry. Check out www.compe.plus to learn more!
 
-Start your journey toward a promising career with Siemens by joining their elite Siemens in Canada Engineering & Technology Academy (SCETA). Are you only a year away from finishing school and looking for an exciting career opportunity with Siemens?
 
-Their unique Dual Education program recruits the most elite students and prepares them to take a future leadership role in the company. Siemens provides comprehensive training, pays you while you work and throughout your final year of studies, and provides a tuition allowance upon graduation.
+
 <br/>
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter.  If you have any news or an event you want to be featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)!
+Thanks for reading this week's issue of the CompE weekly! My ideas for how to start these emails is running low, so make do with this please! Come grab some well-priced food from our club-room! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
