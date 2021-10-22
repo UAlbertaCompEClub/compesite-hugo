@@ -6,12 +6,12 @@ title = "CompE Club Weekly"
 title_align = "left"
 read_more = true
 display_date = true
-date = "2021-10-12"
+date = "2021-10-22"
 
 [sidebar]
 align = "right"
 +++
-This here is this semester's sixth issue of the CompE Weekly!
+This here is this semester's sixth issue of the CompE Weekly! This week's issue is unfortunately not very full, so please send emails to internal@compeclub.com for suggestions on what we can add to this newsletter!
 
 
 <br/>
@@ -54,4 +54,4 @@ This here is this semester's sixth issue of the CompE Weekly!
 
 ### Signing Off...
 
-Thanks for reading this week's issue of the CompE weekly! My ideas for how to start these emails is running low, so make do with this please! Come grab some well-priced food from our club-room! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
+Thanks for reading this week's issue of the CompE weekly! Come grab some well-priced food from our club-room! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
