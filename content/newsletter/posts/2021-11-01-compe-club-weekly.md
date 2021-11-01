@@ -74,7 +74,7 @@ This here is this semester's seventh issue of the CompE Weekly! This week's issu
 
 **WHEN:** Every Thursday until December 9th, 2021 from 1:00 PM – 4:00 PM MST
 
-**WHERE:** [Link to Webpage](www.cnrl.com)
+**WHERE:** [Link to Webpage](https://www.cnrl.com)
 
 **WHAT:** Canadian Natural is hosting drop-in student career fairs every Thursday until December 9th, 2021 from 1:00 PM – 4:00 PM MST. Register at the link below and join us to learn more about our company and available student work term opportunities!
 
