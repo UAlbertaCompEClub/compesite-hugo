@@ -40,6 +40,7 @@ This here is this semester's eighth issue of the CompE Weekly! There's a lot to 
 Note: This is the CompE Club's introductory hackathon for the year, so only those who have attended at most one other hackathon are eligible to participate. As well there is no prior coding knowledge required, so anyone who is interested in working on cool projects can join! We will also be running various workshops throughout the event to help participants learn new things and hone their skills! 
 
 For more information about the event, please head over to: https://hackedbeta.compeclub.com/ 
+
 To purchase your $5 per person event tickets, head over to: https://www.eventbrite.ca/e/hacked-beta-2021-tickets-204820803537?aff=erelexpmlt
 
 As well, you do not need to have a team at the time you purchase tickets. There will be plenty of opportunities to assemble a team on the event discord before the event begins on Saturday!
@@ -72,6 +73,7 @@ As well, you do not need to have a team at the time you purchase tickets. There 
 **WHAT:** Canadian Natural is hosting drop-in student career fairs every Thursday until December 9th, 2021 from 1:00 PM – 4:00 PM MST. Register at the link below and join us to learn more about our company and available student work term opportunities!
 
 Zoom: https://us06web.zoom.us/meeting/register/tZcldu2hqDsrH9Akyh7cfRq6Yj4w0bJPhX27
+
 Pass: CNRL
 
 
