@@ -11,111 +11,88 @@ date = "2021-11-08"
 [sidebar]
 align = "right"
 +++
-<!--StartFragment-->
+This here is this semester's eighth issue of the CompE Weekly! There's a lot to unload this week!
 
-It's about a month into classes and I hope that all of you are doing well in your studies! If this is not challenging enough for you, don't worry, we got you!!! Check out these events coming up soon!
-
-<!--EndFragment-->
-<br/>
-
-### Highlights:
-
-* CompE 2020/2021 Junior Executive Election Results
-* Call for Mentors
-* ECE Trivia Night
-* AI4Society online sessions
-* UofA CompE Club x McGill BOLT Virtual bootcamp
-* UA-WISE/WISER Mentorship Program
-* Hatch Info Session for Software Engineering
-* NeuroNexus Design Competition
-* ComIT .NET Core Course
-  <br/>
-
-### 1) CompE 2020/2021 Junior Executives Election Results
-
-**WHAT:**  The Computer Engineering Club is held it's AGM last Friday. During the AGM there was election for the 2020/2021 Junior Executives. Now here are your new junior executives for term 2020/2021.
-* 2nd Year Rep: Justin Mikhail & Yi Meng Wang
-* 3rd Year Rep: Josh Wutzke
-* Marketing Rep: Noah Batiuk
-* Merch Rep: Abhishek Solanki
-* PR/GEER Week Rep: Muhammad Fiaz & Kashish Mittal
-
-Thank you to everyone who came out to the AGM, we appreciate you, and we hope that's evident with our work throughout the school year :) 
 
 <br/>
 
-### 2) Call for Mentors
+### Highlights
 
-**WHO:** Anyone in who wants to help mentor
-**WHERE:** [Sign Up Form](https://forms.gle/PY2aNye7K1FjUzwT7)
-**WHAT:** There have been a lot of applicants for people who would like to be mentored, which is good to see. However, this means we need more mentors to help ensure nobody is over-burdened. This is a great resume builder, as well as a chance to share your knowledge, experience, and advice with this incoming group of first and second year students, especially when many of our usual interactions are gone due to remote learning. Here is the link to the [sign up form](https://forms.gle/PY2aNye7K1FjUzwT7), and feel free to share this with friends or anyone you know who may be interested. 
+* **HackED Beta Ticket Sales Begin!**
+* **Canadian Natural Resources Drop-in Career Fair**
+* **WiSER's Virtual Industry Mixer**
+* **eTANK by the Entrepreneurship Club**
+
+
+
 <br/>
 
-### 3) ECE Trivia Night
+### 1)  HackED Beta Ticket Sales Begin!
 
-**WHO:** Anyone in ECE who likes trivia and/or prizes
-**WHEN:**  Thursday September 24th @ 6PM-7PM MST
-**WHERE:** [ECE Discord](https://discord.gg/zmz86Mg)
-**WHAT:** Do you know things? Do you want to win prizes for knowing said things? Do you want to chill with some ECE peeps? All that and more next Thursday on the ECE Discord. Flex that knowledge and come have a good time. 
+**WHO:** Students who have attended at most one other hackathon
+
+**WHEN:** Starting Now! The Event is from 12:00 noon on Saturday, November 13th to 5:00 pm Sunday, November 14th!
+
+**WHERE:** [Link to Purchase Tickets](https://www.eventbrite.ca/e/hacked-beta-2021-tickets-204820803537?aff=erelexpmlt)
+
+**WHAT:** HackED Beta is an introductory 24-hour coding competition that is put on by the Computer Engineering Club each year! This year it is being held virtually between 12:00 noon on Saturday, November 13th and 5:00 pm Sunday, November 14th! The goal of the hackathon is for teams of up to six people to work together to make incredible hardware or software projects over the 24-hour hacking period! Then teams will have the opportunity to present their finished projects to a panel of industry judges for the chance to win awesome prizes! 
+
+Note: This is the CompE Club's introductory hackathon for the year, so only those who have attended at most one other hackathon are eligible to participate. As well there is no prior coding knowledge required, so anyone who is interested in working on cool projects can join! We will also be running various workshops throughout the event to help participants learn new things and hone their skills! 
+
+For more information about the event, please head over to: https://hackedbeta.compeclub.com/ 
+To purchase your $5 per person event tickets, head over to: https://www.eventbrite.ca/e/hacked-beta-2021-tickets-204820803537?aff=erelexpmlt
+
+As well, you do not need to have a team at the time you purchase tickets. There will be plenty of opportunities to assemble a team on the event discord before the event begins on Saturday!
+
+
 <br/>
 
-### 4) AI4Society online sessions
+### 2)  eTANK by the Entrepreneurship Club
 
-**WHO:**  For post-secondary students
-**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction \\
-           Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
-**WHERE:** [Instroduction](https://ualberta-ca.zoom.us/webinar/register/WN_1e_nPEsRQrigG5A7WJhgFQ) and [Webinar](https://ualberta-ca.zoom.us/webinar/register/WN_qVSU57CTTvCiVfTFGktdTA)
-**WHAT:**  AI4Society is hosting two webinar sessions on September 25th
-Come and discover AI4Society, UofA's newest Signature Research Area on artificial intelligence and its applications. We are hosting two online events on September 25th, one to introduce AI4Society and collaboratories, and another to feature research on artificial intelligence and machine learning around campus.
+**WHO:** Students interested in Entrepreneurship
+
+**WHEN:** November 16
+
+**WHERE:** [Link to RSVP](https://forms.gle/sRydHjDQLZqGFhjn7)
+
+**WHAT:** eTANK by eClub is back! Modeled after "Shark Tank," come pitch your best ideas for a chance to win up to $400! All programs and faculties are welcome, and you can either pitch alone or in teams up to 4.  But there are limited spots so sign up fast!! Feel free to reach out to us at eclub@ualberta.ca if you have any questions!
+
+
+
 <br/>
 
-### 5) UofA CompE Club x McGill BOLT Virtual bootcamp
+### 3)  Canadian Natural Resources Drop-in Career Fair
 
-**WHO:**  Teams of 4-5 University Students, preferably with programming experience
-**WHEN:**  Saturday, September 26, 2020 ~ Saturday October 3rd, 2020, Application due by Wednesday Sept 23rd @ 11:59PM EST
-**WHERE:** [APPLY HERE](https://form.jotform.com/202404773062044)
-**WHAT:**  The Evolution of Education from Sept 26 - Oct 3! A unique combination of a hackathon and a case competition, the event brings together Canadian management and STEM students to developing innovative education technology solutions. With just one week’s time commitment, students will learn about design thinking, power applications, product management and UI/UX design through workshops, and develop an impactful project to pitch to renowned corporate sponsors. There will also be a participant-exclusive networking session with recruiters from top tech firms. [FB EVENT LINK](https://www.facebook.com/events/623935691654410/)
-University students from ALL across Canada and supported by Microsoft, Google, Agorize, MTL CoWork, HP, Duolingo, Korbit AI, etc. Apply individually or in teams of 4-5 students. Each team must include at least one business student and one STEM student. While not required, it is highly encouraged that at least one team member has programming knowledge.
+**WHO:** Students looking for a job
+
+**WHEN:** Every Thursday until December 9th, 2021 from 1:00 PM – 4:00 PM MST
+
+**WHERE:** [Link](https://us06web.zoom.us/meeting/register/tZcldu2hqDsrH9Akyh7cfRq6Yj4w0bJPhX27)
+
+**WHAT:** Canadian Natural is hosting drop-in student career fairs every Thursday until December 9th, 2021 from 1:00 PM – 4:00 PM MST. Register at the link below and join us to learn more about our company and available student work term opportunities!
+
+Zoom: https://us06web.zoom.us/meeting/register/tZcldu2hqDsrH9Akyh7cfRq6Yj4w0bJPhX27
+Pass: CNRL
+
+
+
 <br/>
 
-### 6) UA-WISE/WISEWR Mentorship Program
+### 4)  WiSER's Virtual Industry Mixer
 
-**WHO:** Undergrads, Grads, or people with less than 5 years professional experience
-**WHEN:** Application deadline: September 30th 2020
-**WHERE:** [Apply Here](https://ua-wise-wiser-mentorship2020-2021.eventbrite.ca/)
-**WHAT:**  UA-WiSE (Women in Science & Engineering) and WISER (Women in Science, Engineering, & Research) are hosting a mentorship program for undergraduate and graduate students. Our program aims to connect underrepresented individuals with mentors who can help to foster professional development and personal discovery. Our program consists of a unique trio format and 3 virtual events. The trio consists of an undergraduate, early career professional / graduate, and experienced mentor. This year applicants will get to tell us exactly which mentors they would be interested in. Check out all of the mentor bios [here](https://docs.google.com/document/d/1bkUkxlkQyFC0v_ucfh0XRF1k9rGTNYZcbfL-wg51iio/edit).
+**WHO:** Women in Science, Engineering & Research
 
-The program will consist of several events, from an introoduction event in October, to a Certification event in March. To get to most up-to-date calendar, check the Eventbrite page. The program is aimed at underrepresented individuals, **anyone** can apply using the [eventbrite link](https://ua-wise-wiser-mentorship2020-2021.eventbrite.ca/)
+**WHEN:** Thursday, November 25, 2021 | Time: 5:30 - 8 pm MST, online
+
+**WHERE:** [Link to RSVP](https://www.eventbrite.ca/e/wiser-annual-industry-mixer-participant-registration-tickets-177638089307)
+
+**WHAT:** WiSER is hosting a Virtual Industry Mixer on November 25th, 5:30-8:00 pm MST. WiSER has registered over 20 companies at this event. If you are an undergraduate, graduate or early-career professional interested in exploring career paths at these companies, click the link below to register and attend this event!
+
+
+
 <br/>
 
-### 7) Hatch Info Session for Software Engineering
-
-**WHO:**  For the Software Engineering & Computer Scienc Students
-**WHEN:**  	Monday, October 5, 2020 @ 4:00 pm MST, Application due by Thursday October 1st, 2020 4:00 PM EST.
-**WHERE:** For details and to RSVP: [APPLY HERE](https://hatch.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hatch&service=6&rnd=0.7281881917381748&main_url=https%3A%2F%2Fhatch.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Dlandingfrommail%26%26%26EMK%3D4832534b0000000436d7c47785fd83cd40576804020d87fb67ca7644ba4abcbf07d281625ee4d01e%26siteurl%3Dhatch%26confViewID%3D169392733123783414%26encryptTicket%3DSDJTSwAAAASiGSFwof64qXgRz9bD8zb26SK0BlZxqS_H5eCJY5uE-A2%26email%3Dkiran.arif06%2540gmail.com)
-**WHAT:** Hatch is passionately committed to the pursuit of a better world through positive change. We embrace your visions as our own and partner with you to develop better ideas that are smarter, more efficient, and innovative. Our global network of 9,000 professionals work on the world’s toughest challenges. Our experience spans over 150 countries around the world in the metals, energy, infrastructure, digital, and investments market sectors.
-If you have any questions, please email campusnorthamerica@hatch.com
-<br/>
-
-### 8) NeuroNexus Design Competition
-
-**WHO:** Anyone interested hackathons and neuroscience
-**WHEN:** [See Complete Schedule Here](https://neuro-nexus.ca/events)
-          Ice breaker event: October 16th 2020 @ 5:00PM - 9:00PM\
-**WHERE:** [Apply Here](https://neuro-nexus.ca/apply-as-an-innovator)
-**WHAT:**  Neuro Nexus is a hackathon program designed to spark collaboration across disciplines and tackle complex challenges in brain science and mental health. The program connects experts in frontline, clinical, and academic practice with motivated, talented students to develop technological solutions
-over a fast-paced 6 week competition. This year, Neuro Nexus will facilitate 40+ projects across the province in their largest competition yet.
-
-To learn more, check out [their website](https://www.neuro-nexus.ca/)
-<br/>
-
-### 9) ComIT .NET Core Course
-
-**WHO:** Anyone interested in furthering their programming skillset 
-**WHERE:** [The ComIT website](http://www.comit.org/students)
-**WHAT:** ComIT is offering courses to students looking to take charge of their education. The programs offer 3-month part time courses for people looking to pursue a career in IT. The expected workload is about 8 hours per week, and will teach coding in various languages such as Java, React, .Net among others. It will also involve the often neglected soft skills. Students who graduate will recieve assistance in the job search. The course if covered by a scholarship, and will be offered free of charge. If this interests you, we encourage you to check out the [ComIT website](https://www.comit.org/).\
-<br/>
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter. If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)! Be sure to stop by the [ECE](https://discord.gg/zmz86Mg) and [CompE](https://discord.gg/mJ7JScQ) Discord to come say hi <3
+Thanks for reading this week's issue of the CompE weekly! Come grab some well-priced food from our club-room! If you have any news or an event you want featured in future editions, shoot me an email at [internal@compeclub.com](mailto:internal@compeclub.com)!
