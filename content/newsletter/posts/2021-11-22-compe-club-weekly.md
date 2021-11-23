@@ -11,7 +11,7 @@ date = "2021-11-08"
 [sidebar]
 align = "right"
 +++
-This here is this semester's ?th issue of the CompE Weekly! Check use out at our board game night!
+This here is this semester's ?th issue of the CompE Weekly! Check us out at our board game night!
 
 
 <br/>
@@ -48,7 +48,7 @@ SDE Intern/Co-op: [Link](https://www.amazon.jobs/en/jobs/1559866/software-develo
 
 **WHEN:** 5-9PM, December 3, 2021
 
-**WHERE:** ETLC Solarium, RSVP [Here](https://forms.gle/Kpn5UUqDqwq2kxHBA)
+**WHERE:** ETLC Solarium, RSVP [Here](https://forms.gle/Kpn5UUqDqwq2kxH8A)
 
 **WHAT:** Tired of studying all day long? Come to the Board Game Night to socialize and play some board games with friends! There are many board games provided at our event! You can also bring your own favorite board game to play!
 
