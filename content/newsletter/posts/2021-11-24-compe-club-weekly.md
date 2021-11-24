@@ -11,7 +11,7 @@ date = "2021-11-24"
 [sidebar]
 align = "right"
 +++
-This here is this semester's ?th issue of the CompE Weekly! Check us out at our board game night!
+This here is this semester's 103213th issue of the CompE Weekly! Check us out at our board game night next Friday!
 
 
 <br/>
