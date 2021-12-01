@@ -6,7 +6,7 @@ title = "CompE Club Weekly"
 title_align = "left"
 read_more = true
 display_date = true
-date = "2021-11-30"
+date = "2021-12-01"
 
 [sidebar]
 align = "right"
