@@ -35,7 +35,7 @@ This here is this semester's 13th issue of the CompE Weekly! We've faced a numbe
 
 **WHAT:** We've begun our merch pre-sales - purchase them at the link above! This year, we're going with a number of fantastic designs all viewable at our Instagram page (@compeclub).
 
-Early Birds receive a discounted price of $35!
+Early Birds receive a discounted price of $35! Payment of $35/hoodie can be made at the CompE club @MechE building 5th floor, which we'd prefer in cash! 
 
 UPDATE: We've recently faced a number of issues in setting up our merch, and have changed our designs. Previous disconsider the previous newsletter link on this topic.
 
