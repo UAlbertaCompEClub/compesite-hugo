@@ -1,7 +1,7 @@
 +++
 fragment = "content"
 #disabled = true
-date = "2019-11-22"
+date = "2022-03-13"
 weight = 310 
 #background = ""
 
@@ -14,11 +14,9 @@ If you have any questions or you just want to hang out, come drop the club room!
 
 #### Club Room Location
 
-Engineering Teaching and Learning Center
-ETLC 2-040M (first right in clubs hallway)
-116 St NW
+Mechanical Engineering Building, 5th Floor
 Edmonton, AB, Canada
-T6G 2V4
+T6G 2G8
 <br/>
 
 #### Executives Contact Information
