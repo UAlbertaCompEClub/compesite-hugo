@@ -11,111 +11,117 @@ date = "2022-03-29"
 [sidebar]
 align = "right"
 +++
-<!--StartFragment-->
-
-It's about a month into classes and I hope that all of you are doing well in your studies! If this is not challenging enough for you, don't worry, we got you!!! Check out these events coming up soon!
-
-<!--EndFragment-->
-<br/>
-
-### Highlights:
-
-* CompE 2020/2021 Junior Executive Election Results
-* Call for Mentors
-* ECE Trivia Night
-* AI4Society online sessions
-* UofA CompE Club x McGill BOLT Virtual bootcamp
-* UA-WISE/WISER Mentorship Program
-* Hatch Info Session for Software Engineering
-* NeuroNexus Design Competition
-* ComIT .NET Core Course
-  <br/>
-
-### 1) CompE 2020/2021 Junior Executives Election Results
-
-**WHAT:**  The Computer Engineering Club is held it's AGM last Friday. During the AGM there was election for the 2020/2021 Junior Executives. Now here are your new junior executives for term 2020/2021.
-* 2nd Year Rep: Justin Mikhail & Yi Meng Wang
-* 3rd Year Rep: Josh Wutzke
-* Marketing Rep: Noah Batiuk
-* Merch Rep: Abhishek Solanki
-* PR/GEER Week Rep: Muhammad Fiaz & Kashish Mittal
-
-Thank you to everyone who came out to the AGM, we appreciate you, and we hope that's evident with our work throughout the school year :) 
+This is it folks, we've come to the point of no return - I've been given enough content to actually write something useful. We've got quite a bit coming up in this issue, look forward to this one!
 
 <br/>
 
-### 2) Call for Mentors
+### Highlights
 
-**WHO:** Anyone in who wants to help mentor
-**WHERE:** [Sign Up Form](https://forms.gle/PY2aNye7K1FjUzwT7)
-**WHAT:** There have been a lot of applicants for people who would like to be mentored, which is good to see. However, this means we need more mentors to help ensure nobody is over-burdened. This is a great resume builder, as well as a chance to share your knowledge, experience, and advice with this incoming group of first and second year students, especially when many of our usual interactions are gone due to remote learning. Here is the link to the [sign up form](https://forms.gle/PY2aNye7K1FjUzwT7), and feel free to share this with friends or anyone you know who may be interested. 
+* **CompE Club Winter AGM 2022 Announced!!!!!**
+* **Google Build for Everyone**
+* **PickHacks 2022**
+* **HiCounselor Virtual Job Fair**
+* **Venture for Canada’s Internship Program**
+
 <br/>
 
-### 3) ECE Trivia Night
+### 1)  CompE Club Winter AGM 2022
 
-**WHO:** Anyone in ECE who likes trivia and/or prizes
-**WHEN:**  Thursday September 24th @ 6PM-7PM MST
-**WHERE:** [ECE Discord](https://discord.gg/zmz86Mg)
-**WHAT:** Do you know things? Do you want to win prizes for knowing said things? Do you want to chill with some ECE peeps? All that and more next Thursday on the ECE Discord. Flex that knowledge and come have a good time. 
+**WHO:** All CompE students
+
+**WHEN:** The event is on Friday, April 1, from 5-7PM MST!
+
+**WHERE:** Hybrid: ETLC L1-008 or CompE Club Discord Server
+
+**WHAT:**
+👉 Hey you! 👈 
+👉 Yeah you! 👈
+👉 Here's the info on our long-awaited AGM! 👈
+
+CompE Club is excited to announce that this year we're hosting our Winter AGM in a hybrid format: both in-person at ETLC L1-008 and online on our [discord server](https://discord.gg/tE47Fwp7Tj)!! (AKA THIS IS THE HINT FOR PIZZA🍕). It will be hosted this Friday, April 1, from 5-7PM!! This is an amazing opportunity to make CompE friends and meet both lower and upper years (they might even be life-long friends too, who knows). 
+
+We have multiple senior roles open for this year: President, VP Social, VP Internal, VP External, VP Finance!
+
+All Students: If you would like to attend the AGM in-person (and get some🍕), RSVP with this [Google Form](https://forms.gle/Xbid7X9w34rx23u3A).
+
+Candidates: If you would like to run for a position, declare your candidacy with this [Google Form](https://forms.gle/1dXejZyHN79Qsb2K6), which will be closing this Thursday at 12AM.
+
+We'll see you there then!! 😌 🤩 😎 
+
+
+
 <br/>
 
-### 4) AI4Society online sessions
+### 2)  Google Build for Everyone
 
-**WHO:**  For post-secondary students
-**WHEN:**  Friday, September 25th 9:00 to 10:00 am: Introduction \\
-           Friday, September 25th 3:00 to 4:15 pm: Our University, Our Work: Artificial Intelligence Around Campus
-**WHERE:** [Instroduction](https://ualberta-ca.zoom.us/webinar/register/WN_1e_nPEsRQrigG5A7WJhgFQ) and [Webinar](https://ualberta-ca.zoom.us/webinar/register/WN_qVSU57CTTvCiVfTFGktdTA)
-**WHAT:**  AI4Society is hosting two webinar sessions on September 25th
-Come and discover AI4Society, UofA's newest Signature Research Area on artificial intelligence and its applications. We are hosting two online events on September 25th, one to introduce AI4Society and collaboratories, and another to feature research on artificial intelligence and machine learning around campus.
+**WHEN:**
+Information Session: Tue, April 5, 12:30 pm - 1:30 pm MDT
+Office Hours I: April 8, 12:00 pm - 1:00 pm
+Office Hours II: April 8, 5:00 pm - 6:00 pm
+
+**WHERE:** [Link to RSVP](https://forms.gle/FsaCYtPXaTsLcPGF8)
+
+**WHAT:** There are two opportunities provided in this entry!
+
+Info Session: Meet virtually with Googlers to discover more about our culture and teams, hear about our internships and full time opportunities, and learn tips on updating your resume and preparing for technical interviews. See additional events at the following [link](https://careersonair.withgoogle.com/).
+
+Office Hours: Spend some time with a Googler to ask questions. You'll receive a Calendar invite and Google Meet information after you RSVP.
+
+
+
 <br/>
 
-### 5) UofA CompE Club x McGill BOLT Virtual bootcamp
+### 3)  PickHacks 2022
 
-**WHO:**  Teams of 4-5 University Students, preferably with programming experience
-**WHEN:**  Saturday, September 26, 2020 ~ Saturday October 3rd, 2020, Application due by Wednesday Sept 23rd @ 11:59PM EST
-**WHERE:** [APPLY HERE](https://form.jotform.com/202404773062044)
-**WHAT:**  The Evolution of Education from Sept 26 - Oct 3! A unique combination of a hackathon and a case competition, the event brings together Canadian management and STEM students to developing innovative education technology solutions. With just one week’s time commitment, students will learn about design thinking, power applications, product management and UI/UX design through workshops, and develop an impactful project to pitch to renowned corporate sponsors. There will also be a participant-exclusive networking session with recruiters from top tech firms. [FB EVENT LINK](https://www.facebook.com/events/623935691654410/)
-University students from ALL across Canada and supported by Microsoft, Google, Agorize, MTL CoWork, HP, Duolingo, Korbit AI, etc. Apply individually or in teams of 4-5 students. Each team must include at least one business student and one STEM student. While not required, it is highly encouraged that at least one team member has programming knowledge.
+**WHEN:** Register before 8am on April 7th! The event is hosted from April 8-10th.
+
+**WHERE:** Virtually
+
+**WHAT:** We're proud to present PickHacks 2022, the annual hackathon brought to you by Missouri University of Science & Technology, which will take place the weekend of April 8-10th! PickHacks is a virtual format 36-hour hackathon intended to encourage anyone passionate about tech to live our core tenets: Build, Grow, and Learn! This year, PickHacks features some awesome swag, fantastic speakers, and the best networking opportunities around.
+
+Interested in participating? Register at our [website](https://pickhacks.io/) or apply directly at this [link](https://forms.gle/ceaSGhLmni3JW5WA7) by 8am on April 7th and reach out with any questions to msthackathon@umsystem.edu. We can't wait to see you!
+
+
+
 <br/>
 
-### 6) UA-WISE/WISEWR Mentorship Program
+### 4)  HiCounselor Virtual Job Fair
 
-**WHO:** Undergrads, Grads, or people with less than 5 years professional experience
-**WHEN:** Application deadline: September 30th 2020
-**WHERE:** [Apply Here](https://ua-wise-wiser-mentorship2020-2021.eventbrite.ca/)
-**WHAT:**  UA-WiSE (Women in Science & Engineering) and WISER (Women in Science, Engineering, & Research) are hosting a mentorship program for undergraduate and graduate students. Our program aims to connect underrepresented individuals with mentors who can help to foster professional development and personal discovery. Our program consists of a unique trio format and 3 virtual events. The trio consists of an undergraduate, early career professional / graduate, and experienced mentor. This year applicants will get to tell us exactly which mentors they would be interested in. Check out all of the mentor bios [here](https://docs.google.com/document/d/1bkUkxlkQyFC0v_ucfh0XRF1k9rGTNYZcbfL-wg51iio/edit).
+**WHEN:** 28th April 2022 at 2PM ET
 
-The program will consist of several events, from an introoduction event in October, to a Certification event in March. To get to most up-to-date calendar, check the Eventbrite page. The program is aimed at underrepresented individuals, **anyone** can apply using the [eventbrite link](https://ua-wise-wiser-mentorship2020-2021.eventbrite.ca/)
+**WHERE:** Virtually
+
+**WHAT:** After the resounding success of our February job fair, where over 8,000 job seekers networked with more than 35 tech companies, we are hosting the third iteration of the Virtual Job Fair on 28th April 2022 at 2 PM ET.
+
+At the job fair, recruiters and hiring managers from top tech companies will be hiring for diverse job roles including software engineering, data science, product management, sales, and many more. If you are looking for a job, I would highly recommend you to attend this event live on LinkedIn. It is absolutely free for job seekers.
+
+Employers’ participation in our previous job fairs includes top tech companies like Google, Reddit, Formlabs, Amdocs, Backblaze, Task Rabbit, IBM, eBay, ByteDance/TikTok, Dashlane, Yipit Data, PlayVs, and many others.
+
+Click [here](https://www.linkedin.com/video/event/urn:li:ugcPost:6907553423521382400/) to register on LinkedIn.
+Looking forward to seeing you there.
+
+
+
 <br/>
 
-### 7) Hatch Info Session for Software Engineering
+### 5)  Venture for Canada’s Internship Program
 
-**WHO:**  For the Software Engineering & Computer Scienc Students
-**WHEN:**  	Monday, October 5, 2020 @ 4:00 pm MST, Application due by Thursday October 1st, 2020 4:00 PM EST.
-**WHERE:** For details and to RSVP: [APPLY HERE](https://hatch.webex.com/mw3300/mywebex/default.do?nomenu=true&siteurl=hatch&service=6&rnd=0.7281881917381748&main_url=https%3A%2F%2Fhatch.webex.com%2Fec3300%2Feventcenter%2Fevent%2FeventAction.do%3FtheAction%3Dlandingfrommail%26%26%26EMK%3D4832534b0000000436d7c47785fd83cd40576804020d87fb67ca7644ba4abcbf07d281625ee4d01e%26siteurl%3Dhatch%26confViewID%3D169392733123783414%26encryptTicket%3DSDJTSwAAAASiGSFwof64qXgRz9bD8zb26SK0BlZxqS_H5eCJY5uE-A2%26email%3Dkiran.arif06%2540gmail.com)
-**WHAT:** Hatch is passionately committed to the pursuit of a better world through positive change. We embrace your visions as our own and partner with you to develop better ideas that are smarter, more efficient, and innovative. Our global network of 9,000 professionals work on the world’s toughest challenges. Our experience spans over 150 countries around the world in the metals, energy, infrastructure, digital, and investments market sectors.
-If you have any questions, please email campusnorthamerica@hatch.com
-<br/>
+**WHEN:** Student Application is due by April 1, 2022 (no, not an April Fool's joke 😉)
 
-### 8) NeuroNexus Design Competition
+**WHERE:** Apply at the following [link](https://20181219170640_dwkonvne4oo2mopl.applytojob.com/apply/suz8fEab7O/Internship-Application-Venture-For-Canada)
 
-**WHO:** Anyone interested hackathons and neuroscience
-**WHEN:** [See Complete Schedule Here](https://neuro-nexus.ca/events)
-          Ice breaker event: October 16th 2020 @ 5:00PM - 9:00PM\
-**WHERE:** [Apply Here](https://neuro-nexus.ca/apply-as-an-innovator)
-**WHAT:**  Neuro Nexus is a hackathon program designed to spark collaboration across disciplines and tackle complex challenges in brain science and mental health. The program connects experts in frontline, clinical, and academic practice with motivated, talented students to develop technological solutions
-over a fast-paced 6 week competition. This year, Neuro Nexus will facilitate 40+ projects across the province in their largest competition yet.
+**WHAT:** We are now accepting applications for Summer 2022 internships. Apply to Qualify for Venture for Canada Internship Funding!
 
-To learn more, check out [their website](https://www.neuro-nexus.ca/)
-<br/>
+Experience Startup culture and get paid for it. Learning more about yourself with a boost from VFC's training will grow your opportunities when you graduate. Venture for Canada provides a job board where you can apply to positions with Partner Employers looking to hire eager student talent.
 
-### 9) ComIT .NET Core Course
+If you're seeking an internship: we review your resume and your suitability for an internship with a VFC employer. You may receive access to our exclusive job board right away, or we might ask you to make some updates to your resume first. You are not guaranteed a job offer from our board.
 
-**WHO:** Anyone interested in furthering their programming skillset 
-**WHERE:** [The ComIT website](http://www.comit.org/students)
-**WHAT:** ComIT is offering courses to students looking to take charge of their education. The programs offer 3-month part time courses for people looking to pursue a career in IT. The expected workload is about 8 hours per week, and will teach coding in various languages such as Java, React, .Net among others. It will also involve the often neglected soft skills. Students who graduate will recieve assistance in the job search. The course if covered by a scholarship, and will be offered free of charge. If this interests you, we encourage you to check out the [ComIT website](https://www.comit.org/).\
+If you have a pending job offer: we review your application and invite you to a short webinar to confirm you're eligible to receive our funding, and that you're the right candidate for an internship with a VFC employer. You are not guaranteed acceptance just because you have an offer.
+
+
+
 <br/>
 
 ### Signing Off...
 
-Thanks for reading this week's edition of the CompE Club Newsletter. If you have any news or an event you want featured in future editions, contact us at [internal@compeclub.com](mailto:internal@compeclub.com)! Be sure to stop by the [ECE](https://discord.gg/zmz86Mg) and [CompE](https://discord.gg/mJ7JScQ) Discord to come say hi <3
+Thanks for reading this week's issue of the CompE weekly! We'd love to see you at our AGM this Friday. If you haven't done so already, join our discord server at the following [link](https://discord.gg/tE47Fwp7Tj)!
