@@ -17,7 +17,7 @@ This is it folks, we've come to the point of no return - I've been given enough 
 
 ### Highlights
 
-* **CompE Club Winter AGM 2022 Announced!!!!!**
+* **CompE Club Winter AGM 2022 this Friday!**
 * **Google Build for Everyone**
 * **PickHacks 2022**
 * **HiCounselor Virtual Job Fair**
