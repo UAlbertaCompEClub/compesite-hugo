@@ -34,9 +34,9 @@ This is it folks, we've come to the point of no return - I've been given enough 
 **WHERE:** Hybrid: ETLC L1-008 or CompE Club Discord Server
 
 **WHAT:**
-👉 Hey you! 👈 
-👉 Yeah you! 👈
-👉 Here's the info on our long-awaited AGM! 👈
+👉 Hey you! 👈 <br/>
+👉 Yeah you! 👈 <br/>
+👉 Here's the info on our long-awaited AGM! 👈 <br/>
 
 CompE Club is excited to announce that this year we're hosting our Winter AGM in a hybrid format: both in-person at ETLC L1-008 and online on our [discord server](https://discord.gg/tE47Fwp7Tj)!! (AKA THIS IS THE HINT FOR PIZZA🍕). It will be hosted this Friday, April 1, from 5-7PM!! This is an amazing opportunity to make CompE friends and meet both lower and upper years (they might even be life-long friends too, who knows). 
 
@@ -55,9 +55,9 @@ We'll see you there then!! 😌 🤩 😎
 ### 2)  Google Build for Everyone
 
 **WHEN:**
-Information Session: Tue, April 5, 12:30 pm - 1:30 pm MDT
-Office Hours I: April 8, 12:00 pm - 1:00 pm
-Office Hours II: April 8, 5:00 pm - 6:00 pm
+Information Session: Tue, April 5, 12:30 pm - 1:30 pm MDT <br/>
+Office Hours I: April 8, 12:00 pm - 1:00 pm <br/>
+Office Hours II: April 8, 5:00 pm - 6:00 pm <br/>
 
 **WHERE:** [Link to RSVP](https://forms.gle/FsaCYtPXaTsLcPGF8)
 
