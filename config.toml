@@ -80,11 +80,6 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 30
 
 [[menu.main]]
-  url = "/newsletter"
-  name = "Newsletter"
-  weight = 40
-
-[[menu.main]]
   url = "https://compeclub.square.site"
   name = "Merch"
   weight = 50
