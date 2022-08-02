@@ -17,4 +17,4 @@ title = "ECE Grad Banquet"
 +++
 Celebrate your freedom with your friends and classmates in the ECE Department! Listen to speeches by alumni and faculty! Drink and dance the night away! Play with costumes at our photobooth! 
 
-Proudly co-hosted with [Electrical Engineering Club](https://eeclubuofa.wordpress.com/) and [Engineering Physics Club](https://engphys.ca/)!
+Proudly co-hosted with [Electrical Engineering Club](https://www.eeclub.ca/) and [Engineering Physics Club](https://engphys.ca/)!
