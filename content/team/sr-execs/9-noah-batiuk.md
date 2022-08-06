@@ -4,5 +4,5 @@ position = "VP Co-Finance"
 weight = 90
 
 [asset]
-image = "execs/default-photo.png"
+image = "execs/noah-batiuk.jpg"
 +++
