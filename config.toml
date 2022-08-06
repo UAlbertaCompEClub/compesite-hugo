@@ -75,16 +75,6 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20 
 
 [[menu.main]]
-  url = "/calendar"
-  name = "Event Calendar"
-  weight = 30
-
-[[menu.main]]
-  url = "https://compeclub.square.site"
-  name = "Merch"
-  weight = 50
-
-[[menu.main]]
   url = "/team"
   name = "Our Team"
   weight = 60
