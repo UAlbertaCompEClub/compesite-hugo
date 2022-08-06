@@ -1,37 +1,37 @@
 [
     {
-        "name": "Yi Meng Wang",
-        "position": "2nd Year Rep",
-        "image": "execs/yimeng-wang.jpg"
-    },
-    {
-        "name": "Justin Mikhail",
+        "name": "Jacob Feng",
         "position": "2nd Year Rep",
         "image": "execs/default-photo.png"
     },
     {
-        "name": "Josh Wutzke",
-        "position": "3nd Year Rep",
-        "image": "execs/josh-wutzke.jpg"
+        "name": "TBD",
+        "position": "3rd Year Rep",
+        "image": "execs/default-photo.png"
     },
     {
-        "name": "Noah Batiuk",
+        "name": "TBD",
         "position": "Marketing Rep",
-        "image": "execs/noah-batiuk.jpg"
+        "image": "execs/default-photo.png"
     },
     {
-        "name": "Abhishek Solanki",
+        "name": "TBD",
         "position":  "Merchandise Rep",
-        "image": "execs/abhishek-solanki.jpg"
+        "image": "execs/default-photo.png"
     },
     {
-        "name": "Kashish Mittal",
+        "name": "Sami Jagirdar",
         "position" : "PR/GEER Week Rep",
-        "image": "execs/kashish-mittal.jpg"
+        "image": "execs/default-photo.png"
     },
     {
-        "name": "Muhammad Fiaz",
-        "position":  "PR/Geer Week Rep",
-        "image":  "execs/muhamamd-fiaz.jpg"
+      "name": "Andrew Wood",
+      "position" : "Grad Rep",
+      "image": "execs/default-photo.png"
+    },
+    {
+        "name": "Kevin Huang",
+        "position":  "Office/Stock Rep",
+        "image":  "execs/default-photo.png"
     }
 ]

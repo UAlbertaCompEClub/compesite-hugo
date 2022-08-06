@@ -1,42 +1,52 @@
 [
     {
-        "name": "Archit Siby",
-        "position": "VP External (Fall)",
-        "image": "execs/default"
-    },
-    {
         "name": "Muhammad Fiaz",
-        "position": "President",
+        "position": "Co-President",
         "image": "execs/muhammad-fiaz.jpg"
     },
     {
-        "name": "Samuel Lojpur",
-        "position": "AVP Hackathon",
-        "image": "execs/samuel-lojpur.jpg"
+      "name": "Yi Meng Wang",
+      "position": "Co-President",
+      "image": "execs/yimeng-wang.jpg"
     },
     {
-        "name": "Seyed Sajjad Daneshmand",
-        "position": "VP Finance",
-        "image": "execs/seyed-daneshmand.jpg"
-    },
-    {
-        "name": "Juyoung Kim",
+        "name": "Castor Shem",
         "position": "VP Internal",
-        "image": "execs/juyoung-kim.jpg"
+        "image": "execs/default-photo.png"
     },
     {
-        "name": "Archit Siby",
-        "position": "VP External (Fall)",
-        "image": "execs/archit-siby.jpg"
+        "name": "Ethan Franz",
+        "position": "VP Co-Finance",
+        "image": "execs/default-photo.png"
     },
     {
-      "name": "Rafaella Graña",
-      "position": "VP Social",
-      "image": "execs/rafaella-grana.jpg"
+        "name": "Noah Batiuk",
+        "position": "VP Co-Finance",
+        "image": "execs/default-photo.png"
     },
     {
-      "name": "Justin Mackenzie",
-      "position": "VP Social",
-      "image":  "execs/justin-mackenzie.jpg"
+        "name": "Rachel Ellis",
+        "position": "VP Co-External",
+        "image": "execs/default-photo.png"
+    },
+    {
+      "name": "Anushka Khare",
+      "position": "VP Co-External",
+      "image": "execs/default-photo.png"
+    },
+    {
+      "name": "Arjun Mehta",
+      "position": "VP Co-Social",
+      "image":  "execs/default-photo.png"
+    },
+    {
+      "name": "Gurbir Sandha",
+      "position": "VP Co-Social",
+      "image":  "execs/default-photo.png"
+    },
+    {
+      "name": "Eric Khumbata",
+      "position": "AVP Hackathon",
+      "image":  "execs/default-photo.png"
     }
 ]
