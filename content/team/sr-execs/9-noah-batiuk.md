@@ -1,7 +1,7 @@
 +++
 title = "Noah Batiuk"
-position = "Marketing Rep"
-weight = 40
+position = "VP Co-Finance"
+weight = 90
 
 [asset]
 image = "execs/noah-batiuk.jpg"

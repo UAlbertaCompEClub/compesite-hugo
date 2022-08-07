@@ -1,6 +1,6 @@
 +++
-title = "Justin Mikhail"
-position = "2nd Year Rep"
+title = "Sami Jagirdar"
+position = "PR/GEER Week Rep"
 weight = 20
 
 [asset]

@@ -1,7 +1,7 @@
 +++
 title = "Yi Meng Wang"
-position = "2nd Year Rep"
-weight = 10
+position = "Co-President"
+weight = 20
 
 [asset]
 image = "execs/yimeng-wang.jpg"
