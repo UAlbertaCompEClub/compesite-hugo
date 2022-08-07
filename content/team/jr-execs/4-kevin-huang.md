@@ -1,6 +1,6 @@
 +++
-title = "TBD"
-position = "Merchandise Rep"
+title = "Kevin Huang"
+position = "Office/Stock Rep"
 weight = 40
 
 [asset]
