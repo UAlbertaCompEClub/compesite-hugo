@@ -9,7 +9,7 @@ weight = 310
 #subtitle = ""
 +++
 
-If you have any questions or you just want to hang out, come drop the club room! You can find the club room in the clubs hallway to the right of the GEER store. We are the first room on the right!
+If you have any questions or you just want to hang out, come drop the club room! You can find the club room on the 5th floor of the Mechanical Engineering Building! You can also access the building from the pedway behind the Elko Engineering Garage.
 <br/>
 
 #### Club Room Location
