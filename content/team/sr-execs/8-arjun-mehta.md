@@ -1,6 +1,6 @@
 +++
-title = "Undetermined"
-position = "Merchandise Rep"
+title = "Arjun Mehta"
+position = "VP Social"
 weight = 50
 
 [asset]

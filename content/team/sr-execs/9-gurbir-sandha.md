@@ -1,6 +1,6 @@
 +++
-title = "Undetermined"
-position = "PR/GEER Week Rep"
+title = "Gurbir Sandha"
+position = "VP Social"
 weight = 60
 
 [asset]

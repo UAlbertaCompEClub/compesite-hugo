@@ -1,6 +1,6 @@
 +++
-title = "Undetermined"
-position = "2nd Year Rep"
+title = "Ethan Franz"
+position = "VP Finance"
 weight = 20
 
 [asset]

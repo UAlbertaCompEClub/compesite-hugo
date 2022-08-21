@@ -1,6 +1,6 @@
 +++
-title = "Undetermined"
-position = "Marketing Rep"
+title = "Rachel Ellis"
+position = "VP External"
 weight = 40
 
 [asset]

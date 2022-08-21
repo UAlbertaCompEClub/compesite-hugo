@@ -1,6 +1,6 @@
 +++
-title = "Undetermined"
-position = "2nd Year Rep"
+title = "Noah Batiuk"
+position = "VP Finance"
 weight = 20
 
 [asset]
