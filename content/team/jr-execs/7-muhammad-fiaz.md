@@ -1,8 +1,8 @@
 +++
-title = "Muhammad Fiaz"
+title = "Undetermined"
 position = "PR/Geer Week Rep"
 weight = 70
 
 [asset]
-image = "execs/muhamamd-fiaz.jpg"
+image = "execs/default-photo.png"
 +++

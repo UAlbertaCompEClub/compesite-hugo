@@ -1,9 +1,9 @@
 +++
-title = "Juyoung Kim"
+title = "Castor Shem"
 position = "VP Internal"
 weight = 30
 
 [asset]
-image = "execs/juyoung-kim.jpg"
+image = "execs/castor-shem.jpg"
 +++
 

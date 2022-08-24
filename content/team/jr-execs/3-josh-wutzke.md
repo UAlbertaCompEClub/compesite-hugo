@@ -1,8 +1,8 @@
 +++
-title = "Josh Wutzke"
+title = "Undetermined"
 position = "3rd Year Rep"
 weight = 30
 
 [asset]
-image = "execs/josh-wutzke.jpg"
+image = "execs/default-photo.png"
 +++
