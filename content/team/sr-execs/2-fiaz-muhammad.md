@@ -4,5 +4,5 @@ position = "President"
 weight = 10
 
 [asset]
-image = "execs/muhamamd-fiaz.jpg"
+image = "execs/muhammad-fiaz.jpg"
 +++

@@ -4,5 +4,5 @@ position = "VP Social"
 weight = 50
 
 [asset]
-image = "execs/default-photo.png"
+image = "execs/arjun-mehta.jpg"
 +++

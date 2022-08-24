@@ -4,5 +4,5 @@ position = "VP Finance"
 weight = 20
 
 [asset]
-image = "execs/default-photo.png"
+image = "execs/noah-batiuk.jpg"
 +++

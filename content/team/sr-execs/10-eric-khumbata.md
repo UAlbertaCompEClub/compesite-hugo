@@ -4,5 +4,5 @@ position = "AVP Hackathon"
 weight = 70
 
 [asset]
-image = "execs/default-photo.png"
+image = "execs/eric-khumbata.jpg"
 +++

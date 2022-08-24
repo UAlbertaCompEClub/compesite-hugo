@@ -4,5 +4,5 @@ position = "VP Social"
 weight = 60
 
 [asset]
-image = "execs/default-photo.png"
+image = "execs/gurbir-sandha.jpg"
 +++

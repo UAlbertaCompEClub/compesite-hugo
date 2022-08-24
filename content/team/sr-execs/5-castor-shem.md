@@ -4,6 +4,6 @@ position = "VP Internal"
 weight = 30
 
 [asset]
-image = "execs/default-photo.png"
+image = "execs/castor-shem.jpg"
 +++
 
